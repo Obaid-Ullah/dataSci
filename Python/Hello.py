@@ -1,0 +1,6 @@
+print('Python Tutorial 7')
+print('HelloWOrld')
+print('escape sequences \n line1 \n line2')
+print('I\'m ObaidUllah')
+print('name\tObaid')
+print('name\b  obaid')
