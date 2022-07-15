@@ -1,0 +1,30 @@
+Data set 2
+Collecting data for course...
+Plotting data for course
+Please fill this honestly
+> gender
+> location
+> Age
+> Qualification completed
+> Field of study(biology,computer science, math,statistics,SE,natural sciences,all engineering,business,others)
+> purpose of learning()
+> Working experience/research(float,integer number)
+> Age(float/integer value)
+> What are you? (student/employee/un employeed)
+> location longitude
+> location latitude
+> blood group
+> which mobile sim/network you use.
+> which PC are you using? (laptop, desktop, university systems) 
+> Prepaid or Postpaid
+> weight(float) kg
+> Height(float) cm
+> Do you wear glasses?
+> Marital Status(yes/no)
+> How many hours you code a day? e.g:5.4.3
+> Are you Vaccinated?
+> Loadshadding in your area? (int value)
+> Where do you live? Urban/Rural
+
+=========Assignment==========
+what is facet wrap and facet grid?

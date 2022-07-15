@@ -1,0 +1,18 @@
+1- Google form...
+   Generated and sent for response...
+-------------
+2-Commands to import csv file
+  >install pandas library>pip install pandas(as we installed Seaborn pandas will automaticallt insatlled)
+  >file>open folder in which you have csv file
+  >create py file with same name
+  > raw data.
+
+=======Query====== 
+
+#import library
+import pandas as pd
+#import data from csv
+df = pd.read_csv/excel('filename.csv')
+print(df)
+#----we have to remove spaces from csv file/currently use data with
+already generated graph code
