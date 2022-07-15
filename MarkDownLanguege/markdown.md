@@ -10,7 +10,9 @@
 [9-Figure Links](#9--images-and-figures-with-link)\
 [10-Adding Code line/blocks](#10-adding-code-or-code-block)\
 [11-Tables](#11--adding-table)\
-[12-Extensions](#12--install-extensions)
+[12-Extensions](#12--install-extensions)\
+[13-How To Color Our Text](#13--how-color-our-text)\
+[14-Mathematical Equations](#14--how-to-add-mathematical-equations)
 
 # 1-Headings
 How To give headings in markdown files?
@@ -137,5 +139,30 @@ z = x+y
 - Markdown PDF
 - Markdown Shortcuts
 - vscode-pdf
+# 13- How Color our Text
+To change text color we will use 
+```<span style='Color:color_name'> Your Text.</span>```, 
+and put your text between these **span** quotes.
 
+<span style="color:yellow">This is Yellow.
+</span>
+
+# 14- How to add Mathematical Equations.
+> this is inline
+$this_{is}^{inline}$
+
+> to add a block of equation we will use  ``$$  $$``` sign and put our equation with these dollar signs.
+****
+```
+$$
+\int_0^\infty\frac{x^3}{e^x-1}\,dx
+=\frac{\pi^4}{15}
+$$ 
+```
+
+
+$$
+\int_0^\infty\frac{x^3}{e^x-1}\,dx
+=\frac{\pi^4}{15}
+$$
 [Go To Start](#list-of-content)
