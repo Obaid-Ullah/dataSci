@@ -1,0 +1,602 @@
+Name,gender,age-group,edu_lvl,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19
+Itba Zahid,Female,16-20,College,1,0,0,0,1,2,0,0,2,2,2,1,2,1,2,2,1,1,0
+Ayesha Iftikhar,Female,16-20,College,1,0,0,1,0,0,1,0,2,0,0,0,2,1,1,0,0,0,0
+Faiqa Niyamat,Female,16-20,College,1,0,0,1,0,0,0,0,2,0,1,1,0,1,2,2,0,1,0
+Ishal Fatima,Female,16-20,College,1,0,1,1,0,0,0,1,2,0,0,1,2,1,0,2,0,1,0
+Aqsa Imran,Female,16-20,College,0,0,0,0,1,0,1,1,2,1,0,0,2,1,1,0,0,0,0
+Sunain Asim,Female,16-20,College,1,0,0,1,0,0,0,0,2,0,1,1,2,1,2,2,0,1,0
+Ameera Umer,Female,16-20,College,0,0,0,1,0,0,0,0,2,0,0,1,2,1,2,2,0,1,0
+Areeba Akhtar,Female,16-20,College,1,0,1,0,1,1,0,2,2,2,2,1,2,1,0,1,0,0,0
+Subhan Ali,Male,16-20,College,0,0,0,1,0,0,0,0,2,0,0,1,0,1,2,2,0,1,0
+Hadi Islam,Male,16-20,College,0,0,0,1,0,0,0,2,2,0,0,1,2,1,0,2,0,1,0
+Saqlain Hassan,Male,16-20,College,1,0,0,0,1,2,1,2,2,1,1,0,2,1,1,0,0,0,0
+Ali Ahmed,Male,16-20,College,1,0,0,1,0,0,0,0,2,0,2,1,2,1,2,2,0,1,0
+Shayan Ahmed,Male,16-20,College,0,0,0,1,0,0,0,0,2,0,0,1,2,1,0,2,0,1,0
+Haziq Hameed,Male,16-20,School,1,0,0,2,2,0,0,0,2,2,2,1,0,1,0,1,0,1,0
+Hassan Iftikhar,Male,16-20,College,0,0,0,1,0,0,0,0,2,0,0,1,2,1,2,2,0,1,0
+Shamsul hussain,Male,16-20,School,1,0,0,1,0,0,0,0,2,0,2,1,2,1,2,2,0,0,0
+Hasseba,Female,16-20,School,1,0,0,1,2,1,1,0,0,0,0,1,1,0,0,1,0,1,1
+Muqaddas ,Female,16-20,School,1,1,1,1,0,1,1,0,1,1,0,1,1,1,0,1,1,1,1
+Zoha,Female,16-20,College,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0,1,1,1,0
+Maryam,Female,16-20,College,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0,1,1,0,0
+Faiqa,Female,16-20,College,1,1,1,2,1,1,1,1,0,1,1,1,1,1,1,0,1,2,1
+Hooria,Female,16-20,School,0,2,2,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,1
+Natasha,Female,16-20,College,2,0,0,1,1,0,1,1,1,0,1,0,0,0,1,1,0,2,0
+Abdulrehman,Male,16-20,School,1,1,0,2,2,1,1,1,1,0,0,1,0,0,0,0,1,2,0
+Haris,Male,16-20,University,1,1,1,1,1,0,0,0,1,1,1,2,2,0,1,0,0,1,2
+Ali,Male,16-20,College,0,1,0,1,0,0,0,0,0,1,1,0,1,1,0,2,0,1,0
+Zafar,Male,16-20,School,0,0,1,0,0,1,2,2,0,0,0,1,0,1,1,1,1,0,1
+Saad,Male,16-20,School,0,0,0,2,1,2,1,0,1,1,0,1,1,0,1,1,0,0,1
+Basit,Male,16-20,College,2,1,2,2,0,0,1,1,1,0,2,0,1,1,0,2,1,0,1
+Awais,Male,16-20,University,2,1,1,0,0,1,0,1,1,1,2,0,0,1,2,1,1,1,0
+Usama,Male,16-20,College,1,1,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,1
+Zara,Female ,16-20,College,0,1,0,1,1,0,1,2,0,0,0,1,0,1,0,1,0,0,1
+kashaf Tariq,Female,16-20,University,1,1,1,0,1,1,0,0,1,1,1,0,0,1,0,1,1,0,1
+Alisha,Female,16-20,University,1,2,1,0,1,1,0,0,0,2,1,0,1,0,0,2,2,0,1
+Jaweria Nadeem,Female,16-20,College,1,0,1,0,1,0,1,1,1,0,0,1,0,1,1,0,0,0,1
+Raheed Zaheer,Female,16-20,Job,1,0,2,0,2,1,0,2,1,0,1,1,2,1,0,0,2,1,2
+Amna Maqbool,Female,16-20,University,1,0,1,0,0,0,0,0,1,0,0,1,0,1,1,1,0,1,0
+Gullafshan Akhtar,Female,16-20,College,1,0,2,1,0,1,0,1,1,0,0,1,2,2,0,2,2,0,0
+Hifza ,Female,16-20,College,0,1,0,1,0,1,1,1,2,1,0,1,0,0,1,1,0,1,1
+Eizza Aslam,Female,16-20,College,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,2,0,2,0
+Atif Noor,Male,16-20,University,2,0,2,2,2,1,0,2,2,2,2,2,2,1,0,2,2,2,0
+Amir Ashraf,Male,16-20,University,1,0,1,0,1,0,0,2,0,0,2,2,0,1,0,0,0,2,0
+Junaid Jafar,Male,16-20,College,1,0,1,1,0,1,0,2,1,2,0,2,1,1,0,0,1,0,0
+Ali Tahir,Male,16-20,College,0,0,1,0,0,1,0,0,1,0,1,0,0,1,1,1,0,1,0
+Hasir Ali,Male,16-20,University,0,0,1,1,1,0,1,2,0,1,1,0,0,0,1,1,1,0,1
+Ahmar,Male,16-20,College,1,1,1,0,2,1,1,0,0,0,1,1,0,1,0,1,0,1,1
+Umar ,Male,16-20,College,0,1,2,1,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0
+Ibraheem,Male,16-20,College,1,0,0,1,1,0,1,2,2,1,0,1,0,1,0,1,0,1,0
+M Waleed,male,16-20,School,1,0,1,2,0,1,0,1,0,2,1,1,0,1,1,0,2,2,2
+M. Ahmad Nabeel,male,16-20,College,1,1,1,0,2,2,2,2,2,1,2,1,2,1,1,0,0,0,0
+Haris,male,16-20,School,2,2,1,1,1,0,0,0,0,0,1,0,0,0,2,0,2,1,0
+Noman Akbar,male,16-20,School,0,0,0,1,2,2,1,2,2,1,1,2,1,1,1,2,0,0,0
+Farhan Ahmed,male,16-20,School,1,1,2,1,1,1,1,0,1,1,1,2,2,1,1,0,2,1,0
+Ahmed Javed,male,16-20,College,1,1,1,2,0,2,2,1,0,1,1,1,1,0,1,1,1,1,1
+Aiman Ahmed,male,16-20,School,1,2,1,1,2,0,2,0,1,0,2,2,2,2,2,0,1,0,1
+Laraib,Female,16-20,University,0,0,0,2,2,0,1,1,1,0,1,1,2,1,1,1,0,1,0
+Hareem Hameed,Female,16-20,School,1,1,1,1,2,2,0,2,2,2,2,0,0,0,2,0,1,1,0
+Kainat Khalid,Female,16-20,School,1,1,0,1,1,1,1,0,2,1,1,0,1,0,0,2,1,1,0
+Inza Shaukat,Female,16-20,School,1,1,0,2,1,0,0,0,1,0,1,1,1,0,0,0,2,2,2
+Minahil Habib,Female,16-20,School,1,1,0,2,0,0,1,1,0,2,2,2,2,0,0,1,0,2,2
+Rabia Asghar,Female,16-20,College,1,1,1,2,0,2,2,2,2,0,1,1,0,0,1,1,0,1,2
+Mariam saif,Female,16-20,School,1,2,2,0,1,1,0,1,1,1,0,1,2,1,2,2,2,2,2
+Kainat Khalid,Female,16-20,College,1,1,2,1,0,1,1,1,1,1,0,2,0,1,1,1,0,2,2
+Maryam Habib,Female,16-20,College,1,2,2,2,2,1,2,1,1,2,2,2,2,1,2,1,2,2,2
+Ali Zaib Afzal,Male,16-20,School,1,0,1,0,1,1,0,0,0,1,1,1,0,1,1,0,1,0,0
+Saeed Zafar,Male,16-20,College,1,2,1,2,2,0,1,0,2,0,0,0,2,1,1,0,0,2,1
+Ahmed Dawood,Male,16-20,College,0,1,1,2,2,0,1,2,0,2,0,0,0,2,2,0,0,0,0
+Waheed Zafar,Male,16-20,College,1,2,2,0,1,2,2,1,2,2,1,2,2,1,0,1,1,0,0
+Muhammad Azam,Male,16-20,School,1,1,0,1,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0
+Ahmad Hassan,Male,16-20,College,1,1,1,0,0,0,0,0,1,0,0,1,2,2,2,2,1,0,0
+Muhammad Ramzan,Male,16-20,College,1,1,1,0,0,0,0,1,1,0,0,1,2,2,2,2,0,0,0
+Muhammad Awais,Male,16-20,College,2,0,1,2,0,0,2,1,2,1,1,1,0,1,0,1,1,0,0
+Rana Adeel,Male,16-20,College,0,0,1,1,0,1,0,0,1,0,0,1,0,1,1,0,0,1,0
+Kiran Saleem,Female,16-20,College,1,2,0,1,0,0,0,0,0,1,1,1,2,1,0,2,0,1,0
+Faiza,Female,16-20,College,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0
+Rimsha,Female,16-20,College,2,1,1,1,0,0,0,0,1,1,1,0,1,1,0,2,0,0,0
+Safoora,Female,16-20,College,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,2,0,0,0
+Madiha Saif,Female,16-20,College,1,0,1,0,1,0,0,0,0,1,1,1,1,1,0,1,1,0,0
+Atiqa,Female,16-20,College,1,1,0,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0
+Noor-Ul-Ain,Female,16-20,University,1,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0
+Hareem Fatima,Female,16-20,School,1,1,1,0,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0
+Zirsha Ali,Female,16-20,University,1,1,1,2,2,1,2,1,1,2,2,2,2,1,2,1,2,0,0
+Ahsan ,Male,16-20,College,0,0,1,0,1,1,0,0,1,1,1,0,1,1,1,0,0,0,2
+Iqra RiaZ,Female,16-20,School,0,1,1,0,0,1,1,1,1,0,0,0,1,0,0,0,1,1,0
+Sarim Fayyaz,Male,16-20,School,1,0,1,2,2,0,0,2,2,2,1,2,2,1,0,2,0,2,0
+Muhammad Afzal,Male,16-20,College,2,1,1,2,2,0,2,2,2,2,1,1,0,1,1,2,0,2,0
+Shoaib Khalid,Male,16-20,College,1,0,1,2,1,0,2,2,2,2,1,1,0,1,0,2,0,1,0
+Muhammad Usaman,Male,16-20,College,1,2,1,2,2,0,1,2,1,2,1,1,2,1,0,2,0,1,0
+Muhammad Tayyab,Male,16-20,College,1,2,1,2,2,0,0,2,2,2,1,1,2,1,0,2,0,1,0
+Mohsin Ali,Male,16-20,College,1,0,1,2,2,0,2,2,2,2,1,1,2,1,0,2,0,1,0
+Ahmad Nawaz,Male,16-20,College,1,0,2,1,0,1,2,0,2,0,1,1,2,1,0,1,0,1,0
+Imran Gujjar,Male,16-20,College,1,2,1,0,0,0,2,2,2,2,1,1,2,1,1,2,0,1,0
+Suleman Ali,Male,16-20,College,1,2,1,2,2,0,1,2,2,0,1,1,0,1,0,2,0,1,0
+Tayyaba,Female,16-20,College,1,2,1,0,0,0,1,2,2,1,1,1,2,1,0,2,0,1,0
+Ayesha Mahmood,Female,16-20,College,1,0,1,0,2,1,2,2,2,1,1,1,2,1,0,1,0,1,0
+iqra,Female,16-20,College,1,0,1,2,2,1,0,2,2,0,1,1,0,1,0,1,0,2,1
+Javeria Amir,Female,16-20,College,1,0,1,2,1,0,1,2,2,1,1,1,2,1,0,2,1,0,0
+Mubara Ahmad,Female,16-20,College,1,0,2,2,2,1,0,2,2,1,1,1,2,1,0,2,1,0,1
+Maryam,Female,16-20,College,1,0,1,0,1,0,1,2,2,1,1,1,2,1,0,2,1,0,0
+Noor Fatima,Female,16-20,College,1,0,0,2,2,1,0,2,0,1,1,1,2,1,0,1,0,1,0
+Emaan Fatima,Female,16-20,College,1,2,0,2,2,0,1,2,1,1,1,1,0,1,0,2,0,1,0
+Maryam Fayyaz,Female,21-25,University,1,0,1,1,1,1,1,2,0,0,0,0,0,2,0,1,0,2,0
+Noor Hamza,Female,21-25,University,1,1,1,1,1,0,0,2,0,1,0,1,0,0,1,1,2,2,2
+Arooj Sajjad ,Female,21-25,University,0,0,2,2,1,1,1,0,2,0,0,0,0,0,1,1,1,1,1
+Sani Fatima,Female,21-25,University,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,2,2,2,2
+Maryam Khan,Female,21-25,University,1,2,2,2,0,0,0,2,2,2,1,1,1,0,0,2,2,2,2
+Amna Ilyas,Female,21-25,University,1,1,1,0,1,1,0,2,2,0,2,1,0,2,0,1,2,0,1
+Nayab,Female,21-25,University,0,0,1,1,1,0,0,2,2,2,2,0,0,0,1,2,1,0,2
+Salmam Ghani,Male,21-25,College,0,0,0,1,1,1,1,0,2,2,2,2,0,2,2,0,0,0,2
+Taimoor Nasir,Male,21-25,University,1,0,2,0,2,2,2,0,2,2,2,2,2,0,1,1,1,1,1
+Sayed Zain,Male,21-25,University,2,2,2,0,1,1,1,2,0,1,1,1,1,0,0,0,0,1,1
+Rajjab Ali,Male,21-25,University,0,0,1,1,0,0,1,0,0,0,2,2,2,0,0,2,2,2,2
+Roman Khan,Male,21-25,University,1,1,0,0,1,1,1,1,0,1,1,1,1,2,2,2,1,1,1
+Umar Yasin,Male,21-25,College,1,0,2,1,0,0,0,0,2,0,1,0,2,1,0,0,0,0,2
+Taha Ahmed,Male,21-25,University,1,1,1,0,0,0,0,0,2,0,1,0,0,2,2,2,2,2,2
+Haider,Male,21-25,University,2,2,0,0,0,1,1,2,2,0,1,2,0,2,2,0,0,1,1
+Hunzala Tariq,Male,21-25,University,1,0,0,0,1,1,1,0,1,1,1,0,1,1,1,1,0,0,0
+Huzaifa Ahmad,Male,21-25,University,1,1,1,1,0,0,0,1,1,0,0,1,1,1,0,1,1,1,1
+Aiman Waseem,Female,21-25,University,1,2,0,0,0,0,1,2,1,2,1,1,2,1,0,2,0,1,0
+Iqra Bashir,Female,21-25,College,1,2,0,0,0,2,1,2,2,0,1,1,2,1,0,2,0,1,0
+Bushra Bashir,Female,21-25,University,1,0,0,2,2,0,1,1,1,0,1,1,2,1,0,2,0,0,0
+Isha Parveez,Female,21-25,College,1,2,0,2,2,0,1,2,2,2,1,1,0,1,0,2,0,1,0
+Yasmeen Zia,Female,21-25,University,1,0,2,2,2,0,2,2,2,0,1,1,2,1,0,0,0,2,0
+Mehwish,Female,21-25,University,2,0,2,2,2,1,0,2,1,0,1,1,0,1,0,2,0,1,0
+Shumila,Female,21-25,College,1,0,2,0,0,2,2,0,1,2,1,1,1,1,0,0,0,1,0
+Sajida Bashir,Female,21-25,College,1,2,0,0,1,0,2,2,2,0,1,1,1,1,0,2,0,1,0
+Usama Mustaq,Male ,21-25,College,0,0,2,1,1,0,2,1,1,0,1,2,1,1,0,2,0,1,0
+Ali Ahmad,Male ,21-25,College,1,0,1,2,2,0,1,2,2,2,1,1,1,1,0,2,0,1,0
+Muhammad Mubeen,Male ,21-25,University,1,0,0,2,2,0,1,0,1,0,1,1,1,1,0,0,0,1,0
+Muhammad Azeem,Male ,21-25,College,0,1,0,2,2,0,0,2,0,2,1,1,2,1,0,2,0,1,0
+Muhammad Jhanzaib ,Male ,21-25,College,2,0,1,2,2,0,1,2,1,2,1,1,1,1,0,1,0,1,0
+Shahzaib Ali,Male ,21-25,College,0,1,2,1,1,0,2,2,2,2,1,1,1,1,0,1,0,1,0
+Adnan Zakir,Male ,21-25,University,0,1,1,0,0,2,2,0,1,2,1,1,1,1,0,1,0,1,0
+Mr. Noman Arif,Male ,21-25,Job,1,2,0,2,2,1,0,2,1,2,1,1,2,1,0,2,0,1,0
+M. Muaz Anwar,Male ,21-25,University,1,0,2,1,0,0,2,2,1,2,1,1,0,1,0,2,0,1,0
+Mahnoor,Female,21-25,University,1,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,1,1,0
+Esha,Female,21-25,University,1,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,1,0,1
+Sheraz,Male,21-25,University,0,0,1,0,0,1,1,1,1,1,0,1,1,0,1,1,0,0,1
+Muqaddas,Female,21-25,University,1,1,1,1,0,0,0,1,1,1,0,0,0,0,1,1,2,1,0
+Laiba,Female,21-25,University,1,0,0,0,1,1,0,0,0,0,1,2,1,1,1,0,0,1,1
+Namra,Female,21-25,College,1,0,1,0,1,1,0,0,0,1,0,2,1,1,1,0,1,0,1
+Abida,Female,21-25,University,0,1,0,1,1,1,1,1,1,0,1,0,0,0,0,1,0,0,2
+Ayesha,Female,21-25,University,0,1,0,0,0,0,0,1,2,1,0,1,0,1,1,2,1,1,1
+Zain,Male,21-25,University,1,0,1,1,0,1,1,0,2,1,1,0,1,0,0,2,0,1,1
+Hania,Female,21-25,College,1,1,2,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0
+Haris,Male,21-25,Job,1,0,2,0,1,0,1,0,0,1,1,1,0,1,0,0,1,0,0
+Faraz,Male,21-25,University,0,1,0,1,0,1,1,0,1,1,1,0,0,0,1,1,0,1,1
+Asher,Male,21-25,University,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0,0
+Ahad,Male,21-25,College,1,1,1,0,1,0,1,1,0,1,1,0,0,1,1,2,0,1,0
+Shahzaib,Male,21-25,College,1,1,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,0,1
+Arham,Male,21-25,College,0,0,1,1,0,0,1,1,0,0,0,1,0,0,2,0,0,0,1
+Ahmaf,Male,21-25,College,1,0,1,0,1,1,0,0,1,0,1,0,1,2,0,1,0,1,1
+Rabia,Female,21-25,University,1,0,1,0,1,0,0,0,1,2,2,2,1,1,0,0,0,1,0
+Rimsha,Female,21-25,University,1,0,1,1,0,2,0,1,1,0,0,1,0,1,2,1,1,0,0
+Humaira Malik,Female,21-25,University,1,0,1,2,2,1,0,0,1,0,1,1,0,1,0,1,1,0,0
+Aqsa ,Female,21-25,University,2,2,1,2,2,1,0,0,2,1,1,0,1,2,0,2,2,0,1
+Zarqa,Female,21-25,University,0,0,0,0,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0
+Tehreem Saifullah,Female,21-25,College,1,1,1,1,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0
+Aniza,Female,21-25,College,0,0,0,2,0,0,1,1,1,1,0,1,1,1,2,0,1,1,2
+Mahnoor Tariq,Female,21-25,University,1,1,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,0
+Afzal Shehzad,Male,21-25,University,1,0,0,0,1,1,0,0,1,1,1,0,1,0,1,0,0,0,0
+Arslan,Male,21-25,University,1,0,1,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,0
+Hamza Ali,Male,21-25,University,1,0,1,1,0,0,0,1,0,1,1,0,0,1,0,1,0,1,0
+Ali Raza,Male,21-25,University,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,2,0,2,0
+Tayyab,Male,21-25,University,0,0,1,1,2,0,0,1,0,1,0,0,1,1,1,1,0,0,2
+Ajmal,Male,21-25,Job,1,1,0,1,1,0,0,1,0,1,1,1,0,2,2,1,0,1,0
+Ahmad ,Male,21-25,University,0,0,1,2,0,1,1,1,1,0,0,0,1,1,1,0,1,0,1
+Shehbaz,Male,21-25,University,1,1,1,1,0,0,1,0,0,1,1,1,0,2,1,0,1,1,1
+Areeba Sheikh,Female,21-25,University,0,1,1,0,1,1,0,0,2,2,2,2,1,1,0,1,1,0,1
+Minahil,Female,21-25,College,1,0,2,2,2,1,0,1,1,0,2,2,2,1,2,1,2,1,0
+Kashaf Ayub,Female,21-25,University,1,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Mirha Syaal,Female,21-25,School,1,0,1,0,1,1,0,0,0,2,2,2,2,1,0,0,2,2,0
+Aliza,Female,21-25,University,1,0,1,1,0,1,0,2,2,0,1,2,2,1,0,1,2,0,2
+Baaqia Mughal,Female,21-25,College,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,1,1,0,1
+Aabish,Female,21-25,College,1,0,0,1,0,0,1,1,1,0,1,1,0,1,1,1,0,1,0
+Arslan Ahmed,Male,21-25,College,1,0,0,1,0,1,0,1,0,2,1,0,1,1,1,1,0,2,0
+Jabbar Ali,Male,21-25,College,1,0,1,1,0,1,1,1,1,1,0,0,0,2,0,0,1,2,0
+Ali Akbar,Male,21-25,School,2,2,0,1,1,2,1,1,0,0,0,1,2,1,1,0,2,2,0
+Noman Ahmed,Male,21-25,College,1,1,0,1,1,2,2,0,1,1,2,0,1,1,1,0,1,1,1
+Asad Shafique,Male,21-25,University,1,1,0,1,0,1,0,1,2,2,2,2,2,2,2,0,1,2,2
+Saraqa Qazi,Male,21-25,University,1,1,0,1,0,0,0,1,0,1,0,0,2,1,0,2,1,0,2
+Asghar Ali,Male,21-25,University,1,1,0,1,0,2,1,2,1,1,1,2,2,1,1,1,2,1,1
+Nouraiz Md,Male,21-25,College,1,2,1,1,0,1,1,0,1,2,1,1,1,0,0,0,2,1,0
+Abida,Female,21-25,College,0,1,2,2,2,1,0,1,0,0,0,1,0,1,0,1,1,2,2
+Shanza Nasit,Female,21-25,University,0,0,1,2,1,1,0,1,1,2,0,2,2,1,1,0,1,2,2
+Muhammad Raza Hassan,Male,21-25,University,2,0,2,2,1,2,2,0,1,2,2,0,1,1,1,1,0,1,0
+Abdullah,Male,21-25,University,1,2,0,1,1,0,0,2,1,1,1,1,0,1,2,1,1,1,0
+Umer Ilyas,Male,21-25,University,1,0,1,1,0,0,2,0,1,1,1,0,1,1,0,2,1,1,0
+Hassan Sami,Male,21-25,University,1,0,1,0,1,0,1,1,0,1,1,1,2,1,2,2,1,0,1
+Hammad Iqbal,Male,21-25,University,1,0,2,1,0,1,0,1,2,2,1,1,0,1,0,2,0,1,0
+Faizan,Male,21-25,University,1,1,2,2,2,1,0,2,1,1,1,1,1,1,2,2,1,2,1
+Usama Shahzad,Male,21-25,Job,1,0,1,0,1,0,1,0,1,2,1,2,2,1,0,2,0,1,0
+Muhammad Adil,Male,21-25,Business,1,0,2,2,2,1,1,1,2,2,1,0,1,2,1,2,1,2,0
+Rana Zain,Male,21-25,Job,1,0,0,0,1,0,0,1,0,1,1,1,1,1,0,1,0,1,0
+Farah,Female,21-25,University,1,1,1,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0
+Saba,Female,21-25,University,1,0,1,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0
+Khadija,Female,21-25,University,1,0,1,0,1,0,0,1,0,2,2,2,0,1,2,1,0,2,0
+Amna,Female,21-25,University,1,2,0,1,2,0,0,0,1,1,1,0,0,1,0,0,0,1,0
+Momna Dar,Female,21-25,University,0,0,2,2,2,0,2,2,2,0,1,1,1,1,2,0,0,1,0
+Mubbarah Sikander,Female,21-25,College,0,0,0,0,1,0,0,0,1,2,1,1,0,0,2,2,1,0,0
+Komal Hamid,Female,21-25,University,1,1,1,0,1,1,2,0,1,2,2,2,1,1,2,1,0,0,0
+Sundas,Female,26-30,University,0,0,0,1,0,0,1,0,2,0,1,1,1,1,1,0,0,1,0
+Asifa,Female,26-30,University,1,2,0,2,2,0,0,1,2,2,2,1,0,1,0,0,0,1,0
+Azmat,Female,26-30,College,0,2,0,1,0,0,0,0,2,2,2,1,2,1,2,2,0,1,0
+Fakhira,Female,26-30,University,0,0,0,1,0,0,0,0,2,0,1,1,0,1,2,2,0,1,0
+Muneeba,Female,26-30,College,0,0,0,1,0,1,0,0,2,0,1,1,0,1,1,0,0,1,0
+Aneeb Ali,Male,26-30,College,0,0,0,0,1,1,0,0,2,0,1,1,0,1,0,0,0,1,0
+Ibraheem,Male,26-30,University,2,2,0,2,2,0,0,1,2,2,0,1,2,1,0,0,0,1,0
+Arham,Male,26-30,College,0,0,0,0,1,0,0,0,2,0,1,1,0,1,0,0,0,1,0
+Faisal,Male,26-30,University,0,0,0,0,1,0,2,0,2,0,1,1,0,1,2,2,0,1,0
+Bilal,Male,26-30,University,2,0,0,2,2,0,2,1,2,2,1,1,0,1,0,0,0,1,0
+Raees,Male,26-30,University,0,0,0,2,2,0,2,1,2,2,2,1,2,1,0,0,0,1,0
+Muzafar,Male,26-30,University,0,2,0,0,1,1,0,1,2,0,1,1,2,1,0,0,0,1,0
+Rameez,Male,26-30,University,0,0,0,1,0,1,0,0,2,0,1,1,0,1,1,0,0,1,0
+Haider,Male,26-30,University,0,0,0,1,0,0,0,0,2,0,1,1,0,1,1,0,0,1,0
+Ismaeel,Male,26-30,College,1,0,0,1,0,0,0,0,2,0,1,1,0,1,1,0,0,1,0
+Haseeb,Male,26-30,School,0,2,0,1,0,0,0,1,2,2,1,1,2,1,2,2,0,1,0
+Fakhar Hyyat,Male,26-30,Islamic Scholar,1,1,0,2,2,2,2,2,1,2,1,1,2,1,0,2,0,1,0
+Adnan Liaqat,Male,26-30,College,0,1,1,0,0,2,2,2,1,1,1,2,1,1,0,0,0,2,0
+Muhammad Dawood,Male,26-30,College,1,0,1,0,1,1,0,2,0,2,1,0,1,1,0,1,0,1,0
+Muhammad Ashfaq,Male,26-30,University,1,0,1,0,0,2,0,2,1,2,1,1,2,1,1,0,1,0,0
+Muhammad Yasir,Male,26-30,University,2,1,0,1,1,2,0,2,1,2,1,1,0,1,0,0,0,2,0
+Muaz Gill,Male,26-30,University,1,0,1,1,1,2,2,2,1,0,1,2,1,1,0,1,0,0,0
+Muhammad Imran,Male,26-30,University,1,0,1,0,0,2,2,1,1,2,1,1,0,1,1,2,0,1,0
+Muhammad Muddasar,Male,26-30,College,1,1,2,0,0,2,0,2,2,1,1,2,1,1,0,1,0,2,0
+Aqsa Mushtaq,Female,26-30,University,1,0,1,0,0,2,1,2,1,0,1,1,1,1,0,1,0,2,0
+Aliya M. Ali,Female,26-30,University,1,0,1,0,0,2,2,1,1,2,1,1,1,1,0,1,0,2,0
+Miss Shazia Yaseen,Female,26-30,University,1,1,0,2,2,2,0,2,1,2,1,1,2,1,0,2,0,2,0
+Abida Jhangeer,Female,26-30,University,1,0,1,0,0,1,2,2,1,1,1,1,2,1,0,1,0,2,0
+Nazia Nadeem,Female,26-30,College,1,1,1,2,2,0,2,2,1,2,1,1,1,1,0,1,0,1,0
+Zara Batool,Female,26-30,University,2,1,1,0,0,2,0,2,1,1,1,1,2,1,0,2,0,1,0
+Naseer Nazeer,Female,26-30,University,1,1,1,0,0,2,0,1,1,2,1,0,1,1,0,2,0,0,0
+Aiz Khan,Female,26-30,University,2,1,2,0,0,2,2,2,1,1,1,1,2,1,0,2,0,1,0
+Laiba Arif,Female,26-30,University,0,1,1,0,0,2,1,2,2,2,1,1,2,1,0,1,0,2,0
+Sehar,Female ,26-30,University,0,1,1,0,0,1,0,0,0,1,1,0,1,2,1,1,0,0,0
+Aliya,Female,26-30,University,1,1,1,0,1,1,1,0,1,1,0,1,1,2,1,0,1,0,1
+Ayesha,Female,26-30,University,0,0,1,1,1,1,1,0,1,0,1,0,0,2,0,1,0,1,0
+Shoaib,Male,26-30,University,0,1,0,1,0,2,1,1,1,2,0,0,1,0,0,1,0,1,0
+Ali,Male,26-30,College,1,0,0,1,1,2,0,1,0,1,0,0,0,1,1,0,2,0,0
+Chand,Male,26-30,College,0,1,1,1,0,0,1,1,0,0,1,0,1,1,0,0,0,2,0
+Adil,Male,26-30,University,1,1,1,0,1,0,1,1,1,2,1,0,1,0,1,1,1,0,1
+Sana,Female ,26-30,University,0,1,0,2,1,1,1,0,1,0,0,1,1,1,0,2,1,1,1
+Hina,Female,26-30,University,1,0,1,2,0,1,1,0,1,1,1,0,0,0,1,0,1,0,1
+Huma,Female,26-30,Job,1,0,2,0,1,0,0,0,1,1,0,1,2,1,1,2,0,2,0
+Faizan,Male,26-30,School,1,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1,1,2
+Muddasir,Male,26-30,University,0,0,2,0,2,1,1,1,0,0,1,1,1,1,1,1,1,0,0
+Arslan,Male,26-30,University,0,1,0,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,1
+Daanish,Male,26-30,University,0,0,1,0,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0
+Sarwat,Female,26-30,University,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+Mehreen,Female,26-30,College,0,0,0,0,1,0,1,1,1,1,0,1,1,0,1,0,1,0,0
+Fatima,Female ,26-30,College,0,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,1,1,0
+Mubashir ,Male,26-30,College,1,0,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,0,1
+Nasreen BiBi,Female,26-30,University,1,2,2,2,1,0,2,2,1,2,2,0,1,1,2,2,0,1,0
+Meerab,Female,26-30,Job,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,2,0,2,0
+Zarnab,Female,26-30,University,1,0,1,1,1,0,0,1,1,1,0,1,0,1,0,0,1,2,1
+Shanza ,Female,26-30,University,1,1,0,0,1,1,1,0,0,1,1,1,0,0,0,1,2,0,0
+Sehrish,Female,26-30,University,1,0,1,1,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0
+Maryam,Female,26-30,College,0,1,1,1,0,0,2,1,1,1,0,0,1,1,0,1,1,2,1
+Fariha Farooq,Female,26-30,College,0,0,1,1,0,2,1,0,1,0,0,1,1,0,0,0,1,1,0
+Iqra Manzoor,Female,26-30,University,1,1,1,0,0,1,1,0,1,0,0,1,1,1,0,0,0,0,0
+Usama,Male,26-30,College,0,1,0,2,1,0,0,1,0,0,0,1,1,1,0,0,1,1,0
+Atif,Male,26-30,Job,0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,0,1
+Ubaid,Male,26-30,College,1,1,0,0,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0
+Awais,Male,26-30,College,0,0,1,1,1,0,2,1,1,1,0,0,0,1,2,2,1,0,1
+Abdullah Tariq,Male,26-30,University,1,1,1,1,1,0,1,0,0,0,1,1,0,1,1,1,1,1,1
+Wahab Rana,Male,26-30,University,0,0,1,0,2,2,1,0,2,0,0,2,1,0,0,0,0,1,0
+Nabeel Shaukat,Male,26-30,University,0,0,0,1,1,2,1,1,0,0,1,2,0,0,1,1,0,0,1
+Tariq Jutt,Male,26-30,University,1,1,1,2,1,0,0,2,1,0,1,1,2,1,1,0,1,1,0
+Uzma Murad,Female,26-30,University,2,2,1,2,2,2,2,2,2,0,1,1,1,1,0,2,0,2,2
+Shabana,Female,26-30,College,1,0,1,1,2,0,1,1,1,0,1,1,0,1,1,1,0,1,2
+Nagma Zubair,Female,26-30,University,1,1,2,2,2,2,2,2,2,2,1,1,0,1,1,2,0,2,0
+Mumtaz bibi,Female,26-30,College,2,2,2,2,2,2,1,1,0,2,1,2,2,1,0,2,2,1,2
+Atiqa Jabeen,Female,26-30,University,1,0,1,2,2,0,2,1,2,1,2,0,2,1,1,2,2,2,2
+Asma Malik,Female,26-30,College,1,0,2,2,2,0,1,2,2,2,2,2,2,1,2,2,2,2,2
+Rukhsana Nawab,Female,26-30,University,1,1,0,2,2,0,1,1,1,0,2,2,2,1,2,2,1,2,2
+Farhan Nadeem,Male,26-30,College,1,2,2,2,2,2,2,1,1,2,1,1,1,2,2,1,2,2,2
+Waqas Wattoo,Male,26-30,College,1,2,2,2,2,2,2,0,0,0,1,1,1,1,1,1,0,1,0
+M Bashir,Male,26-30,School,1,2,1,2,2,2,2,2,2,2,1,1,1,2,2,2,2,2,2
+M. Shafique,Male,26-30,College,1,2,2,2,2,2,2,1,1,0,0,2,1,1,2,1,2,2,2
+Tanveer Ahmad,Male,26-30,College,1,0,1,1,2,1,2,2,2,2,1,1,1,1,2,1,1,2,2
+Waleed Shehzad,Male,26-30,College,1,0,1,2,1,2,2,1,2,2,1,1,2,1,1,1,2,2,2
+M. Ilyas,Male,26-30,School,1,2,2,2,2,2,2,2,2,2,1,1,1,2,2,2,2,2,2
+M hussain,Male,26-30,College,1,2,1,1,2,2,1,0,0,0,1,1,2,1,2,2,2,2,2
+Araiz,Male,26-30,University,1,0,0,1,1,1,0,0,0,1,1,1,2,0,1,1,1,1,0
+Muhammad Tuseef,Male,26-30,University,1,0,1,0,1,0,0,1,1,0,1,0,1,1,0,0,1,0,0
+Ahmed Ali,Male,26-30,University,0,1,0,0,1,0,0,0,1,0,2,0,1,0,0,0,0,0,0
+Imran Shabbir,Male,26-30,University,1,0,1,2,1,0,2,1,2,1,0,2,0,0,2,1,1,0,0
+Shan Khan,Male,26-30,University,1,0,1,1,0,1,0,0,0,1,1,1,0,1,0,1,0,0,0
+Amir Razzaq,Male,26-30,Job,1,1,1,1,0,0,0,0,0,1,1,1,1,1,0,1,1,1,0
+Tanzeel,Male,26-30,University,1,0,0,1,0,1,0,1,1,0,1,1,1,1,1,0,1,0,1
+Muhammad Zahid,Male,26-30,College,1,0,1,1,0,0,0,0,2,1,1,0,1,1,2,2,0,0,0
+Muhammad Nadeem,Male,26-30,College,1,2,1,0,1,0,0,0,0,0,1,1,0,2,0,2,0,2,1
+Tahira Muqqadas,Female,26-30,University,1,0,1,1,0,1,0,0,0,1,1,0,1,1,0,1,0,0,0
+Ayesha Anam,Female,26-30,University,1,0,1,0,1,2,0,0,1,0,1,1,0,1,0,1,0,1,0
+Shehda,Female,26-30,Job,0,0,2,2,2,2,0,2,2,2,2,0,2,1,0,2,2,2,2
+Ume-Kalsoom,Female,26-30,Job,0,0,1,0,1,0,0,0,1,2,2,2,2,0,0,1,0,0,0
+Asifa,Female,26-30,University,1,2,0,0,2,0,2,1,1,2,1,1,0,1,2,1,1,0,0
+Faiza,Female,26-30,College,1,1,0,0,1,0,0,1,2,1,1,1,1,1,0,2,0,0,0
+Adeiba Rafique,Female,26-30,University,1,0,0,0,1,2,0,0,1,1,1,2,1,1,0,1,0,1,0
+Farah Tuseef,Female,26-30,University,1,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,2
+Namra Abdull Satar,Female,26-30,University,0,2,1,1,1,1,1,1,0,0,0,1,2,1,0,0,1,0,1
+Maha Chaudry,Female ,31-35,University,1,0,2,1,2,0,2,0,0,1,1,1,1,2,2,2,1,1,0
+Shanza Malik,Female ,31-35,University,1,0,0,1,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+Amna Subhani,Female ,31-35,University,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,1,2,0,1
+Umaima Masood,Female ,31-35,College,1,1,1,1,1,1,1,1,0,2,0,1,0,0,1,0,1,0,2
+Arfa Mehmood,Female ,31-35,University,1,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,1,1,1
+Mahnoor Sami,Female ,31-35,University,1,1,1,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0
+Laraib Fatima,Female ,31-35,College,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0
+Noor ul Ain,Female ,31-35,University,1,0,2,0,0,0,0,1,1,1,1,1,0,0,1,1,1,0,1
+Ayesha Yousafzai,Female ,31-35,College,0,0,2,2,2,0,0,2,0,0,0,1,0,0,2,0,2,0,2
+Abdullah Khan,Male,31-35,University,1,1,1,1,1,1,1,0,0,0,2,0,1,2,2,0,0,0,0
+Imran jut,Male,31-35,University,1,1,1,1,1,1,1,0,0,1,1,1,1,2,2,0,1,1,2
+Muneeb Butt,Male,31-35,University,1,0,2,1,0,0,2,1,1,1,1,1,1,1,1,1,1,1,1
+Fasisal Ali ,Male,31-35,University,1,0,2,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,2
+Nabeel Mehmood,Male,31-35,University,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,1,2,1
+Parveen Nazir,Female,31-35,University,0,1,2,1,1,2,0,1,1,2,1,1,2,1,0,2,0,1,0
+Sammar Ul Nisa,Female,31-35,University,2,1,0,0,0,2,2,0,1,2,1,1,2,1,0,1,0,2,0
+Munaza Noor,Female,31-35,University,1,0,1,2,2,2,1,1,1,0,1,1,1,1,0,1,0,2,0
+Bisma,Female,31-35,College,2,1,0,0,1,0,1,2,1,0,1,1,2,1,0,1,0,0,0
+Hafsa Ahmad,Female,31-35,University,0,1,2,0,0,2,1,0,1,2,1,1,0,1,0,0,0,2,0
+Khadija Khalid,Female,31-35,University,1,0,2,0,0,2,1,2,1,0,1,1,2,1,0,1,0,1,0
+Inaya,Female,31-35,University,1,0,0,2,2,2,1,0,1,2,1,1,0,1,0,1,0,2,0
+Aaima Mahood,Female,31-35,College,1,0,0,2,2,0,2,2,1,2,1,1,2,1,0,1,0,1,0
+Mubashir,Male,31-35,University,1,0,1,0,0,2,1,0,1,2,1,1,2,1,0,2,1,0,0
+Muzafar Ch,Male,31-35,University,1,1,0,1,1,2,1,2,1,2,1,1,0,1,0,0,1,0,0
+Waseen Iqbal,Male,31-35,College,1,0,1,0,0,2,0,2,1,1,1,2,0,1,0,1,0,0,1
+Waqas Yaseen,Male,31-35,University,1,2,1,0,0,2,1,0,1,2,1,1,0,1,0,2,0,1,0
+Hadier Ali,Male,31-35,University,2,1,1,0,0,2,0,1,1,2,1,2,1,1,0,2,0,2,0
+Hfaiz Abdul Gaffhar,Male,31-35,Islamic Scholar,1,2,1,0,0,2,1,2,1,1,2,1,0,1,0,2,1,0,2
+Nasir Ali,Male,31-35,University,1,0,1,0,0,0,2,0,1,2,1,1,2,1,0,2,0,1,0
+Waqar Rasheed,Male,31-35,University,2,1,1,0,0,2,2,0,1,2,1,1,1,1,0,1,0,2,0
+Sufyan Mukhtar,Male,31-35,University,1,2,1,2,2,0,0,2,1,2,1,1,2,1,0,2,0,0,0
+Umair,Male,31-35,College,1,1,0,1,0,1,1,0,1,1,0,0,1,1,0,0,1,0,1
+Sehar,Female,31-35,University,0,1,0,0,0,1,2,0,1,0,1,0,1,0,0,1,1,1,1
+Zain,Male,31-35,College,1,0,2,0,1,2,0,1,2,0,1,0,0,0,1,0,1,0,1
+Zunaira,Female,31-35,College,0,0,2,1,0,2,0,0,0,1,1,1,1,1,1,1,1,0,0
+Usman,Male,31-35,University,1,1,0,1,1,0,1,1,0,0,0,1,0,2,1,0,0,1,0
+Sawera,Female,31-35,University,0,1,1,1,1,0,0,1,1,0,2,1,1,0,1,1,0,0,2
+Umer,Male,31-35,University,2,1,1,0,1,1,2,1,0,1,0,1,1,1,0,0,1,1,0
+Rabia,Female,31-35,College,1,1,1,0,1,1,0,0,2,0,2,1,0,1,1,1,1,1,0
+Husnain,Male,31-35,University,1,1,0,2,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1
+Zaira,Female,31-35,College,1,0,0,2,1,2,1,2,1,1,1,0,1,1,2,1,0,1,1
+Faheem,Male,31-35,University,0,2,1,0,0,0,1,1,1,0,1,1,1,0,0,2,0,1,1
+Maira,Female,31-35,University,2,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,1
+Haseeb,Male,31-35,College,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,2,0,0
+Mubashra,Female,31-35,University,0,1,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0
+Mohsin,Male,31-35,College,0,1,0,0,1,1,0,1,1,0,1,0,1,1,1,0,1,1,0
+Amna,Female ,31-35,University,1,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,1,0
+Hania,Female ,31-35,University,0,0,2,1,0,0,0,0,1,1,1,0,1,0,0,1,1,0,2
+Saira,Female,31-35,College,1,1,0,0,1,1,0,1,0,0,1,1,0,0,1,1,0,0,1
+Iman Ali,Female,31-35,University,1,1,1,0,0,2,1,1,1,2,0,0,1,1,0,0,0,0,0
+Iqra Sajid,Female,31-35,College,0,1,0,0,1,2,1,2,2,2,1,1,0,1,0,0,1,1,0
+Rimsha,Female,31-35,College,1,0,0,0,0,1,1,1,0,2,1,1,0,0,1,0,0,1,0
+Atika,Female,31-35,University,0,0,1,1,2,0,1,1,0,0,0,0,0,1,1,1,0,1,1
+Areeba,Female,31-35,University,0,1,0,0,0,0,0,1,1,0,1,0,2,2,0,0,1,0,0
+Noor Fatima,Female,31-35,Job,1,1,1,0,1,0,0,0,0,0,1,1,0,1,1,0,1,0,1
+Huma Zafar,Female,31-35,Job,0,0,2,2,1,1,1,2,1,2,0,0,2,1,1,1,0,1,1
+Azan ,Male,31-35,University,1,1,0,0,1,0,1,1,2,2,1,1,1,0,1,0,1,0,0
+Daud Aslam,Male,31-35,College,0,0,2,2,1,0,2,0,1,1,0,0,1,1,0,0,0,1,0
+Younas Rana,Male,31-35,University,1,0,0,1,1,1,1,1,0,0,1,1,1,0,0,1,2,0,1
+shakir,Male,31-35,University,0,0,1,1,1,0,2,2,2,1,0,0,1,1,0,1,2,1,2
+Salman Zafar,Male,31-35,College,1,1,1,2,2,0,0,0,1,2,1,0,1,0,1,0,0,1,0
+Nasir,Male,31-35,University,1,0,0,1,2,1,1,2,2,2,0,1,0,0,1,1,0,1,1
+Akhtar,Male,31-35,University,0,0,0,1,0,0,1,0,0,1,1,0,2,2,1,0,1,0,0
+Yasir Ali,Male,31-35,College,1,0,0,1,0,1,2,0,1,0,1,0,0,0,0,0,1,1,1
+Iqra,Female,31-35,College,1,0,1,2,1,1,1,1,0,1,1,2,0,2,0,0,1,1,2
+Ajwa Ayub,Female,31-35,University,2,2,1,1,0,1,0,0,0,0,1,2,1,1,0,2,2,2,2
+Parveen,Female,31-35,College,1,0,1,2,2,2,2,1,1,0,1,1,1,1,0,2,2,2,2
+Sabahat,Female,31-35,College,1,2,2,2,2,2,2,2,2,2,1,1,2,1,2,1,2,2,2
+Javeria,Female,31-35,College,1,2,1,1,2,1,2,2,1,2,1,2,2,1,2,1,2,2,2
+Saba Mukhtar,Female,31-35,University,1,2,2,2,2,2,2,2,2,2,1,1,1,1,2,1,2,2,2
+Aqsa Jamal,Female,31-35,University,1,2,1,2,2,2,2,2,1,2,1,2,2,1,2,2,2,2,2
+Mughees Iqbal,Female,31-35,College,1,2,2,2,2,2,0,2,2,0,2,2,2,2,1,1,0,1,2
+Arslan Arshad,Male,31-35,College,0,2,2,2,2,2,2,2,2,2,1,1,1,1,2,1,2,2,2
+Mueez Sheikh,Male,31-35,College,2,1,1,1,2,1,0,0,1,0,1,2,1,1,2,1,2,2,2
+Hamza Mukhtar,male,31-35,College,1,0,2,2,2,2,0,2,1,0,1,1,1,1,1,1,2,2,2
+Talha mumtaz,Male,31-35,College,1,0,1,1,2,1,0,1,1,0,1,1,0,1,1,1,0,0,2
+Bilal Khan,Male,31-35,College,2,0,2,2,2,0,0,2,2,2,1,1,2,1,2,0,0,0,1
+Ameer Hamza,Male,31-35,University,1,2,2,2,2,0,1,2,1,0,1,1,2,1,0,1,0,2,2
+Shams Pervaiz,Male,31-35,College,2,1,0,0,1,0,0,1,1,0,1,0,1,1,0,1,0,1,0
+Talha Tayyab,Male ,31-35,Job,1,1,1,0,1,1,1,0,1,1,1,2,2,1,1,2,1,2,2
+Muhammad Shafique,Male,31-35,University,1,0,0,0,1,0,1,0,0,2,1,2,1,1,2,1,0,2,0
+Muhammad Baber,Male,31-35,College,1,0,0,0,1,0,2,1,1,0,1,0,1,1,2,1,1,1,0
+Ehsan Shakoor,Male,31-35,College,1,1,0,1,1,0,0,0,1,0,1,1,1,0,0,0,1,1,0
+Sami Ullah,Male,31-35,University,0,0,0,2,2,0,0,1,2,2,1,1,2,1,2,2,2,0,0
+Qasim Munir,Male,31-35,College,1,0,0,1,0,1,1,1,0,1,1,1,0,1,0,1,2,0,0
+Tariq Mehmood,Male,31-35,College,1,1,1,1,1,0,0,0,1,0,1,1,1,0,0,1,1,0,1
+Uzman Khan,Male,31-35,University,1,0,1,0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0
+Ali,Male,31-35,University,1,2,0,0,1,0,2,1,0,2,1,2,0,1,0,2,0,1,0
+Anila Safdar,Female,31-35,College,0,0,1,2,1,2,2,2,2,2,2,2,1,1,0,0,1,1,0
+Mubeen Akber,Female,31-35,University,2,2,1,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+Sadia,Female,31-35,College,1,1,0,0,1,0,2,1,2,0,0,0,0,1,0,1,0,0,0
+Shama,Female,31-35,College,1,1,0,0,1,0,2,1,1,1,1,1,1,1,0,1,0,0,1
+Tayyaba Nadeem,Female,31-35,University,0,2,1,0,1,0,0,1,1,1,2,2,2,1,2,2,1,2,0
+Mrs. Farnaz,Female,31-35,University,0,1,0,0,0,0,0,0,2,0,2,1,2,1,0,2,1,0,0
+Humaira Rasheed,Female,31-35,University,1,1,0,1,0,0,0,0,1,0,1,0,1,1,0,1,1,1,0
+Mahira Hussain,Female,31-35,University,1,1,0,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0
+Tayyeba,Female,31-35,College,0,1,0,0,0,1,2,2,1,1,0,1,1,0,0,1,1,1,1
+Wahab,Male,31-35,University,0,0,2,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,1
+Sana Rasheed,Female ,31-35,University,1,0,1,0,1,0,2,2,1,0,1,2,1,0,1,0,1,1,2
+Saba Mir,Female ,31-35,University,0,0,1,1,0,0,2,0,1,0,1,1,1,0,0,0,1,1,1
+Rubeena Khan,Female,36-40,College,0,0,0,1,0,0,1,0,2,0,1,1,1,1,1,0,0,1,0
+Sania Yosuf,Female,36-40,University,1,2,0,2,2,0,0,1,2,2,2,1,0,1,0,0,0,1,0
+Tabinda Tariq,Female,36-40,University,0,2,0,1,0,0,0,0,2,2,2,1,2,1,2,2,0,1,0
+Sadia Imran,Female,36-40,University,0,0,0,1,0,0,0,0,2,0,1,1,0,1,2,2,0,1,0
+Rida Ali,Female,36-40,University,0,0,0,1,0,1,0,0,2,0,1,1,0,1,1,0,0,1,0
+Mubeena Naqvi,Female,36-40,University,0,0,0,0,1,1,0,0,2,0,1,1,0,1,0,0,0,1,0
+Bisma Sadique,Female,36-40,University,2,2,0,2,2,0,0,1,2,2,0,1,2,1,0,0,0,1,0
+Fatima Rashid,Female,36-40,University,0,0,0,0,1,0,0,0,2,0,1,1,0,1,0,0,0,1,0
+Amna Fatima,Female,36-40,University,0,0,0,0,1,0,2,0,2,0,1,1,0,1,2,2,0,1,0
+Moeen Akhtar,Male,36-40,University,2,0,0,2,2,0,2,1,2,2,1,1,0,1,0,0,0,1,0
+Sayed ul Rehman,Male,36-40,University,0,0,0,2,2,0,2,1,2,2,2,1,2,1,0,0,0,1,0
+Ameen Shami,Male,36-40,University,0,2,0,0,1,1,0,1,2,0,1,1,2,1,0,0,0,1,0
+Amir Liyaqat,Male,36-40,University,0,0,0,1,0,1,0,0,2,0,1,1,0,1,1,0,0,1,0
+Muhammad Mubeen,Male,36-40,University,0,0,0,1,0,0,0,0,2,0,1,1,0,1,1,0,0,1,0
+Naveed Shah,Male,36-40,University,1,0,0,1,0,0,0,0,2,0,1,1,0,1,1,0,0,1,0
+Bilal Ashraf,Male,36-40,University,0,2,0,1,0,0,0,1,2,2,1,1,2,1,2,2,0,1,0
+Zunaira,Female,36-40,University,1,1,0,2,2,2,2,2,1,2,1,1,2,1,0,2,0,1,0
+Ammara,Female,36-40,University,1,0,1,0,0,2,2,0,1,2,1,1,0,1,0,2,0,1,0
+Saman,Female,36-40,University,1,0,1,0,0,2,0,2,1,2,1,1,2,1,0,2,1,0,0
+Rimsha,Female,36-40,University,1,0,2,0,0,1,2,2,1,1,1,1,2,1,0,1,0,0,0
+Rubina Zahid,Female,36-40,College,2,1,0,0,0,2,1,0,1,1,1,1,0,1,0,2,1,0,0
+Kausar Bashir,Female,36-40,College,1,0,1,0,0,2,1,0,1,1,1,2,1,0,1,0,0,0,0
+Nabeeha,Female,36-40,University,1,2,0,2,2,2,0,0,1,1,1,1,2,1,0,2,0,0,0
+Azra Shahaid,Female,36-40,College,1,0,2,0,0,2,0,2,1,2,1,1,2,1,0,0,0,2,0
+Munir Shah,Male,36-40,University,2,1,2,0,0,2,1,2,1,2,1,1,0,1,0,2,0,0,0
+M Irfan,Male,36-40,University,1,1,1,0,0,0,0,2,1,2,1,1,2,1,0,0,0,2,0
+M Ilyas,Male,36-40,University,2,1,0,2,2,2,0,2,1,2,1,1,2,1,0,2,0,0,0
+Shahaid Mateen,Male,36-40,University,1,0,1,0,0,2,0,0,1,2,1,1,2,1,0,2,0,0,0
+Sajjad Ali,Male,36-40,University,2,1,2,0,0,0,2,1,1,2,1,1,1,1,0,1,0,2,0
+Hafiz Manzoor,Male,36-40,University,2,1,0,2,2,2,0,0,1,2,1,1,0,1,0,0,0,0,0
+Naeem CH,Male,36-40,University,1,2,2,0,0,2,2,0,1,1,1,1,0,1,0,0,0,2,0
+Asim razzaq,Male,36-40,University,0,0,2,0,0,2,1,0,1,0,1,1,1,1,0,1,0,1,0
+Hassan,Male,36-40,School,0,1,0,1,0,1,1,0,1,1,0,0,1,1,0,0,1,0,1
+Munazza,Female,36-40,College,1,1,0,0,0,1,2,0,1,0,1,0,1,1,0,1,1,0,1
+Rania,Female,36-40,College,1,0,2,0,1,2,0,1,2,0,1,0,1,0,1,0,1,0,1
+Naseem,Male,36-40,College,0,0,2,1,0,2,0,0,1,1,1,1,1,1,1,1,1,1,0
+Zahida,Female,36-40,College,1,2,0,0,1,0,1,1,0,0,0,0,0,2,2,0,0,1,0
+Asim,Male,36-40,College,0,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,0,0,2
+Shaista,Female,36-40,College,2,1,1,0,0,1,2,1,0,1,1,1,1,1,0,0,1,1,0
+Ayesha,Female,36-40,College,1,0,2,0,1,1,0,0,0,0,2,1,0,1,1,1,1,1,1
+Kashif,Male,36-40,University,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1
+Saqib,Male,36-40,College,1,0,0,2,1,2,1,2,1,1,0,0,1,1,2,1,0,1,1
+Abeeha,Female,36-40,University,0,2,0,2,0,0,1,1,0,0,1,1,0,0,0,2,1,1,2
+Dawood,Male,36-40,University,0,1,1,0,1,0,2,0,1,1,0,0,1,0,0,0,1,0,1
+Taimoor,Male,36-40,University,0,0,0,0,0,2,1,1,0,1,1,1,1,0,1,1,2,0,0
+Ahmad,Male,36-40,College,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0
+Maham,Female,36-40,College,1,1,1,0,1,1,0,1,1,0,1,0,1,1,1,0,1,1,0
+Sherbano,Female ,36-40,College,1,1,0,0,0,0,0,0,0,0,1,2,1,2,0,0,0,1,1
+Afifa Arshad,Female,36-40,University,1,1,0,1,0,0,1,1,0,1,1,0,1,0,1,0,0,1,1
+Arooj,Female,36-40,College,0,0,1,2,1,1,0,1,1,2,0,1,1,1,0,0,1,1,0
+Bushra,Female,36-40,Job,1,1,1,1,0,0,1,1,0,2,0,1,0,0,0,0,1,0,1
+Nadia Sidique,Female,36-40,University,1,2,0,1,0,0,1,0,0,0,1,1,0,0,1,1,1,0,1
+Esha Asif,Female,36-40,University,0,1,0,0,1,1,1,1,2,0,2,0,0,1,0,2,0,1,0
+Kainat Zikria,Female,36-40,University,1,1,1,0,1,0,0,1,0,1,1,0,1,1,0,1,0,1,0
+Kanwal,Female,36-40,College,1,1,1,1,2,1,0,1,0,1,0,1,0,1,1,1,2,0,1
+Mehwish,Female,36-40,University,1,0,1,1,1,1,1,1,1,1,1,0,0,1,0,0,1,0,1
+Aqeel,Male,36-40,College,0,2,0,0,1,1,1,1,0,1,0,1,2,0,1,1,0,0,0
+Mehmood,Male,36-40,University,0,0,0,1,1,2,0,0,1,0,0,1,1,1,1,0,0,0,1
+Anees,Male,36-40,University,1,0,1,0,0,0,1,1,2,1,1,0,0,1,2,1,1,1,0
+Afzaal,Male,36-40,University,1,1,0,1,1,1,1,2,1,0,0,1,1,0,0,0,1,0,1
+Ahmad,Male,36-40,University,0,0,1,2,2,2,1,1,0,2,1,0,1,0,1,1,2,0,1
+Hassan,Male,36-40,University,2,0,1,1,1,0,0,0,0,1,2,1,2,0,1,0,0,0,0
+Adnan,Male,36-40,University,1,1,0,2,1,0,1,2,1,0,0,1,0,1,1,0,1,1,1
+Mateen,Male,36-40,University,0,0,1,1,2,1,1,0,1,1,1,0,0,1,0,2,1,0,1
+Jasmin,Female,36-40,University,1,2,0,2,2,0,1,0,1,0,1,1,1,2,1,1,2,2,2
+FatimaIjaza,Female,36-40,College,1,0,0,1,2,0,2,0,1,0,1,1,2,1,2,1,0,1,0
+Imama,Female,36-40,University,1,2,2,2,2,2,2,1,2,2,1,2,2,1,1,0,1,2,2
+Muqaddas riaz,Female,36-40,Job,1,0,1,2,2,0,1,0,1,0,1,1,0,1,2,1,0,1,0
+Mahjabeen,Female,36-40,College,2,2,2,2,2,0,1,2,2,2,2,1,1,1,1,1,0,1,0
+Muqaddas begum,Female,36-40,College,1,2,1,1,0,1,0,1,2,0,0,1,0,1,0,1,0,2,2
+Rashida Bibi,Female,36-40,School,0,1,2,2,0,1,0,1,0,1,1,2,1,0,1,1,2,2,2
+Abro bibi,Female,36-40,College,1,0,1,1,2,1,0,2,2,2,2,2,1,1,0,1,0,0,2
+Habib Sheikh,Male,36-40,School,1,0,1,2,2,2,1,2,2,1,1,1,2,2,2,2,2,2,2
+Zameer,Male,36-40,School,1,0,1,2,2,0,1,0,1,2,1,1,0,1,1,1,0,2,2
+Yunash Sheikh,Male,36-40,School,1,0,0,0,2,2,0,2,2,1,1,2,1,1,2,2,2,2,2
+Bashir Ahmed,Male,36-40,School,1,1,1,2,2,2,2,1,1,0,1,1,1,1,0,1,1,0,1
+Haroon,Male,36-40,College,1,0,2,0,0,0,0,2,1,2,2,2,2,1,2,0,0,1,0
+jabar Khan,male,36-40,College,1,0,1,2,2,1,0,0,2,2,2,2,2,2,0,1,2,2,2
+Arslan Jutt,Male,36-40,University,1,0,1,1,0,1,0,0,1,1,1,1,0,1,1,1,0,1,2
+Araiz Ahmed,Male,36-40,College,1,1,2,1,0,1,0,1,2,0,2,2,2,0,1,0,1,2,0
+Syed Muhammad Afzal,Male,36-40,School,1,0,1,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0
+Muhammad Imran,Male,36-40,College,0,0,1,0,1,1,0,1,0,1,1,1,1,0,0,1,1,0,0
+Khurram Akbar,Male,36-40,University,2,0,1,0,1,0,0,0,2,0,1,1,1,1,0,1,1,0,0
+Muhammad Ayub,Male,36-40,College,1,1,1,0,1,1,0,0,0,1,0,0,1,0,0,1,1,0,1
+Hassan Raza,Male,36-40,University,1,2,1,0,0,1,0,0,0,2,1,0,2,1,0,1,1,0,0
+Zaeem,Male,36-40,University,1,2,0,1,0,0,0,1,0,2,1,2,0,1,0,2,0,1,0
+Muhammad Saber,Male,36-40,University,1,0,1,0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0
+Waseem Khan,Male,36-40,College,0,2,1,0,1,0,2,2,1,2,2,1,0,1,0,2,1,0,1
+Memona,Female,36-40,University,1,0,0,0,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0
+Tehreem Fatima,Female,36-40,College,1,1,0,1,1,0,0,0,1,1,1,1,1,0,0,0,1,0,1
+Zoya,Female,36-40,University,0,2,1,1,0,1,0,2,2,2,2,2,1,1,0,2,0,1,0
+Alishba,Female,36-40,University,1,0,1,0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0
+Uzma Afzal,Female,36-40,College,1,0,1,0,1,1,0,0,0,1,1,1,0,1,1,0,1,0,0
+Samina Tabassum,Female,36-40,University,1,0,0,1,0,0,2,0,1,2,1,2,1,1,0,0,0,1,0
+Sumaira Naseer,Female,36-40,College,1,0,1,0,1,1,0,0,1,0,1,1,1,1,1,1,1,1,0
+Abru Aslam,Female,36-40,University,1,1,0,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0
+Hamza Ali,Male,36-40,University,0,1,1,1,0,0,1,1,0,2,1,0,1,0,1,0,1,0,1
+Kiran Alyas,Female,36-40,College,1,0,0,0,1,0,0,0,0,0,1,0,1,2,0,1,1,0,1
+Tayyaba Rafique,Female,36-40,University,0,0,2,0,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0
+Tayaba Ahmed,Female ,36-40,University,0,1,1,0,2,0,1,1,0,0,1,1,0,1,0,1,0,1,0
+Faiza Nisar,Female,41-45,School,1,0,0,1,0,0,1,1,2,0,1,1,1,1,0,1,0,0,0
+Saman,Female,41-45,College,1,0,0,0,1,0,2,0,1,2,2,0,1,1,0,0,0,1,0
+Tayyaba,Female,41-45,University,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,1,0
+Ambreen,Female,41-45,College,1,0,1,0,0,0,0,0,1,1,1,0,1,1,1,1,0,1,0
+Maida,Female,41-45,University,1,2,0,0,1,1,0,0,0,1,1,0,1,1,0,1,1,0,0
+Iqra saed ,Female,41-45,University,1,0,1,0,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0
+Huma,Female,41-45,University,0,1,0,1,1,0,2,0,0,2,1,2,1,1,0,1,1,1,0
+Bukhtawar,Female,41-45,University,1,0,1,0,1,1,0,0,0,1,1,1,1,1,0,1,1,0,0
+Farooq,Male,41-45,College,1,2,1,0,0,1,0,0,0,2,1,0,2,1,0,1,1,0,0
+Khalid,Male,41-45,University,1,0,0,0,1,0,2,0,2,2,1,2,0,1,2,1,1,0,0
+Kashif,Male,41-45,College,1,0,0,2,1,0,0,0,0,0,1,2,2,1,0,2,0,1,0
+Razaq,Male,41-45,College,1,0,1,0,1,2,2,0,1,2,1,1,1,1,2,1,1,0,0
+Dawood,Male,41-45,School,1,1,1,0,1,2,0,0,0,0,1,2,1,1,2,1,0,0,0
+Muqeet,Male,41-45,University,1,2,0,2,2,0,0,0,0,0,1,1,0,1,0,0,0,1,0
+Akram,Male,41-45,College,1,0,1,0,1,0,2,0,0,0,1,0,0,1,2,0,0,0,0
+M Mansha,Male,41-45,College,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,0,1
+Akram Minhas,Male,41-45,College,1,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0
+Ahmad Yar,Male,41-45,University,1,2,1,0,0,0,2,0,1,1,1,1,1,0,1,1,0,0,0
+Raja Aziz UR Rehman,Male,41-45,University,1,0,0,2,0,0,2,1,1,1,1,1,2,1,0,2,0,0,0
+M Hussain,Male,41-45,University,0,1,2,1,1,2,2,0,1,2,1,1,2,1,0,2,0,0,0
+Tahir Ali,Male,41-45,University,1,0,1,0,0,2,0,2,2,2,1,1,1,1,0,2,0,2,0
+Zeeshan Shaukat,Male,41-45,University,1,0,0,1,1,2,2,2,2,2,1,1,1,1,0,1,0,1,0
+Amir Khan,Male,41-45,University,1,0,0,2,2,2,0,2,2,1,1,1,1,1,0,2,0,1,0
+Zahida Parveen,Female,41-45,College,2,2,0,2,2,2,0,2,0,0,1,1,1,1,0,1,0,2,0
+Samina Akran,Female,41-45,College,1,0,1,0,1,0,1,2,2,1,1,1,1,1,0,2,0,2,0
+Asia Luqman,Female,41-45,University,1,0,0,2,2,2,2,0,1,2,1,1,0,1,0,0,0,2,0
+Prof. Kausar,Female,41-45,University,1,0,0,1,1,2,2,2,2,1,1,1,0,1,0,0,0,1,0
+Sana Javeed,Female,41-45,College,0,0,0,1,1,2,2,2,2,2,1,1,2,1,0,2,0,1,0
+Hina Khan,Female,41-45,University,1,0,0,2,0,0,2,2,2,0,1,1,2,1,0,2,0,0,0
+Khansa Arif,Female,41-45,University,1,0,2,2,2,2,0,2,1,1,1,1,0,1,0,1,0,1,0
+Zulfisha Amir,Female,41-45,University,1,0,0,1,1,2,2,0,1,2,1,1,2,1,0,2,0,1,0
+Farrukh,Female,41-45,College,1,0,1,1,0,0,1,1,0,1,2,1,1,2,0,1,0,2,0
+Makhdoom,Male,41-45,College,2,0,1,0,1,1,0,0,0,0,0,1,0,1,0,0,1,1,1
+Maqsood,Male,41-45,College,1,1,2,2,1,0,0,1,0,1,0,1,0,0,0,0,0,1,1
+Shafqat,Female,41-45,College,1,0,0,1,1,0,1,1,1,1,1,0,1,0,1,0,0,0,1
+Javaid,Male,41-45,School,1,1,0,0,0,2,0,2,1,0,1,1,2,1,1,1,1,0,0
+Nazia,Female,41-45,College,0,1,1,0,2,1,1,1,1,1,1,0,1,0,1,1,2,1,0
+Tariq,Male,41-45,School,2,1,0,1,0,0,0,0,1,0,0,1,0,1,0,2,0,0,1
+Sumera,Female,41-45,University,0,0,2,0,2,1,1,1,0,0,1,2,1,0,1,0,1,1,1
+Zahid,Male,41-45,School,1,0,0,1,1,0,0,0,2,1,0,0,1,1,0,1,0,1,0
+Madiha,Female,41-45,College,1,2,1,1,0,0,1,1,2,0,1,1,1,1,1,1,1,1,0
+Mujahid,Male,41-45,College,1,1,1,0,1,1,0,0,1,1,0,0,1,0,0,1,0,0,1
+Zenia,Female,41-45,College,1,0,1,0,1,0,0,1,2,0,1,1,0,1,0,0,1,0,0
+Sohail,Male,41-45,School,1,1,0,1,0,1,1,0,0,0,1,0,0,1,1,1,0,1,1
+Zeba,Female,41-45,University,1,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0
+Saood,Male,41-45,College,0,0,1,1,1,0,1,0,0,1,0,1,1,0,1,1,1,1,1
+Amna,Female ,41-45,College,0,0,0,0,1,2,0,1,1,0,1,1,0,1,0,1,0,0,1
+Attia Muneer,Female,41-45,University,1,0,1,1,0,1,1,1,1,0,0,1,1,1,1,0,0,1,0
+Kausar,Female,41-45,College,1,1,0,0,1,1,2,0,1,1,0,1,0,0,0,1,1,0,1
+Afia Fida,Female,41-45,University,0,0,1,2,0,0,1,1,0,1,0,2,0,1,1,0,0,1,1
+Faiqa,Female,41-45,University,0,1,1,1,2,1,0,1,1,1,1,1,1,0,0,1,1,1,0
+Jaweria,Female,41-45,University,1,1,0,1,1,0,1,0,1,1,1,0,0,0,1,0,1,2,0
+Mumtaz,Female,41-45,University,0,0,1,1,1,2,0,1,2,0,1,0,1,1,0,2,0,1,2
+Farzana,Female,41-45,University,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Abida Sarfraz,Female,41-45,University,1,1,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0
+Haider,Male,41-45,University,0,1,0,0,1,1,1,1,0,0,1,2,1,0,0,0,1,1,1
+Iqrash,Male,41-45,University,1,1,1,1,0,0,0,0,2,0,0,2,0,0,1,1,0,1,1
+Mudassir,Male,41-45,College,0,0,0,0,0,2,2,1,1,1,0,1,1,2,0,0,0,2,1
+Amir Zubair,Male,41-45,Job,1,1,1,0,1,1,0,1,0,2,1,1,0,1,1,1,1,0,2
+Ahtisham Anwar,Male,41-45,University,1,1,1,1,2,0,1,0,0,1,0,0,1,1,0,1,0,1,0
+Rameez,Male,41-45,University,1,1,0,0,1,0,1,0,1,2,1,0,1,2,1,1,0,1,0
+Younas,Male,41-45,University,0,1,1,1,2,1,1,0,0,1,1,1,0,0,0,0,1,1,1
+Farooq ,Male,41-45,University,0,1,1,0,0,2,1,0,1,0,0,2,0,2,1,1,0,0,0
+Azra,Female,41-45,School,1,0,1,0,0,0,2,0,2,0,1,1,1,1,0,1,0,1,0
+Kaleem Khan,Male,41-45,School,1,2,2,2,2,2,2,0,1,2,1,1,1,1,0,1,2,2,2
+Murtaza nawab,Male,41-45,College,1,1,1,0,2,2,2,0,0,0,2,1,2,1,0,1,2,2,2
+Waseem Abbas,Male,41-45,College,1,0,1,0,1,1,0,2,1,0,1,1,0,1,0,1,0,2,2
+Jamshaid Akhtar,Male,41-45,College,2,0,1,2,2,1,0,0,2,2,2,2,2,2,2,1,2,2,2
+Zeeshan Haider,Male,41-45,School,1,0,1,0,0,1,0,2,1,2,2,2,2,2,0,2,2,2,1
+Haris Sheikh,Male,41-45,College,2,2,1,2,2,2,1,2,2,2,1,1,0,1,2,2,2,0,2
+Usman Jamil,Male,41-45,School,1,2,2,2,2,0,2,1,2,0,2,2,2,2,2,2,2,2,2
+Usama Ayub,Male,41-45,School,1,0,1,2,1,0,2,2,2,1,1,2,1,1,0,2,2,2,2
+Kinza,Female,41-45,College,1,0,0,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,2
+Zainab,Female,41-45,School,2,0,1,1,1,0,1,0,2,0,1,1,0,1,0,1,2,0,1
+Naseem Bibi,Female,41-45,School,1,2,2,0,1,0,0,0,1,0,1,1,1,1,2,1,0,1,0
+Seema Bibi,Female,41-45,School,1,0,0,0,0,1,0,1,1,0,1,0,0,1,0,1,0,0,0
+Salma Qazi,Female,41-45,School,1,2,0,2,2,0,1,0,1,0,1,1,1,1,0,1,0,0,0
+Mumtaz,Female,41-45,School,1,0,1,0,0,0,1,0,1,0,1,1,1,1,0,1,0,0,0
+Nasira,Female,41-45,College,1,0,0,1,0,0,1,1,2,0,1,1,1,1,0,1,0,0,0
+Kashif Imran,Male,41-45,University,1,0,0,0,1,0,2,0,1,2,2,0,1,1,0,0,0,1,0
+Muhammad Sharif,Male,41-45,Business,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,1,0
+Asad,Male,41-45,University,1,0,1,0,0,0,0,0,1,1,1,0,1,1,1,1,0,1,0
+Muhammad Ehsan,Male,41-45,Job,1,2,0,0,1,1,0,0,0,1,1,0,1,1,0,1,1,0,0
+Abdul Shakoor,Male,41-45,University,1,0,1,0,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0
+Tariq Ahmed,Male,41-45,School,0,1,0,1,1,0,2,0,0,2,1,2,1,1,0,1,1,1,0
+Abdul Qayoom,Male,41-45,College,1,0,1,0,1,1,0,0,0,1,1,1,1,1,0,1,1,0,0
+Mikaal Khan,Male,41-45,University,1,2,1,0,0,1,0,0,0,2,1,0,2,1,0,1,1,0,0
+Rakhshanda Noor,Female,41-45,Job,1,0,0,0,1,0,2,0,2,2,1,2,0,1,2,1,1,0,0
+Razia Sultana,Female,41-45,School,1,0,0,2,1,0,0,0,0,0,1,2,2,1,0,2,0,1,0
+Shahnaz Akhter ,Female,41-45,School,1,0,1,0,1,2,2,0,1,2,1,1,1,1,2,1,1,0,0
+Mehwish Riaz,Female,41-45,School,1,1,1,0,1,2,0,0,0,0,1,2,1,1,2,1,0,0,0
+Zahida Parveen,Female,41-45,School,1,2,0,2,2,0,0,0,0,0,1,1,0,1,0,0,0,1,0
+Tahira Yaseen,Female,41-45,Islamic Scholar,1,0,1,0,1,0,2,0,0,0,1,0,0,1,2,0,0,0,0
+Farzana Sikander,Female,41-45,Islamic Scholar,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,0,1
+Narjus Mahboob,Female,41-45,College,1,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0
+Afaq Sharjeel,Male,41-45,University,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0,1,1,1,0
+Adeel Ahmed,Male,41-45,College,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,0,1,0,0
+Jhanzaib Ali,Male,41-45,College,0,0,1,1,1,0,0,0,1,1,1,1,0,2,0,0,1,1,0
+Aneeb Ali,Male,41-45,School,1,0,1,1,1,0,1,0,0,0,1,0,1,1,2,2,1,0,1
+Shayan Sheraz,Male,41-45,School,0,1,0,1,0,1,0,0,0,1,0,1,2,1,0,0,1,0,1
