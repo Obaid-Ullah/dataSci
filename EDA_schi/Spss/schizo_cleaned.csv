@@ -1,0 +1,802 @@
+Name,Gender,Age_group,Education_lvl,Residence_status,Career,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Suggestion
+Muhammad Adil,1,21-25,College,Rural,Business,1,0,2,2,2,1,1,1,2,2,1,0,1,2,1,2,1,2,0,Magic Healer 
+Muhammad Adil,1,21-25,College,Rural,Business,1,0,2,2,2,1,1,1,2,2,1,0,1,2,1,2,1,2,0,Islamic Teaching/Islam/Quran
+Zaid Maqbool,1,21-25,College,Rural,Business,2,1,0,1,0,0,0,0,0,1,1,0,0,0,2,0,0,1,0,Hobbies
+Usama Maqbool,1,26-30,University,Urban,Business,2,1,1,1,0,1,0,1,1,1,0,0,0,1,1,1,0,0,0,Psychiatrist/ Psychologist
+Muhammad Sharif,1,41-45,University,Urban,Business,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,1,0,Gym
+Itba Zahid,0,16-20,College,Rural,Unemployed,1,0,0,0,1,2,0,0,2,2,2,1,2,1,2,2,1,1,0,Family & Friends Counseling
+A1ha Iftikhar,0,16-20,College,Urban,Unemployed,1,0,0,1,0,0,1,0,2,0,0,0,2,1,1,0,0,0,0,Doctor
+Faiqa Niyamat,0,16-20,College,Rural,Unemployed,1,0,0,1,0,0,0,0,2,0,1,1,0,1,2,2,0,1,0,No Suggestions
+Ishal Fatima,0,16-20,College,Rural,Unemployed,1,0,1,1,0,0,0,1,2,0,0,1,2,1,0,2,0,1,0,No Suggestions
+Aqsa Imran,0,16-20,College,Urban,Unemployed,0,0,0,0,1,0,1,1,2,1,0,0,2,1,1,0,0,0,0,Doctor
+Sunain Asim,0,16-20,College,Rural,Unemployed,1,0,0,1,0,0,0,0,2,0,1,1,2,1,2,2,0,1,0,No Suggestions
+Ameera Umer,0,16-20,College,Rural,Unemployed,0,0,0,1,0,0,0,0,2,0,0,1,2,1,2,2,0,1,0,No Suggestions
+Areeba Akhtar,0,16-20,College,Urban,Unemployed,1,0,1,0,1,1,0,2,2,2,2,1,2,1,0,1,0,0,0,Doctor
+Subhan Ali,1,16-20,College,Rural,Unemployed,0,0,0,1,0,0,0,0,2,0,0,1,0,1,2,2,0,1,0,Islamic Teaching/Islam/Quran
+Hadi Islam,1,16-20,College,Rural,Unemployed,0,0,0,1,0,0,0,2,2,0,0,1,2,1,0,2,0,1,0,Islamic Teaching/Islam/Quran
+Saqlain Hassan,1,16-20,College,Urban,Unemployed,1,0,0,0,1,2,1,2,2,1,1,0,2,1,1,0,0,0,0,Doctor
+Ali Ahmed,1,16-20,College,Rural,Unemployed,1,0,0,1,0,0,0,0,2,0,2,1,2,1,2,2,0,1,0,Islamic Teaching/Islam/Quran
+Shayan Ahmed,1,16-20,College,Rural,Unemployed,0,0,0,1,0,0,0,0,2,0,0,1,2,1,0,2,0,1,0,Islamic Teaching/Islam/Quran
+Hassan Iftikhar,1,16-20,College,Urban,Unemployed,0,0,0,1,0,0,0,0,2,0,0,1,2,1,2,2,0,1,0,Doctor
+Zoha,0,16-20,College,Rural,Unemployed,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0,1,1,1,0,Islamic Teaching/Islam/Quran
+Maryam,0,16-20,College,Rural,Unemployed,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0,1,1,0,0,Islamic Teaching/Islam/Quran
+Faiqa,0,16-20,College,Urban,Unemployed,1,1,1,2,1,1,1,1,0,1,1,1,1,1,1,0,1,2,1,Doctor
+Natasha,0,16-20,College,Rural,Unemployed,2,0,0,1,1,0,1,1,1,0,1,0,0,0,1,1,0,2,0,Islamic Teaching/Islam/Quran
+Ali,1,16-20,College,Rural,Unemployed,0,1,0,1,0,0,0,0,0,1,1,0,1,1,0,2,0,1,0,Islamic Teaching/Islam/Quran
+Basit,1,16-20,College,Urban,Unemployed,2,1,2,2,0,0,1,1,1,0,2,0,1,1,0,2,1,0,1,Doctor
+Usama,1,16-20,College,Rural,Unemployed,1,1,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,1,Islamic Teaching/Islam/Quran
+Zara,0,16-20,College,Rural,Unemployed,0,1,0,1,1,0,1,2,0,0,0,1,0,1,0,1,0,0,1,Islamic Teaching/Islam/Quran
+Jaweria Nadeem,0,16-20,College,Urban,Unemployed,1,0,1,0,1,0,1,1,1,0,0,1,0,1,1,0,0,0,1,Doctor
+Gullafshan Akhtar,0,16-20,College,Rural,Unemployed,1,0,2,1,0,1,0,1,1,0,0,1,2,2,0,2,2,0,0,Islamic Teaching/Islam/Quran
+Hifza ,0,16-20,College,Rural,Unemployed,0,1,0,1,0,1,1,1,2,1,0,1,0,0,1,1,0,1,1,Islamic Teaching/Islam/Quran
+Eizza Aslam,0,16-20,College,Urban,Unemployed,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,2,0,2,0,Doctor
+Junaid Jafar,1,16-20,College,Rural,Unemployed,1,0,1,1,0,1,0,2,1,2,0,2,1,1,0,0,1,0,0,Islamic Teaching/Islam/Quran
+Ali Tahir,1,16-20,College,Rural,Unemployed,0,0,1,0,0,1,0,0,1,0,1,0,0,1,1,1,0,1,0,Islamic Teaching/Islam/Quran
+Ahmar,1,16-20,College,Rural,Unemployed,1,1,1,0,2,1,1,0,0,0,1,1,0,1,0,1,0,1,1,Islamic Teaching/Islam/Quran
+Umar ,1,16-20,College,Urban,Unemployed,0,1,2,1,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,Doctor
+Ibraheem,1,16-20,College,Rural,Unemployed,1,0,0,1,1,0,1,2,2,1,0,1,0,1,0,1,0,1,0,Islamic Teaching/Islam/Quran
+M. Ahmad Nabeel,1,16-20,College,Rural,Unemployed,1,1,1,0,2,2,2,2,2,1,2,1,2,1,1,0,0,0,0,Islamic Teaching/Islam/Quran
+Ahmed Javed,1,16-20,College,Urban,Unemployed,1,1,1,2,0,2,2,1,0,1,1,1,1,0,1,1,1,1,1,Doctor
+Rabia Asghar,0,16-20,College,Rural,Unemployed,1,1,1,2,0,2,2,2,2,0,1,1,0,0,1,1,0,1,2,Islamic Teaching/Islam/Quran
+Kainat Khalid,0,16-20,College,Urban,Unemployed,1,1,2,1,0,1,1,1,1,1,0,2,0,1,1,1,0,2,2,Doctor
+Maryam Habib,0,16-20,College,Rural,Unemployed,1,2,2,2,2,1,2,1,1,2,2,2,2,1,2,1,2,2,2,Islamic Teaching/Islam/Quran
+Saeed Zafar,1,16-20,College,Urban,Unemployed,1,2,1,2,2,0,1,0,2,0,0,0,2,1,1,0,0,2,1,Doctor
+Ahmed Dawood,1,16-20,College,Urban,Unemployed,0,1,1,2,2,0,1,2,0,2,0,0,0,2,2,0,0,0,0,Doctor
+Waheed Zafar,1,16-20,College,Urban,Unemployed,1,2,2,0,1,2,2,1,2,2,1,2,2,1,0,1,1,0,0,Doctor
+Ahmad Hassan,1,16-20,College,Urban,Unemployed,1,1,1,0,0,0,0,0,1,0,0,1,2,2,2,2,1,0,0,Doctor
+Muhammad Ramzan,1,16-20,College,Rural,Unemployed,1,1,1,0,0,0,0,1,1,0,0,1,2,2,2,2,0,0,0,Islamic Teaching/Islam/Quran
+Muhammad Awais,1,16-20,College,Rural,Unemployed,2,0,1,2,0,0,2,1,2,1,1,1,0,1,0,1,1,0,0,Islamic Teaching/Islam/Quran
+Rana Adeel,1,16-20,College,Rural,Unemployed,0,0,1,1,0,1,0,0,1,0,0,1,0,1,1,0,0,1,0,No Suggestions
+Kiran Saleem,0,16-20,College,Urban,Unemployed,1,2,0,1,0,0,0,0,0,1,1,1,2,1,0,2,0,1,0,Gym
+Faiza,0,16-20,College,Rural,Unemployed,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,No Suggestions
+Rimsha,0,16-20,College,Urban,Unemployed,2,1,1,1,0,0,0,0,1,1,1,0,1,1,0,2,0,0,0,Gym
+Safoora,0,16-20,College,Urban,Unemployed,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,2,0,0,0,Gym
+Madiha Saif,0,16-20,College,Rural,Unemployed,1,0,1,0,1,0,0,0,0,1,1,1,1,1,0,1,1,0,0,No Suggestions
+Atiqa,0,16-20,College,Urban,Unemployed,1,1,0,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,Gym
+Ahsan ,1,16-20,College,Rural,Unemployed,0,0,1,0,1,1,0,0,1,1,1,0,1,1,1,0,0,0,2,No Suggestions
+Muhammad Afzal,1,16-20,College,Rural,Unemployed,2,1,1,2,2,0,2,2,2,2,1,1,0,1,1,2,0,2,0,No Suggestions
+Shoaib Khalid,1,16-20,College,Rural,Unemployed,1,0,1,2,1,0,2,2,2,2,1,1,0,1,0,2,0,1,0,No Suggestions
+Muhammad Usaman,1,16-20,College,Urban,Unemployed,1,2,1,2,2,0,1,2,1,2,1,1,2,1,0,2,0,1,0,Gym
+Muhammad Tayyab,1,16-20,College,Rural,Unemployed,1,2,1,2,2,0,0,2,2,2,1,1,2,1,0,2,0,1,0,No Suggestions
+Mohsin Ali,1,16-20,College,Rural,Unemployed,1,0,1,2,2,0,2,2,2,2,1,1,2,1,0,2,0,1,0,No Suggestions
+Ahmad Nawaz,1,16-20,College,Urban,Unemployed,1,0,2,1,0,1,2,0,2,0,1,1,2,1,0,1,0,1,0,Gym
+Imran Gujjar,1,16-20,College,Rural,Unemployed,1,2,1,0,0,0,2,2,2,2,1,1,2,1,1,2,0,1,0,No Suggestions
+Suleman Ali,1,16-20,College,Rural,Unemployed,1,2,1,2,2,0,1,2,2,0,1,1,0,1,0,2,0,1,0,No Suggestions
+Tayyaba,0,16-20,College,Rural,Unemployed,1,2,1,0,0,0,1,2,2,1,1,1,2,1,0,2,0,1,0,No Suggestions
+A1ha Mahmood,0,16-20,College,Urban,Unemployed,1,0,1,0,2,1,2,2,2,1,1,1,2,1,0,1,0,1,0,Gym
+iqra,0,16-20,College,Rural,Unemployed,1,0,1,2,2,1,0,2,2,0,1,1,0,1,0,1,0,2,1,No Suggestions
+Javeria Amir,0,16-20,College,Urban,Unemployed,1,0,1,2,1,0,1,2,2,1,1,1,2,1,0,2,1,0,0,Gym
+Mubara Ahmad,0,16-20,College,Urban,Unemployed,1,0,2,2,2,1,0,2,2,1,1,1,2,1,0,2,1,0,1,Gym
+Maryam,0,16-20,College,Rural,Unemployed,1,0,1,0,1,0,1,2,2,1,1,1,2,1,0,2,1,0,0,No Suggestions
+0or Fatima,0,16-20,College,Urban,Unemployed,1,0,0,2,2,1,0,2,0,1,1,1,2,1,0,1,0,1,0,Gym
+Emaan Fatima,0,16-20,College,Urban,Unemployed,1,2,0,2,2,0,1,2,1,1,1,1,0,1,0,2,0,1,0,Islamic Teaching/Islam/Quran
+Salmam Ghani,1,21-25,College,Rural,Unemployed,0,0,0,1,1,1,1,0,2,2,2,2,0,2,2,0,0,0,2,No Suggestions
+Umar Yasin,1,21-25,College,Urban,Unemployed,1,0,2,1,0,0,0,0,2,0,1,0,2,1,0,0,0,0,2,Islamic Teaching/Islam/Quran
+Iqra Bashir,0,21-25,College,Rural,Unemployed,1,2,0,0,0,2,1,2,2,0,1,1,2,1,0,2,0,1,0,No Suggestions
+Isha Parveez,0,21-25,College,Urban,Unemployed,1,2,0,2,2,0,1,2,2,2,1,1,0,1,0,2,0,1,0,Islamic Teaching/Islam/Quran
+Shumila,0,21-25,College,Rural,Unemployed,1,0,2,0,0,2,2,0,1,2,1,1,1,1,0,0,0,1,0,No Suggestions
+Sajida Bashir,0,21-25,College,Rural,Unemployed,1,2,0,0,1,0,2,2,2,0,1,1,1,1,0,2,0,1,0,No Suggestions
+Usama Mustaq,1,21-25,College,Urban,Unemployed,0,0,2,1,1,0,2,1,1,0,1,2,1,1,0,2,0,1,0,Islamic Teaching/Islam/Quran
+Ali Ahmad,1,21-25,College,Rural,Unemployed,1,0,1,2,2,0,1,2,2,2,1,1,1,1,0,2,0,1,0,No Suggestions
+Muhammad Azeem,1,21-25,College,Rural,Unemployed,0,1,0,2,2,0,0,2,0,2,1,1,2,1,0,2,0,1,0,No Suggestions
+Muhammad Jhanzaib ,1,21-25,College,Urban,Unemployed,2,0,1,2,2,0,1,2,1,2,1,1,1,1,0,1,0,1,0,Islamic Teaching/Islam/Quran
+Shahzaib Ali,1,21-25,College,Rural,Unemployed,0,1,2,1,1,0,2,2,2,2,1,1,1,1,0,1,0,1,0,No Suggestions
+Namra,0,21-25,College,Rural,Unemployed,1,0,1,0,1,1,0,0,0,1,0,2,1,1,1,0,1,0,1,No Suggestions
+Hania,0,21-25,College,Urban,Unemployed,1,1,2,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,Islamic Teaching/Islam/Quran
+Ahad,1,21-25,College,Rural,Unemployed,1,1,1,0,1,0,1,1,0,1,1,0,0,1,1,2,0,1,0,Islamic Teaching/Islam/Quran
+Shahzaib,1,21-25,College,Rural,Unemployed,1,1,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,0,1,Islamic Teaching/Islam/Quran
+Arham,1,21-25,College,Urban,Unemployed,0,0,1,1,0,0,1,1,0,0,0,1,0,0,2,0,0,0,1,Islamic Teaching/Islam/Quran
+Ahmaf,1,21-25,College,Rural,Unemployed,1,0,1,0,1,1,0,0,1,0,1,0,1,2,0,1,0,1,1,Islamic Teaching/Islam/Quran
+Tehreem Saifullah,0,21-25,College,Rural,Unemployed,1,1,1,1,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,Islamic Teaching/Islam/Quran
+Aniza,0,21-25,College,Rural,Unemployed,0,0,0,2,0,0,1,1,1,1,0,1,1,1,2,0,1,1,2,Islamic Teaching/Islam/Quran
+Minahil,0,21-25,College,Urban,Unemployed,1,0,2,2,2,1,0,1,1,0,2,2,2,1,2,1,2,1,0,Gym
+Baaqia Mughal,0,21-25,College,Rural,Unemployed,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,1,1,0,1,Gym
+Aabish,0,21-25,College,Rural,Unemployed,1,0,0,1,0,0,1,1,1,0,1,1,0,1,1,1,0,1,0,Gym
+Arslan Ahmed,1,21-25,College,Urban,Unemployed,1,0,0,1,0,1,0,1,0,2,1,0,1,1,1,1,0,2,0,Gym
+Jabbar Ali,1,21-25,College,Rural,Unemployed,1,0,1,1,0,1,1,1,1,1,0,0,0,2,0,0,1,2,0,Gym
+0man Ahmed,1,21-25,College,Urban,Unemployed,1,1,0,1,1,2,2,0,1,1,2,0,1,1,1,0,1,1,1,Gym
+0uraiz Md,1,21-25,College,Rural,Unemployed,1,2,1,1,0,1,1,0,1,2,1,1,1,0,0,0,2,1,0,Gym
+Abida,0,21-25,College,Rural,Unemployed,0,1,2,2,2,1,0,1,0,0,0,1,0,1,0,1,1,2,2,Gym
+Mubbarah Sikander,0,21-25,College,Urban,Unemployed,0,0,0,0,1,0,0,0,1,2,1,1,0,0,2,2,1,0,0,Gym
+Namra Manzoor,0,21-25,College,Rural,Unemployed,1,0,1,0,1,1,0,0,0,1,0,2,1,1,1,0,1,0,1,Gym
+Hania Asad,0,21-25,College,Rural,Unemployed,1,1,2,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,Gym
+Ahad Raza,1,21-25,College,Urban,Unemployed,1,1,1,0,1,0,1,1,0,1,1,0,0,1,1,2,0,1,0,Gym
+Shahzaib,1,21-25,College,Rural,Unemployed,1,1,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,0,1,Gym
+Arham,1,21-25,College,Rural,Unemployed,0,0,1,1,0,0,1,1,0,0,0,1,0,0,2,0,0,0,1,Gym
+Ahmad Khan,1,21-25,College,Urban,Unemployed,1,0,1,0,1,1,0,0,1,0,1,0,1,2,0,1,0,1,1,Gym
+Tehreem ,0,21-25,College,Rural,Unemployed,1,1,1,1,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,Gym
+Munnaza,0,21-25,College,Urban,Unemployed,0,0,0,2,0,0,1,1,1,1,0,1,1,1,2,0,1,1,2,Gym
+Minahil,0,21-25,College,Rural,Unemployed,1,0,2,2,2,1,0,1,1,0,2,2,2,1,2,1,2,1,0,Gym
+Baaqia Mughal,0,21-25,College,Urban,Unemployed,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,1,1,0,1,Psychiatrist/ Psychologist
+Aabish,0,21-25,College,Rural,Unemployed,1,0,0,1,0,0,1,1,1,0,1,1,0,1,1,1,0,1,0,Gym
+Arslan Ahmed,1,21-25,College,Urban,Unemployed,1,0,0,1,0,1,0,1,0,2,1,0,1,1,1,1,0,2,0,Psychiatrist/ Psychologist
+Jabbar Ali,1,21-25,College,Rural,Unemployed,1,0,1,1,0,1,1,1,1,1,0,0,0,2,0,0,1,2,0,Gym
+0man Ahmed,1,21-25,College,Urban,Unemployed,1,1,0,1,1,2,2,0,1,1,2,0,1,1,1,0,1,1,1,Psychiatrist/ Psychologist
+0uraiz Md,1,21-25,College,Rural,Unemployed,1,2,1,1,0,1,1,0,1,2,1,1,1,0,0,0,2,1,0,Gym
+Abida,0,21-25,College,Rural,Unemployed,0,1,2,2,2,1,0,1,0,0,0,1,0,1,0,1,1,2,2,Gym
+Mubbarah Sikander,0,21-25,College,Urban,Unemployed,0,0,0,0,1,0,0,0,1,2,1,1,0,0,2,2,1,0,0,Psychiatrist/ Psychologist
+Azmat,0,26-30,College,Rural,Unemployed,0,2,0,1,0,0,0,0,2,2,2,1,2,1,2,2,0,1,0,Magic Healer 
+Muneeba,0,26-30,College,Urban,Unemployed,0,0,0,1,0,1,0,0,2,0,1,1,0,1,1,0,0,1,0,Psychiatrist/ Psychologist
+Aneeb Ali,1,26-30,College,Rural,Unemployed,0,0,0,0,1,1,0,0,2,0,1,1,0,1,0,0,0,1,0,Islamic Teaching/Islam/Quran
+Arham,1,26-30,College,Urban,Unemployed,0,0,0,0,1,0,0,0,2,0,1,1,0,1,0,0,0,1,0,Psychiatrist/ Psychologist
+Ismaeel,1,26-30,College,Rural,Unemployed,1,0,0,1,0,0,0,0,2,0,1,1,0,1,1,0,0,1,0,Magic Healer 
+Adnan Liaqat,1,26-30,College,Urban,Unemployed,0,1,1,0,0,2,2,2,1,1,1,2,1,1,0,0,0,2,0,Psychiatrist/ Psychologist
+Muhammad Dawood,1,26-30,College,Rural,Unemployed,1,0,1,0,1,1,0,2,0,2,1,0,1,1,0,1,0,1,0,Islamic Teaching/Islam/Quran
+Muhammad Muddasar,1,26-30,College,Urban,Unemployed,1,1,2,0,0,2,0,2,2,1,1,2,1,1,0,1,0,2,0,Psychiatrist/ Psychologist
+Nazia Nadeem,0,26-30,College,Rural,Unemployed,1,1,1,2,2,0,2,2,1,2,1,1,1,1,0,1,0,1,0,Magic Healer 
+Ali,1,26-30,College,Urban,Unemployed,1,0,0,1,1,2,0,1,0,1,0,0,0,1,1,0,2,0,0,Psychiatrist/ Psychologist
+Chand,1,26-30,College,Rural,Unemployed,0,1,1,1,0,0,1,1,0,0,1,0,1,1,0,0,0,2,0,Islamic Teaching/Islam/Quran
+Mehreen,0,26-30,College,Urban,Unemployed,0,0,0,0,1,0,1,1,1,1,0,1,1,0,1,0,1,0,0,Psychiatrist/ Psychologist
+Fatima,0,26-30,College,Rural,Unemployed,0,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,1,1,0,Magic Healer 
+Mubashir ,1,26-30,College,Urban,Unemployed,1,0,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,0,1,Psychiatrist/ Psychologist
+Maryam,0,26-30,College,Rural,Unemployed,0,1,1,1,0,0,2,1,1,1,0,0,1,1,0,1,1,2,1,Islamic Teaching/Islam/Quran
+Fariha Farooq,0,26-30,College,Urban,Unemployed,0,0,1,1,0,2,1,0,1,0,0,1,1,0,0,0,1,1,0,Psychiatrist/ Psychologist
+Usama,1,26-30,College,Urban,Unemployed,0,1,0,2,1,0,0,1,0,0,0,1,1,1,0,0,1,1,0,Psychiatrist/ Psychologist
+Ubaid,1,26-30,College,Urban,Unemployed,1,1,0,0,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,Psychiatrist/ Psychologist
+Awais,1,26-30,College,Urban,Unemployed,0,0,1,1,1,0,2,1,1,1,0,0,0,1,2,2,1,0,1,Psychiatrist/ Psychologist
+Shabana,0,26-30,College,Rural,Unemployed,1,0,1,1,2,0,1,1,1,0,1,1,0,1,1,1,0,1,2,Islamic Teaching/Islam/Quran
+Mumtaz bibi,0,26-30,College,Rural,Unemployed,2,2,2,2,2,2,1,1,0,2,1,2,2,1,0,2,2,1,2,Islamic Teaching/Islam/Quran
+Asma Malik,0,26-30,College,Urban,Unemployed,1,0,2,2,2,0,1,2,2,2,2,2,2,1,2,2,2,2,2,Psychiatrist/ Psychologist
+Farhan Nadeem,1,26-30,College,Rural,Unemployed,1,2,2,2,2,2,2,1,1,2,1,1,1,2,2,1,2,2,2,Islamic Teaching/Islam/Quran
+Waqas Wattoo,1,26-30,College,Urban,Unemployed,1,2,2,2,2,2,2,0,0,0,1,1,1,1,1,1,0,1,0,Psychiatrist/ Psychologist
+M. Shafique,1,26-30,College,Urban,Unemployed,1,2,2,2,2,2,2,1,1,0,0,2,1,1,2,1,2,2,2,Psychiatrist/ Psychologist
+Tanveer Ahmad,1,26-30,College,Rural,Unemployed,1,0,1,1,2,1,2,2,2,2,1,1,1,1,2,1,1,2,2,Islamic Teaching/Islam/Quran
+Waleed Shehzad,1,26-30,College,Urban,Unemployed,1,0,1,2,1,2,2,1,2,2,1,1,2,1,1,1,2,2,2,Psychiatrist/ Psychologist
+M hussain,1,26-30,College,Urban,Unemployed,1,2,1,1,2,2,1,0,0,0,1,1,2,1,2,2,2,2,2,Psychiatrist/ Psychologist
+Muhammad Zahid,1,26-30,College,Rural,Unemployed,1,0,1,1,0,0,0,0,2,1,1,0,1,1,2,2,0,0,0,Islamic Teaching/Islam/Quran
+Muhammad Nadeem,1,26-30,College,Rural,Unemployed,1,2,1,0,1,0,0,0,0,0,1,1,0,2,0,2,0,2,1,Islamic Teaching/Islam/Quran
+Faiza,0,26-30,College,Urban,Unemployed,1,1,0,0,1,0,0,1,2,1,1,1,1,1,0,2,0,0,0,Psychiatrist/ Psychologist
+Azmat,0,26-30,College,Rural,Unemployed,0,2,0,1,0,0,0,0,2,2,2,1,2,1,2,2,0,1,0,Islamic Teaching/Islam/Quran
+Muneeba,0,26-30,College,Urban,Unemployed,0,0,0,1,0,1,0,0,2,0,1,1,0,1,1,0,0,1,0,Psychiatrist/ Psychologist
+Aneeb Ali,1,26-30,College,Rural,Unemployed,0,0,0,0,1,1,0,0,2,0,1,1,0,1,0,0,0,1,0,Islamic Teaching/Islam/Quran
+Arham,1,26-30,College,Urban,Unemployed,0,0,0,0,1,0,0,0,2,0,1,1,0,1,0,0,0,1,0,Psychiatrist/ Psychologist
+Ismail Akram,1,26-30,College,Urban,Unemployed,1,0,0,1,0,0,0,0,2,0,1,1,0,1,1,0,0,1,0,Psychiatrist/ Psychologist
+Adnan Liaqat Ali,1,26-30,College,Urban,Unemployed,0,1,1,0,0,2,2,2,1,1,1,2,1,1,0,0,0,2,0,Psychiatrist/ Psychologist
+Muhammad Saleh,1,26-30,College,Urban,Unemployed,1,0,1,0,1,1,0,2,0,2,1,0,1,1,0,1,0,1,0,Psychiatrist/ Psychologist
+Muhammad Mubushir,1,26-30,College,Urban,Unemployed,1,1,2,0,0,2,0,2,2,1,1,2,1,1,0,1,0,2,0,Psychiatrist/ Psychologist
+Nazia ,0,26-30,College,Urban,Unemployed,1,1,1,2,2,0,2,2,1,2,1,1,1,1,0,1,0,1,0,Hobbies
+Ali Haider,1,26-30,College,Urban,Unemployed,1,0,0,1,1,2,0,1,0,1,0,0,0,1,1,0,2,0,0,Hobbies
+Momin,1,26-30,College,Rural,Unemployed,0,1,1,1,0,0,1,1,0,0,1,0,1,1,0,0,0,2,0,Islamic Teaching/Islam/Quran
+Muhammad Zahid,1,26-30,College,Rural,Unemployed,1,0,1,1,0,0,0,0,2,1,1,0,1,1,2,2,0,0,0,Islamic Teaching/Islam/Quran
+Muhammad Nadeem,1,26-30,College,Rural,Unemployed,1,2,1,0,1,0,0,0,0,0,1,1,0,2,0,2,0,2,1,Islamic Teaching/Islam/Quran
+Faiza,0,26-30,College,Rural,Unemployed,1,1,0,0,1,0,0,1,2,1,1,1,1,1,0,2,0,0,0,Islamic Teaching/Islam/Quran
+Adnan Liaqat Ali,1,26-30,College,Urban,Unemployed,0,1,1,0,0,2,2,2,1,1,1,2,1,1,0,0,0,2,0,Hobbies
+Muhammad Saleh,1,26-30,College,Urban,Unemployed,1,0,1,0,1,1,0,2,0,2,1,0,1,1,0,1,0,1,0,Hobbies
+Umaima Masood,0,31-35,College,Urban,Unemployed,1,1,1,1,1,1,1,1,0,2,0,1,0,0,1,0,1,0,2,Hobbies
+Laraib Fatima,0,31-35,College,Urban,Unemployed,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,Hobbies
+A1ha Yousafzai,0,31-35,College,Rural,Unemployed,0,0,2,2,2,0,0,2,0,0,0,1,0,0,2,0,2,0,2,Islamic Teaching/Islam/Quran
+Bisma,0,31-35,College,Rural,Unemployed,2,1,0,0,1,0,1,2,1,0,1,1,2,1,0,1,0,0,0,Islamic Teaching/Islam/Quran
+Aaima Mahood,0,31-35,College,Rural,Unemployed,1,0,0,2,2,0,2,2,1,2,1,1,2,1,0,1,0,1,0,Islamic Teaching/Islam/Quran
+Waseen Iqbal,1,31-35,College,Urban,Unemployed,1,0,1,0,0,2,0,2,1,1,1,2,0,1,0,1,0,0,1,Hobbies
+Umair,1,31-35,College,Rural,Unemployed,1,1,0,1,0,1,1,0,1,1,0,0,1,1,0,0,1,0,1,Magic Healer 
+Zain,1,31-35,College,Rural,Unemployed,1,0,2,0,1,2,0,1,2,0,1,0,0,0,1,0,1,0,1,Magic Healer 
+Zunaira,0,31-35,College,Urban,Unemployed,0,0,2,1,0,2,0,0,0,1,1,1,1,1,1,1,1,0,0,Hobbies
+Rabia,0,31-35,College,Rural,Unemployed,1,1,1,0,1,1,0,0,2,0,2,1,0,1,1,1,1,1,0,Magic Healer 
+Zaira,0,31-35,College,Rural,Unemployed,1,0,0,2,1,2,1,2,1,1,1,0,1,1,2,1,0,1,1,Magic Healer 
+Haseeb,1,31-35,College,Urban,Unemployed,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,2,0,0,Hobbies
+Mohsin,1,31-35,College,Rural,Unemployed,0,1,0,0,1,1,0,1,1,0,1,0,1,1,1,0,1,1,0,Magic Healer 
+Saira,0,31-35,College,Urban,Unemployed,1,1,0,0,1,1,0,1,0,0,1,1,0,0,1,1,0,0,1,Hobbies
+Iqra Sajid,0,31-35,College,Urban,Unemployed,0,1,0,0,1,2,1,2,2,2,1,1,0,1,0,0,1,1,0,Hobbies
+Rimsha,0,31-35,College,Rural,Unemployed,1,0,0,0,0,1,1,1,0,2,1,1,0,0,1,0,0,1,0,Magic Healer 
+Daud Aslam,1,31-35,College,Urban,Unemployed,0,0,2,2,1,0,2,0,1,1,0,0,1,1,0,0,0,1,0,Hobbies
+Salman Zafar,1,31-35,College,Rural,Unemployed,1,1,1,2,2,0,0,0,1,2,1,0,1,0,1,0,0,1,0,Magic Healer 
+Yasir Ali,1,31-35,College,Urban,Unemployed,1,0,0,1,0,1,2,0,1,0,1,0,0,0,0,0,1,1,1,Hobbies
+Iqra,0,31-35,College,Urban,Unemployed,1,0,1,2,1,1,1,1,0,1,1,2,0,2,0,0,1,1,2,Hobbies
+Parveen,0,31-35,College,Urban,Unemployed,1,0,1,2,2,2,2,1,1,0,1,1,1,1,0,2,2,2,2,Hobbies
+Sabahat,0,31-35,College,Rural,Unemployed,1,2,2,2,2,2,2,2,2,2,1,1,2,1,2,1,2,2,2,Magic Healer 
+Javeria,0,31-35,College,Urban,Unemployed,1,2,1,1,2,1,2,2,1,2,1,2,2,1,2,1,2,2,2,Hobbies
+Mughees Iqbal,0,31-35,College,Rural,Unemployed,1,2,2,2,2,2,0,2,2,0,2,2,2,2,1,1,0,1,2,Magic Healer 
+Arslan Arshad,1,31-35,College,Urban,Unemployed,0,2,2,2,2,2,2,2,2,2,1,1,1,1,2,1,2,2,2,Hobbies
+Mueez Sheikh,1,31-35,College,Urban,Unemployed,2,1,1,1,2,1,0,0,1,0,1,2,1,1,2,1,2,2,2,Hobbies
+Hamza Mukhtar,1,31-35,College,Rural,Unemployed,1,0,2,2,2,2,0,2,1,0,1,1,1,1,1,1,2,2,2,Magic Healer 
+Talha mumtaz,1,31-35,College,Urban,Unemployed,1,0,1,1,2,1,0,1,1,0,1,1,0,1,1,1,0,0,2,Hobbies
+Bilal Khan,1,31-35,College,Urban,Unemployed,2,0,2,2,2,0,0,2,2,2,1,1,2,1,2,0,0,0,1,Hobbies
+Shams Pervaiz,1,31-35,College,Rural,Unemployed,2,1,0,0,1,0,0,1,1,0,1,0,1,1,0,1,0,1,0,Magic Healer 
+Muhammad Baber,1,31-35,College,Urban,Unemployed,1,0,0,0,1,0,2,1,1,0,1,0,1,1,2,1,1,1,0,Hobbies
+Ehsan Shakoor,1,31-35,College,Rural,Unemployed,1,1,0,1,1,0,0,0,1,0,1,1,1,0,0,0,1,1,0,Magic Healer 
+Qasim Munir,1,31-35,College,Urban,Unemployed,1,0,0,1,0,1,1,1,0,1,1,1,0,1,0,1,2,0,0,Hobbies
+Tariq Mehmood,1,31-35,College,Rural,Unemployed,1,1,1,1,1,0,0,0,1,0,1,1,1,0,0,1,1,0,1,Magic Healer 
+Anila Safdar,0,31-35,College,Urban,Unemployed,0,0,1,2,1,2,2,2,2,2,2,2,1,1,0,0,1,1,0,Hobbies
+Sadia,0,31-35,College,Rural,Unemployed,1,1,0,0,1,0,2,1,2,0,0,0,0,1,0,1,0,0,0,Magic Healer 
+Shama,0,31-35,College,Urban,Unemployed,1,1,0,0,1,0,2,1,1,1,1,1,1,1,0,1,0,0,1,Gym
+Tayyeba,0,31-35,College,Rural,Unemployed,0,1,0,0,0,1,2,2,1,1,0,1,1,0,0,1,1,1,1,Magic Healer 
+Umaima Masood,0,31-35,College,Urban,Unemployed,1,1,1,1,1,1,1,1,0,2,0,1,0,0,1,0,1,0,2,Gym
+Laraib Fatima,0,31-35,College,Rural,Unemployed,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,Magic Healer 
+A1ha Yousafzai,0,31-35,College,Urban,Unemployed,0,0,2,2,2,0,0,2,0,0,0,1,0,0,2,0,2,0,2,Gym
+Bisma,0,31-35,College,Urban,Unemployed,2,1,0,0,1,0,1,2,1,0,1,1,2,1,0,1,0,0,0,Islamic Teaching/Islam/Quran
+Aaima Mahood,0,31-35,College,Rural,Unemployed,1,0,0,2,2,0,2,2,1,2,1,1,2,1,0,1,0,1,0,Magic Healer 
+Rubeena Khan,0,36-40,College,Urban,House Wife,0,0,0,1,0,0,1,0,2,0,1,1,1,1,1,0,0,1,0,Islamic Teaching/Islam/Quran
+Rubina Zahid,0,36-40,College,Rural,Unemployed,2,1,0,0,0,2,1,0,1,1,1,1,0,1,0,2,1,0,0,Magic Healer 
+Kausar Bashir,0,36-40,College,Urban,House Wife,1,0,1,0,0,2,1,0,1,1,1,2,1,0,1,0,0,0,0,Islamic Teaching/Islam/Quran
+Azra Shahaid,0,36-40,College,Urban,Unemployed,1,0,2,0,0,2,0,2,1,2,1,1,2,1,0,0,0,2,0,Islamic Teaching/Islam/Quran
+Munazza,0,36-40,College,Rural,Unemployed,1,1,0,0,0,1,2,0,1,0,1,0,1,1,0,1,1,0,1,Magic Healer 
+Rania,0,36-40,College,Urban,Unemployed,1,0,2,0,1,2,0,1,2,0,1,0,1,0,1,0,1,0,1,Islamic Teaching/Islam/Quran
+Naseem,1,36-40,College,Rural,Unemployed,0,0,2,1,0,2,0,0,1,1,1,1,1,1,1,1,1,1,0,Magic Healer 
+Zahida,0,36-40,College,Urban,House Wife,1,2,0,0,1,0,1,1,0,0,0,0,0,2,2,0,0,1,0,Islamic Teaching/Islam/Quran
+Asim,1,36-40,College,Rural,Unemployed,0,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,0,0,2,Magic Healer 
+Shaista,0,36-40,College,Urban,Unemployed,2,1,1,0,0,1,2,1,0,1,1,1,1,1,0,0,1,1,0,Islamic Teaching/Islam/Quran
+A1ha,0,36-40,College,Rural,Unemployed,1,0,2,0,1,1,0,0,0,0,2,1,0,1,1,1,1,1,1,Magic Healer 
+Saqib,1,36-40,College,Rural,Unemployed,1,0,0,2,1,2,1,2,1,1,0,0,1,1,2,1,0,1,1,Magic Healer 
+Ahmad,1,36-40,College,Rural,Unemployed,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,Magic Healer 
+Maham,0,36-40,College,Urban,House Wife,1,1,1,0,1,1,0,1,1,0,1,0,1,1,1,0,1,1,0,Islamic Teaching/Islam/Quran
+Sherba0,0,36-40,College,Urban,Unemployed,1,1,0,0,0,0,0,0,0,0,1,2,1,2,0,0,0,1,1,Islamic Teaching/Islam/Quran
+Arooj,0,36-40,College,Rural,Unemployed,0,0,1,2,1,1,0,1,1,2,0,1,1,1,0,0,1,1,0,Magic Healer 
+Kanwal,0,36-40,College,Urban,House Wife,1,1,1,1,2,1,0,1,0,1,0,1,0,1,1,1,2,0,1,Islamic Teaching/Islam/Quran
+Aqeel,1,36-40,College,Urban,Unemployed,0,2,0,0,1,1,1,1,0,1,0,1,2,0,1,1,0,0,0,Islamic Teaching/Islam/Quran
+FatimaIjaza,0,36-40,College,Rural,Unemployed,1,0,0,1,2,0,2,0,1,0,1,1,2,1,2,1,0,1,0,Magic Healer 
+Mahjabeen,0,36-40,College,Urban,Unemployed,2,2,2,2,2,0,1,2,2,2,2,1,1,1,1,1,0,1,0,Islamic Teaching/Islam/Quran
+Muqaddas begum,0,36-40,College,Rural,House Wife,1,2,1,1,0,1,0,1,2,0,0,1,0,1,0,1,0,2,2,Magic Healer 
+Abro bibi,0,36-40,College,Urban,Unemployed,1,0,1,1,2,1,0,2,2,2,2,2,1,1,0,1,0,0,2,Islamic Teaching/Islam/Quran
+Haroon,1,36-40,College,Rural,Unemployed,1,0,2,0,0,0,0,2,1,2,2,2,2,1,2,0,0,1,0,Magic Healer 
+jabar Khan,1,36-40,College,Urban,Unemployed,1,0,1,2,2,1,0,0,2,2,2,2,2,2,0,1,2,2,2,Islamic Teaching/Islam/Quran
+Araiz Ahmed,1,36-40,College,Rural,Unemployed,1,1,2,1,0,1,0,1,2,0,2,2,2,0,1,0,1,2,0,Magic Healer 
+Muhammad Imran,1,36-40,College,Urban,Unemployed,0,0,1,0,1,1,0,1,0,1,1,1,1,0,0,1,1,0,0,Islamic Teaching/Islam/Quran
+Muhammad Ayub,1,36-40,College,Rural,Unemployed,1,1,1,0,1,1,0,0,0,1,0,0,1,0,0,1,1,0,1,Magic Healer 
+Waseem Khan,1,36-40,College,Rural,Unemployed,0,2,1,0,1,0,2,2,1,2,2,1,0,1,0,2,1,0,1,Magic Healer 
+Tehreem Fatima,0,36-40,College,Rural,Unemployed,1,1,0,1,1,0,0,0,1,1,1,1,1,0,0,0,1,0,1,Magic Healer 
+Uzma Afzal,0,36-40,College,Urban,House Wife,1,0,1,0,1,1,0,0,0,1,1,1,0,1,1,0,1,0,0,Islamic Teaching/Islam/Quran
+Sumaira Naseer,0,36-40,College,Urban,Unemployed,1,0,1,0,1,1,0,0,1,0,1,1,1,1,1,1,1,1,0,Islamic Teaching/Islam/Quran
+Kiran Alyas,0,36-40,College,Rural,Unemployed,1,0,0,0,1,0,0,0,0,0,1,0,1,2,0,1,1,0,1,Magic Healer 
+Saman,0,41-45,College,Urban,Unemployed,1,0,0,0,1,0,2,0,1,2,2,0,1,1,0,0,0,1,0,Islamic Teaching/Islam/Quran
+Ambreen,0,41-45,College,Rural,House Wife,1,0,1,0,0,0,0,0,1,1,1,0,1,1,1,1,0,1,0,Magic Healer 
+Farooq,1,41-45,College,Urban,Unemployed,1,2,1,0,0,1,0,0,0,2,1,0,2,1,0,1,1,0,0,Psychiatrist/ Psychologist
+Kashif,1,41-45,College,Urban,Unemployed,1,0,0,2,1,0,0,0,0,0,1,2,2,1,0,2,0,1,0,Psychiatrist/ Psychologist
+Razaq,1,41-45,College,Rural,Unemployed,1,0,1,0,1,2,2,0,1,2,1,1,1,1,2,1,1,0,0,Magic Healer 
+Akram,1,41-45,College,Urban,Unemployed,1,0,1,0,1,0,2,0,0,0,1,0,0,1,2,0,0,0,0,Psychiatrist/ Psychologist
+M Mansha,1,41-45,College,Urban,Unemployed,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,0,1,Psychiatrist/ Psychologist
+Akram Minhas,1,41-45,College,Rural,Unemployed,1,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,Magic Healer 
+Zahida Parveen,0,41-45,College,Urban,Unemployed,2,2,0,2,2,2,0,2,0,0,1,1,1,1,0,1,0,2,0,Psychiatrist/ Psychologist
+Samina Akran,0,41-45,College,Rural,Unemployed,1,0,1,0,1,0,1,2,2,1,1,1,1,1,0,2,0,2,0,Magic Healer 
+Sana Javeed,0,41-45,College,Urban,Unemployed,0,0,0,1,1,2,2,2,2,2,1,1,2,1,0,2,0,1,0,Psychiatrist/ Psychologist
+Farrukh,0,41-45,College,Rural,House Wife,1,0,1,1,0,0,1,1,0,1,2,1,1,2,0,1,0,2,0,Magic Healer 
+Makhdoom,1,41-45,College,Urban,Unemployed,2,0,1,0,1,1,0,0,0,0,0,1,0,1,0,0,1,1,1,Psychiatrist/ Psychologist
+Maqsood,1,41-45,College,Rural,Unemployed,1,1,2,2,1,0,0,1,0,1,0,1,0,0,0,0,0,1,1,Magic Healer 
+Shafqat,0,41-45,College,Urban,Unemployed,1,0,0,1,1,0,1,1,1,1,1,0,1,0,1,0,0,0,1,Psychiatrist/ Psychologist
+Nazia,0,41-45,College,Rural,Unemployed,0,1,1,0,2,1,1,1,1,1,1,0,1,0,1,1,2,1,0,Magic Healer 
+Madiha,0,41-45,College,Rural,Unemployed,1,2,1,1,0,0,1,1,2,0,1,1,1,1,1,1,1,1,0,Magic Healer 
+Mujahid,1,41-45,College,Rural,Unemployed,1,1,1,0,1,1,0,0,1,1,0,0,1,0,0,1,0,0,1,Magic Healer 
+Zenia,0,41-45,College,Urban,House Wife,1,0,1,0,1,0,0,1,2,0,1,1,0,1,0,0,1,0,0,Psychiatrist/ Psychologist
+Saood,1,41-45,College,Urban,Unemployed,0,0,1,1,1,0,1,0,0,1,0,1,1,0,1,1,1,1,1,Psychiatrist/ Psychologist
+Amna,0,41-45,College,Rural,Unemployed,0,0,0,0,1,2,0,1,1,0,1,1,0,1,0,1,0,0,1,Magic Healer 
+Kausar,0,41-45,College,Urban,Unemployed,1,1,0,0,1,1,2,0,1,1,0,1,0,0,0,1,1,0,1,Psychiatrist/ Psychologist
+Mudassir,1,41-45,College,Urban,Unemployed,0,0,0,0,0,2,2,1,1,1,0,1,1,2,0,0,0,2,1,Psychiatrist/ Psychologist
+Murtaza nawab,1,41-45,College,Rural,Unemployed,1,1,1,0,2,2,2,0,0,0,2,1,2,1,0,1,2,2,2,Islamic Teaching/Islam/Quran
+Waseem Abbas,1,41-45,College,Urban,Unemployed,1,0,1,0,1,1,0,2,1,0,1,1,0,1,0,1,0,2,2,Psychiatrist/ Psychologist
+Jamshaid Akhtar,1,41-45,College,Rural,Unemployed,2,0,1,2,2,1,0,0,2,2,2,2,2,2,2,1,2,2,2,Islamic Teaching/Islam/Quran
+Haris Sheikh,1,41-45,College,Urban,Unemployed,2,2,1,2,2,2,1,2,2,2,1,1,0,1,2,2,2,0,2,Psychiatrist/ Psychologist
+Kinza,0,41-45,College,Rural,Unemployed,1,0,0,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,2,Islamic Teaching/Islam/Quran
+Nasira,0,41-45,College,Urban,House Wife,1,0,0,1,0,0,1,1,2,0,1,1,1,1,0,1,0,0,0,Psychiatrist/ Psychologist
+Abdul Qayoom,1,41-45,College,Urban,Unemployed,1,0,1,0,1,1,0,0,0,1,1,1,1,1,0,1,1,0,0,Psychiatrist/ Psychologist
+Narjus Mahboob,0,41-45,College,Rural,Unemployed,1,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,Islamic Teaching/Islam/Quran
+Adeel Ahmed,1,41-45,College,Urban,Unemployed,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,0,1,0,0,Family & Friends Counseling
+Jhanzaib Ali,1,41-45,College,Urban,Unemployed,0,0,1,1,1,0,0,0,1,1,1,1,0,2,0,0,1,1,0,Family & Friends Counseling
+Saira Aslam,0,26-30,College,Rural,Unemployed,1,1,1,1,1,1,1,2,1,1,1,1,0,0,0,1,1,1,1,Islamic Teaching/Islam/Quran
+Nasreen Akhtar,0,41-45,College,Urban,Unemployed,1,1,1,1,0,1,1,1,0,0,2,0,1,1,1,0,0,0,0,Family & Friends Counseling
+Fakhar Hyyat,1,26-30,Islamic Scholar,Rural,Unemployed,1,1,0,2,2,2,2,2,1,2,1,1,2,1,0,2,0,1,0,Islamic Teaching/Islam/Quran
+Hfaiz Abdul Gaffhar,1,31-35,Islamic Scholar,Rural,Unemployed,1,2,1,0,0,2,1,2,1,1,2,1,0,1,0,2,1,0,2,Islamic Teaching/Islam/Quran
+Tahira Yaseen,0,41-45,Islamic Scholar,Urban,Unemployed,1,0,1,0,1,0,2,0,0,0,1,0,0,1,2,0,0,0,0,Family & Friends Counseling
+Farzana Sikander,0,41-45,Islamic Scholar,Urban,House Wife,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,0,1,Family & Friends Counseling
+Raheed Zaheer,0,16-20,University,Rural,employed,1,0,2,0,2,1,0,2,1,0,1,1,2,1,0,0,2,1,2,Islamic Teaching/Islam/Quran
+Mr. 0man Arif,1,21-25,University,Rural,employed,1,2,0,2,2,1,0,2,1,2,1,1,2,1,0,2,0,1,0,Islamic Teaching/Islam/Quran
+Haris,1,21-25,University,Rural,employed,1,0,2,0,1,0,1,0,0,1,1,1,0,1,0,0,1,0,0,Gym
+Ajmal,1,21-25,University,Rural,employed,1,1,0,1,1,0,0,1,0,1,1,1,0,2,2,1,0,1,0,Gym
+Usama Shahzad,1,21-25,University,Rural,employed,1,0,1,0,1,0,1,0,1,2,1,2,2,1,0,2,0,1,0,Gym
+Rana Zain,1,21-25,University,Rural,employed,1,0,0,0,1,0,0,1,0,1,1,1,1,1,0,1,0,1,0,No Suggestions
+Ibtisam Ahmed,1,21-25,University,Rural,employed,1,2,1,0,1,0,0,1,2,2,1,1,1,1,0,2,1,0,0,No Suggestions
+Obaid Ullah,1,21-25,University,Urban,employed,0,0,1,1,0,1,1,0,1,2,1,1,0,0,0,1,1,0,0,Family & Friends Counseling
+Mohsin Ali,1,21-25,University,Rural,employed,1,2,1,0,1,0,1,1,0,1,1,1,0,0,0,1,1,2,1,No Suggestions
+Muhammad Usaman Ghani,1,21-25,University,Urban,employed,1,1,1,1,1,0,0,0,0,2,1,0,0,1,1,0,1,0,1,Family & Friends Counseling
+Mohsin Khan ,1,21-25,University,Rural,employed,1,0,1,1,0,0,1,1,1,0,1,0,0,1,1,1,0,0,0,No Suggestions
+Hooria Amir,0,21-25,University,Rural,employed,1,2,1,2,1,1,0,2,1,2,1,0,1,0,0,0,1,0,1,No Suggestions
+Rabia,0,21-25,University,Urban,employed,1,0,0,0,1,0,1,0,0,1,1,1,0,0,2,2,0,1,1,Family & Friends Counseling
+Saira Hameed,0,21-25,University,Rural,employed,1,2,1,2,1,1,2,2,1,2,1,1,0,0,0,0,1,0,1,No Suggestions
+Nida Khaliq,0,21-25,University,Rural,employed,1,2,0,0,1,0,1,1,1,0,1,0,0,1,1,2,0,1,0,No Suggestions
+Unk0wn,0,21-25,University,Urban,employed,2,2,0,2,2,2,2,2,1,2,1,0,1,0,0,0,1,0,1,Family & Friends Counseling
+Haris Rafiq,1,21-25,University,Rural,employed,1,0,2,0,1,0,1,0,0,1,1,1,0,1,0,0,1,0,0,Psychiatrist/ Psychologist
+Ajmal,1,21-25,University,Rural,employed,1,1,0,1,1,0,0,1,0,1,1,1,0,2,2,1,0,1,0,Psychiatrist/ Psychologist
+Usama Shahzad,1,21-25,University,Urban,employed,1,0,1,0,1,0,1,0,1,2,1,2,2,1,0,2,0,1,0,Family & Friends Counseling
+Rana Zain,1,21-25,University,Rural,employed,1,0,0,0,1,0,0,1,0,1,1,1,1,1,0,1,0,1,0,Psychiatrist/ Psychologist
+Anas Maqbool,1,21-25,University,Rural,employed,1,1,1,0,0,0,0,1,2,1,0,0,0,1,1,0,1,1,1,Psychiatrist/ Psychologist
+Sohaib Maqbool,1,21-25,University,Urban,employed,1,0,0,0,0,1,1,1,1,1,1,0,0,2,0,2,0,2,1,Family & Friends Counseling
+Huma,0,26-30,University,Rural,employed,1,0,2,0,1,0,0,0,1,1,0,1,2,1,1,2,0,2,0,Islamic Teaching/Islam/Quran
+Meerab,0,26-30,University,Urban,employed,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,2,0,2,0,Family & Friends Counseling
+Atif,1,26-30,University,Rural,employed,0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,0,1,Islamic Teaching/Islam/Quran
+Amir Razzaq,1,26-30,University,Rural,employed,1,1,1,1,0,0,0,0,0,1,1,1,1,1,0,1,1,1,0,Islamic Teaching/Islam/Quran
+Shehda,0,26-30,University,Urban,employed,0,0,2,2,2,2,0,2,2,2,2,0,2,1,0,2,2,2,2,Family & Friends Counseling
+Ume-Kalsoom,0,26-30,University,Rural,employed,0,0,1,0,1,0,0,0,1,2,2,2,2,0,0,1,0,0,0,Islamic Teaching/Islam/Quran
+Maryam,0,26-30,University,Rural,employed,0,1,0,0,1,0,0,1,1,1,0,0,0,1,1,0,0,0,0,Islamic Teaching/Islam/Quran
+Mudasi Safi Ullah,1,26-30,University,Urban,employed,1,0,1,0,1,1,0,0,1,0,1,1,1,1,0,1,1,0,0,Family & Friends Counseling
+Fariha Afzal,0,26-30,University,Rural,employed,0,0,1,0,1,1,0,1,1,1,0,0,1,1,0,0,1,0,0,Magic Healer 
+Sana Hassan,0,26-30,University,Rural,employed,1,0,1,0,1,1,1,0,1,0,1,0,0,1,0,0,0,1,0,Magic Healer 
+Nabeela,0,26-30,University,Urban,employed,0,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,1,0,2,Family & Friends Counseling
+Shehda,0,26-30,University,Urban,employed,0,0,2,2,2,2,0,2,2,2,2,0,2,1,0,2,2,2,2,Family & Friends Counseling
+Ume-Kalsoom,0,26-30,University,Rural,employed,0,0,1,0,1,0,0,0,1,2,2,2,2,0,0,1,0,0,0,Magic Healer 
+Madiha Adil,0,31-35,University,Urban,employed,1,0,1,0,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,Family & Friends Counseling
+0or Fatima,0,31-35,University,Urban,employed,1,1,1,0,1,0,0,0,0,0,1,1,0,1,1,0,1,0,1,Family & Friends Counseling
+Huma Zafar,0,31-35,University,Urban,employed,0,0,2,2,1,1,1,2,1,2,0,0,2,1,1,1,0,1,1,Family & Friends Counseling
+Talha Tayyab,1,31-35,University,Urban,employed,1,1,1,0,1,1,1,0,1,1,1,2,2,1,1,2,1,2,2,Family & Friends Counseling
+Bushra,0,36-40,University,Urban,employed,1,1,1,1,0,0,1,1,0,2,0,1,0,0,0,0,1,0,1,Family & Friends Counseling
+Muqaddas riaz,0,36-40,University,Urban,employed,1,0,1,2,2,0,1,0,1,0,1,1,0,1,2,1,0,1,0,Family & Friends Counseling
+Ejaz Ahmed,1,36-40,University,Rural,employed,1,0,1,0,0,0,1,0,1,1,0,0,2,1,0,1,1,0,0,Magic Healer 
+Amir Zubair,1,41-45,University,Urban,employed,1,1,1,0,1,1,0,1,0,2,1,1,0,1,1,1,1,0,2,Family & Friends Counseling
+Muhammad Ehsan,1,41-45,University,Rural,employed,1,2,0,0,1,1,0,0,0,1,1,0,1,1,0,1,1,0,0,Magic Healer 
+Rakhshanda 0or,0,41-45,University,Rural,employed,1,0,0,0,1,0,2,0,2,2,1,2,0,1,2,1,1,0,0,Magic Healer 
+Saif,1,41-45,University,Urban,employed,1,1,1,0,1,0,1,0,1,0,1,1,1,1,2,1,1,1,1,Family & Friends Counseling
+Sajid Gulzar,1,41-45,University,Rural,employed,0,1,0,0,1,1,0,1,1,1,0,0,1,1,0,1,1,0,1,Islamic Teaching/Islam/Quran
+0uman Asghar,1,41-45,University,Urban,employed,1,1,1,0,1,0,0,0,1,0,1,0,1,1,2,1,1,0,0,Family & Friends Counseling
+Haziq Hameed,1,16-20,School,Rural,Unemployed,1,0,0,2,2,0,0,0,2,2,2,1,0,1,0,1,0,1,0,Psychiatrist/ Psychologist
+Shamsul hussain,1,16-20,School,Rural,Unemployed,1,0,0,1,0,0,0,0,2,0,2,1,2,1,2,2,0,0,0,Psychiatrist/ Psychologist
+Hasseba,0,16-20,School,Rural,Unemployed,1,0,0,1,2,1,1,0,0,0,0,1,1,0,0,1,0,1,1,Psychiatrist/ Psychologist
+Muqaddas ,0,16-20,School,Urban,Unemployed,1,1,1,1,0,1,1,0,1,1,0,1,1,1,0,1,1,1,1,Doctor
+Hooria,0,16-20,School,Rural,Unemployed,0,2,2,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,1,Psychiatrist/ Psychologist
+Abdulrehman,1,16-20,School,Urban,Unemployed,1,1,0,2,2,1,1,1,1,0,0,1,0,0,0,0,1,2,0,Doctor
+Zafar,1,16-20,School,Rural,Unemployed,0,0,1,0,0,1,2,2,0,0,0,1,0,1,1,1,1,0,1,Psychiatrist/ Psychologist
+Saad,1,16-20,School,Urban,Unemployed,0,0,0,2,1,2,1,0,1,1,0,1,1,0,1,1,0,0,1,Doctor
+M Waleed,1,16-20,School,Urban,Unemployed,1,0,1,2,0,1,0,1,0,2,1,1,0,1,1,0,2,2,2,Doctor
+Haris,1,16-20,School,Rural,Unemployed,2,2,1,1,1,0,0,0,0,0,1,0,0,0,2,0,2,1,0,Psychiatrist/ Psychologist
+0man Akbar,1,16-20,School,Urban,Unemployed,0,0,0,1,2,2,1,2,2,1,1,2,1,1,1,2,0,0,0,Doctor
+Farhan Ahmed,1,16-20,School,Rural,Unemployed,1,1,2,1,1,1,1,0,1,1,1,2,2,1,1,0,2,1,0,Psychiatrist/ Psychologist
+Aiman Ahmed,1,16-20,School,Urban,Unemployed,1,2,1,1,2,0,2,0,1,0,2,2,2,2,2,0,1,0,1,Doctor
+Hareem Hameed,0,16-20,School,Urban,Unemployed,1,1,1,1,2,2,0,2,2,2,2,0,0,0,2,0,1,1,0,Islamic Teaching/Islam/Quran
+Kainat Khalid,0,16-20,School,Urban,Unemployed,1,1,0,1,1,1,1,0,2,1,1,0,1,0,0,2,1,1,0,Islamic Teaching/Islam/Quran
+Inza Shaukat,0,16-20,School,Rural,Unemployed,1,1,0,2,1,0,0,0,1,0,1,1,1,0,0,0,2,2,2,Psychiatrist/ Psychologist
+Minahil Habib,0,16-20,School,Urban,Unemployed,1,1,0,2,0,0,1,1,0,2,2,2,2,0,0,1,0,2,2,Islamic Teaching/Islam/Quran
+Mariam saif,0,16-20,School,Rural,Unemployed,1,2,2,0,1,1,0,1,1,1,0,1,2,1,2,2,2,2,2,Psychiatrist/ Psychologist
+Ali Zaib Afzal,1,16-20,School,Urban,Unemployed,1,0,1,0,1,1,0,0,0,1,1,1,0,1,1,0,1,0,0,Islamic Teaching/Islam/Quran
+Muhammad Azam,1,16-20,School,Rural,Unemployed,1,1,0,1,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,Psychiatrist/ Psychologist
+Hareem Fatima,0,16-20,School,Urban,Unemployed,1,1,1,0,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,Islamic Teaching/Islam/Quran
+Iqra RiaZ,0,16-20,School,Rural,Unemployed,0,1,1,0,0,1,1,1,1,0,0,0,1,0,0,0,1,1,0,Psychiatrist/ Psychologist
+Sarim Fayyaz,1,16-20,School,Urban,Unemployed,1,0,1,2,2,0,0,2,2,2,1,2,2,1,0,2,0,2,0,Islamic Teaching/Islam/Quran
+Mahad Sikandar,1,16-20,School,Rural,Unemployed,0,0,1,0,0,1,0,0,0,0,2,1,0,0,0,1,1,0,0,Psychiatrist/ Psychologist
+Muhammad Adil,1,16-20,School,Urban,Unemployed,1,0,1,2,2,1,0,0,0,0,2,2,0,0,0,1,1,0,0,Islamic Teaching/Islam/Quran
+Muhammad Haseeb Asghar,1,16-20,School,Rural,Unemployed,0,1,1,0,0,1,2,0,0,2,1,1,1,0,0,1,0,1,0,Psychiatrist/ Psychologist
+Hamza Tariq,1,16-20,School,Rural,Unemployed,0,1,1,0,0,1,0,0,0,0,2,1,0,0,0,1,0,1,0,Psychiatrist/ Psychologist
+Muhammad Junaid,1,16-20,School,Urban,Unemployed,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,Islamic Teaching/Islam/Quran
+Abdul Hadi,1,16-20,School,Rural,Unemployed,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0,Psychiatrist/ Psychologist
+Ali Ahmad,1,16-20,School,Urban,Unemployed,2,0,1,1,2,1,0,0,1,2,1,0,2,0,0,1,1,0,0,Islamic Teaching/Islam/Quran
+Sami Ur Rehman ,1,16-20,School,Rural,Unemployed,2,0,1,1,0,1,2,0,1,2,1,0,0,0,0,1,0,0,0,Psychiatrist/ Psychologist
+Mohsin Ali,1,16-20,School,Urban,Unemployed,2,0,1,1,0,1,2,0,1,2,1,0,2,0,0,1,0,0,0,Islamic Teaching/Islam/Quran
+Saad Sohail,1,16-20,School,Rural,Unemployed,2,0,1,1,0,1,2,1,0,2,1,0,2,0,0,1,0,0,0,Psychiatrist/ Psychologist
+Ahmad Aziz,1,16-20,School,Urban,Unemployed,0,1,1,0,0,1,1,0,1,2,1,2,1,0,0,1,1,0,0,Islamic Teaching/Islam/Quran
+Daniyal Haider,1,16-20,School,Rural,Unemployed,0,0,1,1,0,1,1,0,1,2,1,1,0,0,0,1,1,0,0,Doctor
+Abdul Wahab,1,16-20,School,Rural,Unemployed,2,2,1,1,2,0,0,0,1,0,1,0,2,0,0,1,1,0,0,Doctor
+Atif Ali,1,16-20,School,Urban,Unemployed,1,0,1,2,1,1,0,0,1,0,1,0,1,0,0,1,0,0,0,Islamic Teaching/Islam/Quran
+Muhammad Faizan ,1,16-20,School,Rural,Unemployed,1,0,1,0,1,1,0,0,1,0,1,2,0,0,0,1,0,0,0,Doctor
+Muhammad Arham,1,16-20,School,Urban,Unemployed,1,0,1,0,1,1,0,0,1,0,1,2,1,0,0,1,0,0,0,Islamic Teaching/Islam/Quran
+Hafiz Moiz Rehman,1,16-20,School,Rural,Unemployed,0,1,1,0,1,1,0,0,1,0,1,0,0,0,2,1,1,0,0,Doctor
+Ali Hamza,1,16-20,School,Rural,Unemployed,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,Doctor
+Tayyab,1,16-20,School,Rural,Unemployed,1,0,1,2,1,1,0,0,1,0,1,0,1,0,0,1,0,0,0,Doctor
+Shazia,0,16-20,School,Rural,Unemployed,1,0,0,1,1,0,1,1,0,0,1,1,0,0,1,1,0,1,0,Doctor
+Muhammad Adnan Zahoor,1,16-20,School,Urban,Unemployed,0,0,0,0,1,1,0,1,1,0,1,1,0,1,1,0,0,0,0,Islamic Teaching/Islam/Quran
+Saqlain,1,16-20,School,Rural,Unemployed,2,2,1,1,2,0,0,0,1,0,1,0,2,0,0,1,1,0,0,Doctor
+Sabtain,1,16-20,School,Urban,Unemployed,1,0,1,2,1,1,0,0,1,0,1,0,1,0,0,1,0,0,0,Hobbies
+Mirha Syaal,0,21-25,School,Rural,Unemployed,1,0,1,0,1,1,0,0,0,2,2,2,2,1,0,0,2,2,0,Doctor
+Ali Akbar,1,21-25,School,Urban,Unemployed,2,2,0,1,1,2,1,1,0,0,0,1,2,1,1,0,2,2,0,Family & Friends Counseling
+Mirha Syaal,0,21-25,School,Rural,Unemployed,1,0,1,0,1,1,0,0,0,2,2,2,2,1,0,0,2,2,0,Doctor
+Ali Akbar,1,21-25,School,Rural,Unemployed,2,2,0,1,1,2,1,1,0,0,0,1,2,1,1,0,2,2,0,Doctor
+Haseeb,1,26-30,School,Urban,Unemployed,0,2,0,1,0,0,0,1,2,2,1,1,2,1,2,2,0,1,0,Hobbies
+Faizan,1,26-30,School,Rural,Unemployed,1,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1,1,2,Islamic Teaching/Islam/Quran
+M Bashir,1,26-30,School,Urban,Unemployed,1,2,1,2,2,2,2,2,2,2,1,1,1,2,2,2,2,2,2,Hobbies
+M. Ilyas,1,26-30,School,Rural,Unemployed,1,2,2,2,2,2,2,2,2,2,1,1,1,2,2,2,2,2,2,Islamic Teaching/Islam/Quran
+Haseeb,1,26-30,School,Urban,Unemployed,0,2,0,1,0,0,0,1,2,2,1,1,2,1,2,2,0,1,0,Hobbies
+Hassan,1,36-40,School,Urban,Unemployed,0,1,0,1,0,1,1,0,1,1,0,0,1,1,0,0,1,0,1,Hobbies
+Rashida Bibi,0,36-40,School,Rural,Unemployed,0,1,2,2,0,1,0,1,0,1,1,2,1,0,1,1,2,2,2,Islamic Teaching/Islam/Quran
+Habib Sheikh,1,36-40,School,Urban,Unemployed,1,0,1,2,2,2,1,2,2,1,1,1,2,2,2,2,2,2,2,Hobbies
+Zameer,1,36-40,School,Rural,Unemployed,1,0,1,2,2,0,1,0,1,2,1,1,0,1,1,1,0,2,2,Islamic Teaching/Islam/Quran
+Yunash Sheikh,1,36-40,School,Urban,Unemployed,1,0,0,0,2,2,0,2,2,1,1,2,1,1,2,2,2,2,2,Hobbies
+Bashir Ahmed,1,36-40,School,Rural,Unemployed,1,1,1,2,2,2,2,1,1,0,1,1,1,1,0,1,1,0,1,Islamic Teaching/Islam/Quran
+Syed Muhammad Afzal,1,36-40,School,Urban,Unemployed,1,0,1,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,Hobbies
+Faiza Nisar,0,41-45,School,Rural,House Wife,1,0,0,1,0,0,1,1,2,0,1,1,1,1,0,1,0,0,0,Islamic Teaching/Islam/Quran
+Dawood,1,41-45,School,Urban,Unemployed,1,1,1,0,1,2,0,0,0,0,1,2,1,1,2,1,0,0,0,Hobbies
+Javaid,1,41-45,School,Urban,Unemployed,1,1,0,0,0,2,0,2,1,0,1,1,2,1,1,1,1,0,0,Hobbies
+Tariq,1,41-45,School,Rural,Unemployed,2,1,0,1,0,0,0,0,1,0,0,1,0,1,0,2,0,0,1,Islamic Teaching/Islam/Quran
+Zahid,1,41-45,School,Urban,Unemployed,1,0,0,1,1,0,0,0,2,1,0,0,1,1,0,1,0,1,0,Hobbies
+Sohail,1,41-45,School,Rural,Unemployed,1,1,0,1,0,1,1,0,0,0,1,0,0,1,1,1,0,1,1,Islamic Teaching/Islam/Quran
+Azra,0,41-45,School,Urban,Unemployed,1,0,1,0,0,0,2,0,2,0,1,1,1,1,0,1,0,1,0,Hobbies
+Kaleem Khan,1,41-45,School,Rural,Unemployed,1,2,2,2,2,2,2,0,1,2,1,1,1,1,0,1,2,2,2,Islamic Teaching/Islam/Quran
+Zeeshan Haider,1,41-45,School,Urban,Unemployed,1,0,1,0,0,1,0,2,1,2,2,2,2,2,0,2,2,2,1,Hobbies
+Usman Jamil,1,41-45,School,Rural,Unemployed,1,2,2,2,2,0,2,1,2,0,2,2,2,2,2,2,2,2,2,Islamic Teaching/Islam/Quran
+Usama Ayub,1,41-45,School,Urban,Unemployed,1,0,1,2,1,0,2,2,2,1,1,2,1,1,0,2,2,2,2,Hobbies
+Zainab,0,41-45,School,Rural,House Wife,2,0,1,1,1,0,1,0,2,0,1,1,0,1,0,1,2,0,1,Islamic Teaching/Islam/Quran
+Naseem Bibi,0,41-45,School,Urban,Unemployed,1,2,2,0,1,0,0,0,1,0,1,1,1,1,2,1,0,1,0,Hobbies
+Seema Bibi,0,41-45,School,Urban,Unemployed,1,0,0,0,0,1,0,1,1,0,1,0,0,1,0,1,0,0,0,Hobbies
+Salma Qazi,0,41-45,School,Rural,House Wife,1,2,0,2,2,0,1,0,1,0,1,1,1,1,0,1,0,0,0,Islamic Teaching/Islam/Quran
+Mumtaz,0,41-45,School,Urban,Unemployed,1,0,1,0,0,0,1,0,1,0,1,1,1,1,0,1,0,0,0,Hobbies
+Tariq Ahmed,1,41-45,School,Rural,Unemployed,0,1,0,1,1,0,2,0,0,2,1,2,1,1,0,1,1,1,0,Islamic Teaching/Islam/Quran
+Razia Sultana,0,41-45,School,Urban,Unemployed,1,0,0,2,1,0,0,0,0,0,1,2,2,1,0,2,0,1,0,Gym
+Shahnaz Akhter ,0,41-45,School,Rural,House Wife,1,0,1,0,1,2,2,0,1,2,1,1,1,1,2,1,1,0,0,Islamic Teaching/Islam/Quran
+Mehwish Riaz,0,41-45,School,Urban,Unemployed,1,1,1,0,1,2,0,0,0,0,1,2,1,1,2,1,0,0,0,Gym
+Zahida Parveen,0,41-45,School,Urban,Unemployed,1,2,0,2,2,0,0,0,0,0,1,1,0,1,0,0,0,1,0,Gym
+Aneeb Ali,1,41-45,School,Rural,Unemployed,1,0,1,1,1,0,1,0,0,0,1,0,1,1,2,2,1,0,1,Islamic Teaching/Islam/Quran
+Shayan Sheraz,1,41-45,School,Urban,Unemployed,0,1,0,1,0,1,0,0,0,1,0,1,2,1,0,0,1,0,1,Gym
+Haris,1,16-20,University,Rural,Unemployed,1,1,1,1,1,0,0,0,1,1,1,2,2,0,1,0,0,1,2,Doctor
+Awais,1,16-20,University,Rural,Unemployed,2,1,1,0,0,1,0,1,1,1,2,0,0,1,2,1,1,1,0,Doctor
+kashaf Tariq,0,16-20,University,Urban,Unemployed,1,1,1,0,1,1,0,0,1,1,1,0,0,1,0,1,1,0,1,Hobbies
+Alisha,0,16-20,University,Rural,Unemployed,1,2,1,0,1,1,0,0,0,2,1,0,1,0,0,2,2,0,1,Doctor
+Amna Maqbool,0,16-20,University,Urban,Unemployed,1,0,1,0,0,0,0,0,1,0,0,1,0,1,1,1,0,1,0,Hobbies
+Atif 0or,1,16-20,University,Rural,Unemployed,2,0,2,2,2,1,0,2,2,2,2,2,2,1,0,2,2,2,0,Doctor
+Amir Ashraf,1,16-20,University,Rural,Unemployed,1,0,1,0,1,0,0,2,0,0,2,2,0,1,0,0,0,2,0,Doctor
+Hasir Ali,1,16-20,University,Urban,Unemployed,0,0,1,1,1,0,1,2,0,1,1,0,0,0,1,1,1,0,1,Hobbies
+Laraib,0,16-20,University,Rural,Unemployed,0,0,0,2,2,0,1,1,1,0,1,1,2,1,1,1,0,1,0,Doctor
+0or-Ul-Ain,0,16-20,University,Urban,Unemployed,1,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,Hobbies
+Zirsha Ali,0,16-20,University,Rural,Unemployed,1,1,1,2,2,1,2,1,1,2,2,2,2,1,2,1,2,0,0,Doctor
+Maryam Fayyaz,0,21-25,University,Urban,Unemployed,1,0,1,1,1,1,1,2,0,0,0,0,0,2,0,1,0,2,0,Gym
+0or Hamza,0,21-25,University,Rural,Unemployed,1,1,1,1,1,0,0,2,0,1,0,1,0,0,1,1,2,2,2,Doctor
+Arooj Sajjad ,0,21-25,University,Urban,Unemployed,0,0,2,2,1,1,1,0,2,0,0,0,0,0,1,1,1,1,1,Gym
+Sani Fatima,0,21-25,University,Rural,Unemployed,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,2,2,2,2,Doctor
+Maryam Khan,0,21-25,University,Urban,Unemployed,1,2,2,2,0,0,0,2,2,2,1,1,1,0,0,2,2,2,2,Gym
+Amna Ilyas,0,21-25,University,Rural,Unemployed,1,1,1,0,1,1,0,2,2,0,2,1,0,2,0,1,2,0,1,Doctor
+Nayab,0,21-25,University,Urban,Unemployed,0,0,1,1,1,0,0,2,2,2,2,0,0,0,1,2,1,0,2,Gym
+Taimoor Nasir,1,21-25,University,Rural,Unemployed,1,0,2,0,2,2,2,0,2,2,2,2,2,0,1,1,1,1,1,Doctor
+Sayed Zain,1,21-25,University,Urban,Unemployed,2,2,2,0,1,1,1,2,0,1,1,1,1,0,0,0,0,1,1,Gym
+Rajjab Ali,1,21-25,University,Rural,Unemployed,0,0,1,1,0,0,1,0,0,0,2,2,2,0,0,2,2,2,2,Doctor
+Roman Khan,1,21-25,University,Urban,Unemployed,1,1,0,0,1,1,1,1,0,1,1,1,1,2,2,2,1,1,1,Gym
+Taha Ahmed,1,21-25,University,Rural,Unemployed,1,1,1,0,0,0,0,0,2,0,1,0,0,2,2,2,2,2,2,Doctor
+Haider,1,21-25,University,Urban,Unemployed,2,2,0,0,0,1,1,2,2,0,1,2,0,2,2,0,0,1,1,Gym
+Hunzala Tariq,1,21-25,University,Rural,Unemployed,1,0,0,0,1,1,1,0,1,1,1,0,1,1,1,1,0,0,0,Doctor
+Huzaifa Ahmad,1,21-25,University,Urban,Unemployed,1,1,1,1,0,0,0,1,1,0,0,1,1,1,0,1,1,1,1,Gym
+Aiman Waseem,0,21-25,University,Rural,Unemployed,1,2,0,0,0,0,1,2,1,2,1,1,2,1,0,2,0,1,0,Doctor
+Bushra Bashir,0,21-25,University,Urban,Unemployed,1,0,0,2,2,0,1,1,1,0,1,1,2,1,0,2,0,0,0,Gym
+Yasmeen Zia,0,21-25,University,Rural,Unemployed,1,0,2,2,2,0,2,2,2,0,1,1,2,1,0,0,0,2,0,Doctor
+Mehwish,0,21-25,University,Urban,Unemployed,2,0,2,2,2,1,0,2,1,0,1,1,0,1,0,2,0,1,0,Gym
+Muhammad Mubeen,1,21-25,University,Rural,Unemployed,1,0,0,2,2,0,1,0,1,0,1,1,1,1,0,0,0,1,0,Doctor
+Adnan Zakir,1,21-25,University,Urban,Unemployed,0,1,1,0,0,2,2,0,1,2,1,1,1,1,0,1,0,1,0,Gym
+M. Muaz Anwar,1,21-25,University,Rural,Unemployed,1,0,2,1,0,0,2,2,1,2,1,1,0,1,0,2,0,1,0,Doctor
+Mah0or,0,21-25,University,Urban,Unemployed,1,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,1,1,0,Gym
+Esha,0,21-25,University,Rural,Unemployed,1,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,1,0,1,Doctor
+Sheraz,1,21-25,University,Urban,Unemployed,0,0,1,0,0,1,1,1,1,1,0,1,1,0,1,1,0,0,1,Gym
+Muqaddas,0,21-25,University,Rural,Unemployed,1,1,1,1,0,0,0,1,1,1,0,0,0,0,1,1,2,1,0,Doctor
+Laiba,0,21-25,University,Urban,Unemployed,1,0,0,0,1,1,0,0,0,0,1,2,1,1,1,0,0,1,1,Gym
+Abida,0,21-25,University,Rural,Unemployed,0,1,0,1,1,1,1,1,1,0,1,0,0,0,0,1,0,0,2,Doctor
+A1ha,0,21-25,University,Urban,Unemployed,0,1,0,0,0,0,0,1,2,1,0,1,0,1,1,2,1,1,1,Gym
+Zain,1,21-25,University,Rural,Unemployed,1,0,1,1,0,1,1,0,2,1,1,0,1,0,0,2,0,1,1,Doctor
+Faraz,1,21-25,University,Urban,Unemployed,0,1,0,1,0,1,1,0,1,1,1,0,0,0,1,1,0,1,1,Gym
+Asher,1,21-25,University,Rural,Unemployed,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0,0,Doctor
+Rabia,0,21-25,University,Urban,Unemployed,1,0,1,0,1,0,0,0,1,2,2,2,1,1,0,0,0,1,0,Gym
+Rimsha,0,21-25,University,Rural,Unemployed,1,0,1,1,0,2,0,1,1,0,0,1,0,1,2,1,1,0,0,Doctor
+Humaira Malik,0,21-25,University,Urban,Unemployed,1,0,1,2,2,1,0,0,1,0,1,1,0,1,0,1,1,0,0,Gym
+Aqsa ,0,21-25,University,Rural,Unemployed,2,2,1,2,2,1,0,0,2,1,1,0,1,2,0,2,2,0,1,Doctor
+Zarqa,0,21-25,University,Urban,Unemployed,0,0,0,0,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,Gym
+Mah0or Tariq,0,21-25,University,Rural,Unemployed,1,1,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,0,Doctor
+Afzal Shehzad,1,21-25,University,Urban,Unemployed,1,0,0,0,1,1,0,0,1,1,1,0,1,0,1,0,0,0,0,Gym
+Arslan,1,21-25,University,Rural,Unemployed,1,0,1,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,0,Doctor
+Hamza Ali,1,21-25,University,Urban,Unemployed,1,0,1,1,0,0,0,1,0,1,1,0,0,1,0,1,0,1,0,Gym
+Ali Raza,1,21-25,University,Rural,Unemployed,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,2,0,2,0,Doctor
+Tayyab,1,21-25,University,Urban,Unemployed,0,0,1,1,2,0,0,1,0,1,0,0,1,1,1,1,0,0,2,Gym
+Ahmad ,1,21-25,University,Rural,Unemployed,0,0,1,2,0,1,1,1,1,0,0,0,1,1,1,0,1,0,1,Doctor
+Shehbaz,1,21-25,University,Urban,Unemployed,1,1,1,1,0,0,1,0,0,1,1,1,0,2,1,0,1,1,1,Gym
+Areeba Sheikh,0,21-25,University,Rural,Unemployed,0,1,1,0,1,1,0,0,2,2,2,2,1,1,0,1,1,0,1,Doctor
+Kashaf Ayub,0,21-25,University,Urban,Unemployed,1,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,Gym
+Aliza,0,21-25,University,Rural,Unemployed,1,0,1,1,0,1,0,2,2,0,1,2,2,1,0,1,2,0,2,Doctor
+Asad Shafique,1,21-25,University,Urban,Unemployed,1,1,0,1,0,1,0,1,2,2,2,2,2,2,2,0,1,2,2,Gym
+Saraqa Qazi,1,21-25,University,Rural,Unemployed,1,1,0,1,0,0,0,1,0,1,0,0,2,1,0,2,1,0,2,Doctor
+Asghar Ali,1,21-25,University,Urban,Unemployed,1,1,0,1,0,2,1,2,1,1,1,2,2,1,1,1,2,1,1,Psychiatrist/ Psychologist
+Shanza Nasit,0,21-25,University,Rural,Unemployed,0,0,1,2,1,1,0,1,1,2,0,2,2,1,1,0,1,2,2,Doctor
+Muhammad Raza Hassan,1,21-25,University,Rural,Unemployed,2,0,2,2,1,2,2,0,1,2,2,0,1,1,1,1,0,1,0,Doctor
+Abdullah,1,21-25,University,Urban,Unemployed,1,2,0,1,1,0,0,2,1,1,1,1,0,1,2,1,1,1,0,Psychiatrist/ Psychologist
+Umer Ilyas,1,21-25,University,Rural,Unemployed,1,0,1,1,0,0,2,0,1,1,1,0,1,1,0,2,1,1,0,Doctor
+Hassan Sami,1,21-25,University,Urban,Unemployed,1,0,1,0,1,0,1,1,0,1,1,1,2,1,2,2,1,0,1,Psychiatrist/ Psychologist
+Hammad Iqbal,1,21-25,University,Rural,Unemployed,1,0,2,1,0,1,0,1,2,2,1,1,0,1,0,2,0,1,0,Doctor
+Faizan,1,21-25,University,Urban,Unemployed,1,1,2,2,2,1,0,2,1,1,1,1,1,1,2,2,1,2,1,Psychiatrist/ Psychologist
+Farah,0,21-25,University,Rural,Unemployed,1,1,1,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,Doctor
+Saba,0,21-25,University,Rural,Unemployed,1,0,1,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,Doctor
+Khadija,0,21-25,University,Urban,Unemployed,1,0,1,0,1,0,0,1,0,2,2,2,0,1,2,1,0,2,0,Psychiatrist/ Psychologist
+Amna,0,21-25,University,Rural,Unemployed,1,2,0,1,2,0,0,0,1,1,1,0,0,1,0,0,0,1,0,Doctor
+Momna Dar,0,21-25,University,Rural,Unemployed,0,0,2,2,2,0,2,2,2,0,1,1,1,1,2,0,0,1,0,Doctor
+Komal Hamid,0,21-25,University,Urban,Unemployed,1,1,1,0,1,1,2,0,1,2,2,2,1,1,2,1,0,0,0,Psychiatrist/ Psychologist
+Ahmad tariq,1,21-25,University,Rural,Unemployed,1,0,1,1,1,0,0,1,1,2,0,0,1,0,0,0,1,0,1,Doctor
+Zeeshan Azam,1,21-25,University,Urban,Unemployed,1,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,1,0,Psychiatrist/ Psychologist
+Furqan Shahbaz,1,21-25,University,Rural,Unemployed,0,0,1,0,0,1,0,0,0,0,2,1,0,0,0,1,0,0,0,Doctor
+Ata-Ur-Rehman,1,21-25,University,Urban,Unemployed,1,1,0,1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,1,Psychiatrist/ Psychologist
+Fatima Hassan,0,21-25,University,Rural,Unemployed,0,1,0,1,1,2,1,1,1,0,1,0,0,0,1,1,0,0,2,No Suggestions
+Naveed Rasool,1,21-25,University,Urban,Unemployed,1,0,1,0,1,2,0,0,1,2,1,0,0,1,1,1,0,0,0,Psychiatrist/ Psychologist
+Waleed,1,21-25,University,Rural,Unemployed,1,2,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,No Suggestions
+Tayyab,1,21-25,University,Urban,Unemployed,1,0,1,0,1,2,1,0,0,0,1,0,2,1,2,0,2,1,0,Psychiatrist/ Psychologist
+Afzal Hussain,1,21-25,University,Rural,Unemployed,1,0,2,1,0,0,2,2,1,2,1,1,0,1,0,2,0,1,0,No Suggestions
+Mah0or Farhat,0,21-25,University,Urban,Unemployed,1,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,1,1,0,Psychiatrist/ Psychologist
+Eshal,0,21-25,University,Rural,Unemployed,1,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,1,0,1,No Suggestions
+Sheraz Ahmad,1,21-25,University,Urban,Unemployed,0,0,1,0,0,1,1,1,1,1,0,1,1,0,1,1,0,0,1,Psychiatrist/ Psychologist
+Muqaddas Fatima,0,21-25,University,Rural,Unemployed,1,1,1,1,0,0,0,1,1,1,0,0,0,0,1,1,2,1,0,No Suggestions
+Laiba Batool,0,21-25,University,Rural,Unemployed,1,0,0,0,1,1,0,0,0,0,1,2,1,1,1,0,0,1,1,No Suggestions
+Abida Hussain,0,21-25,University,Urban,Unemployed,0,1,0,1,1,1,1,1,1,0,1,0,0,0,0,1,0,0,2,Psychiatrist/ Psychologist
+A1ha Tehreem,0,21-25,University,Rural,Unemployed,0,1,0,0,0,0,0,1,2,1,0,1,0,1,1,2,1,1,1,No Suggestions
+Zain Khalid,1,21-25,University,Urban,Unemployed,1,0,1,1,0,1,1,0,2,1,1,0,1,0,0,2,0,1,1,Psychiatrist/ Psychologist
+Faraz Rahat,1,21-25,University,Urban,Unemployed,0,1,0,1,0,1,1,0,1,1,1,0,0,0,1,1,0,1,1,Psychiatrist/ Psychologist
+Ashar,1,21-25,University,Urban,Unemployed,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0,0,Psychiatrist/ Psychologist
+Rabia Nawaz,0,21-25,University,Rural,Unemployed,1,0,1,0,1,0,0,0,1,2,2,2,1,1,0,0,0,1,0,No Suggestions
+Rimsha Malik,0,21-25,University,Rural,Unemployed,1,0,1,1,0,2,0,1,1,0,0,1,0,1,2,1,1,0,0,No Suggestions
+Humaira Chaudhry,0,21-25,University,Rural,Unemployed,1,0,1,2,2,1,0,0,1,0,1,1,0,1,0,1,1,0,0,No Suggestions
+Aqsa Fazal,0,21-25,University,Rural,Unemployed,2,2,1,2,2,1,0,0,2,1,1,0,1,2,0,2,2,0,1,No Suggestions
+Zeenia ,0,21-25,University,Urban,Unemployed,0,0,0,0,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,Psychiatrist/ Psychologist
+Mah0or Tariq,0,21-25,University,Rural,Unemployed,1,1,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,0,No Suggestions
+Afzal Shah,1,21-25,University,Rural,Unemployed,1,0,0,0,1,1,0,0,1,1,1,0,1,0,1,0,0,0,0,No Suggestions
+Arslan Asghar,1,21-25,University,Rural,Unemployed,1,0,1,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,0,No Suggestions
+Hamza Ali,1,21-25,University,Urban,Unemployed,1,0,1,1,0,0,0,1,0,1,1,0,0,1,0,1,0,1,0,Psychiatrist/ Psychologist
+Ali Raza,1,21-25,University,Rural,Unemployed,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,2,0,2,0,No Suggestions
+Tayyab,1,21-25,University,Rural,Unemployed,0,0,1,1,2,0,0,1,0,1,0,0,1,1,1,1,0,0,2,No Suggestions
+Ahmad ,1,21-25,University,Urban,Unemployed,0,0,1,2,0,1,1,1,1,0,0,0,1,1,1,0,1,0,1,Psychiatrist/ Psychologist
+Shehbaz,1,21-25,University,Rural,Unemployed,1,1,1,1,0,0,1,0,0,1,1,1,0,2,1,0,1,1,1,No Suggestions
+Areeba Sheikh,0,21-25,University,Urban,Unemployed,0,1,1,0,1,1,0,0,2,2,2,2,1,1,0,1,1,0,1,Psychiatrist/ Psychologist
+Kashaf Ayub,0,21-25,University,Rural,Unemployed,1,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,No Suggestions
+Aliza,0,21-25,University,Urban,Unemployed,1,0,1,1,0,1,0,2,2,0,1,2,2,1,0,1,2,0,2,Psychiatrist/ Psychologist
+Asad Shafique,1,21-25,University,Urban,Unemployed,1,1,0,1,0,1,0,1,2,2,2,2,2,2,2,0,1,2,2,Psychiatrist/ Psychologist
+Saraqa Qazi,1,21-25,University,Rural,Unemployed,1,1,0,1,0,0,0,1,0,1,0,0,2,1,0,2,1,0,2,No Suggestions
+Asghar Ali,1,21-25,University,Urban,Unemployed,1,1,0,1,0,2,1,2,1,1,1,2,2,1,1,1,2,1,1,Psychiatrist/ Psychologist
+Shanza Nasit,0,21-25,University,Urban,Unemployed,0,0,1,2,1,1,0,1,1,2,0,2,2,1,1,0,1,2,2,Psychiatrist/ Psychologist
+Muhammad Raza Hassan,1,21-25,University,Urban,Unemployed,2,0,2,2,1,2,2,0,1,2,2,0,1,1,1,1,0,1,0,Psychiatrist/ Psychologist
+Abdullah,1,21-25,University,Urban,Unemployed,1,2,0,1,1,0,0,2,1,1,1,1,0,1,2,1,1,1,0,Psychiatrist/ Psychologist
+Umer Ilyas,1,21-25,University,Urban,Unemployed,1,0,1,1,0,0,2,0,1,1,1,0,1,1,0,2,1,1,0,Psychiatrist/ Psychologist
+Hassan Sami,1,21-25,University,Rural,Unemployed,1,0,1,0,1,0,1,1,0,1,1,1,2,1,2,2,1,0,1,No Suggestions
+Hammad Iqbal,1,21-25,University,Rural,Unemployed,1,0,2,1,0,1,0,1,2,2,1,1,0,1,0,2,0,1,0,No Suggestions
+Faizan,1,21-25,University,Rural,Unemployed,1,1,2,2,2,1,0,2,1,1,1,1,1,1,2,2,1,2,1,No Suggestions
+Farah,0,21-25,University,Rural,Unemployed,1,1,1,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,No Suggestions
+Saba,0,21-25,University,Rural,Unemployed,1,0,1,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,No Suggestions
+Khadija,0,21-25,University,Urban,Unemployed,1,0,1,0,1,0,0,1,0,2,2,2,0,1,2,1,0,2,0,Psychiatrist/ Psychologist
+Amna,0,21-25,University,Urban,Unemployed,1,2,0,1,2,0,0,0,1,1,1,0,0,1,0,0,0,1,0,Psychiatrist/ Psychologist
+Momna Dar,0,21-25,University,Urban,Unemployed,0,0,2,2,2,0,2,2,2,0,1,1,1,1,2,0,0,1,0,Psychiatrist/ Psychologist
+Komal Hamid,0,21-25,University,Urban,Unemployed,1,1,1,0,1,1,2,0,1,2,2,2,1,1,2,1,0,0,0,Psychiatrist/ Psychologist
+Sundas,0,26-30,University,Urban,Unemployed,0,0,0,1,0,0,1,0,2,0,1,1,1,1,1,0,0,1,0,Psychiatrist/ Psychologist
+Asifa,0,26-30,University,Urban,Unemployed,1,2,0,2,2,0,0,1,2,2,2,1,0,1,0,0,0,1,0,Psychiatrist/ Psychologist
+Fakhira,0,26-30,University,Urban,Unemployed,0,0,0,1,0,0,0,0,2,0,1,1,0,1,2,2,0,1,0,Psychiatrist/ Psychologist
+Ibraheem,1,26-30,University,Urban,Unemployed,2,2,0,2,2,0,0,1,2,2,0,1,2,1,0,0,0,1,0,Psychiatrist/ Psychologist
+Faisal,1,26-30,University,Urban,Unemployed,0,0,0,0,1,0,2,0,2,0,1,1,0,1,2,2,0,1,0,Gym
+Bilal,1,26-30,University,Urban,Unemployed,2,0,0,2,2,0,2,1,2,2,1,1,0,1,0,0,0,1,0,Gym
+Raees,1,26-30,University,Urban,Unemployed,0,0,0,2,2,0,2,1,2,2,2,1,2,1,0,0,0,1,0,Gym
+Muzafar,1,26-30,University,Urban,Unemployed,0,2,0,0,1,1,0,1,2,0,1,1,2,1,0,0,0,1,0,Gym
+Rameez,1,26-30,University,Urban,Unemployed,0,0,0,1,0,1,0,0,2,0,1,1,0,1,1,0,0,1,0,Gym
+Haider,1,26-30,University,Urban,Unemployed,0,0,0,1,0,0,0,0,2,0,1,1,0,1,1,0,0,1,0,Gym
+Muhammad Ashfaq,1,26-30,University,Urban,Unemployed,1,0,1,0,0,2,0,2,1,2,1,1,2,1,1,0,1,0,0,Gym
+Muhammad Yasir,1,26-30,University,Urban,Unemployed,2,1,0,1,1,2,0,2,1,2,1,1,0,1,0,0,0,2,0,Gym
+Muaz Gill,1,26-30,University,Urban,Unemployed,1,0,1,1,1,2,2,2,1,0,1,2,1,1,0,1,0,0,0,Gym
+Muhammad Imran,1,26-30,University,Urban,Unemployed,1,0,1,0,0,2,2,1,1,2,1,1,0,1,1,2,0,1,0,Gym
+Aqsa Mushtaq,0,26-30,University,Urban,Unemployed,1,0,1,0,0,2,1,2,1,0,1,1,1,1,0,1,0,2,0,Gym
+Aliya M. Ali,0,26-30,University,Urban,Unemployed,1,0,1,0,0,2,2,1,1,2,1,1,1,1,0,1,0,2,0,Gym
+Miss Shazia Yaseen,0,26-30,University,Urban,Unemployed,1,1,0,2,2,2,0,2,1,2,1,1,2,1,0,2,0,2,0,Gym
+Abida Jhangeer,0,26-30,University,Urban,Unemployed,1,0,1,0,0,1,2,2,1,1,1,1,2,1,0,1,0,2,0,Gym
+Zara Batool,0,26-30,University,Urban,Unemployed,2,1,1,0,0,2,0,2,1,1,1,1,2,1,0,2,0,1,0,Gym
+Naseer Nazeer,0,26-30,University,Urban,Unemployed,1,1,1,0,0,2,0,1,1,2,1,0,1,1,0,2,0,0,0,Gym
+Aiz Khan,0,26-30,University,Urban,Unemployed,2,1,2,0,0,2,2,2,1,1,1,1,2,1,0,2,0,1,0,Gym
+Laiba Arif,0,26-30,University,Urban,Unemployed,0,1,1,0,0,2,1,2,2,2,1,1,2,1,0,1,0,2,0,Gym
+Sehar,0,26-30,University,Urban,Unemployed,0,1,1,0,0,1,0,0,0,1,1,0,1,2,1,1,0,0,0,Gym
+Aliya,0,26-30,University,Urban,Unemployed,1,1,1,0,1,1,1,0,1,1,0,1,1,2,1,0,1,0,1,Gym
+A1ha,0,26-30,University,Urban,Unemployed,0,0,1,1,1,1,1,0,1,0,1,0,0,2,0,1,0,1,0,Gym
+Shoaib,1,26-30,University,Urban,Unemployed,0,1,0,1,0,2,1,1,1,2,0,0,1,0,0,1,0,1,0,Gym
+Adil,1,26-30,University,Urban,Unemployed,1,1,1,0,1,0,1,1,1,2,1,0,1,0,1,1,1,0,1,Gym
+Sana,0,26-30,University,Urban,Unemployed,0,1,0,2,1,1,1,0,1,0,0,1,1,1,0,2,1,1,1,Gym
+Hina,0,26-30,University,Urban,Unemployed,1,0,1,2,0,1,1,0,1,1,1,0,0,0,1,0,1,0,1,Gym
+Muddasir,1,26-30,University,Urban,Unemployed,0,0,2,0,2,1,1,1,0,0,1,1,1,1,1,1,1,0,0,Gym
+Arslan,1,26-30,University,Urban,Unemployed,0,1,0,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,1,Gym
+Daanish,1,26-30,University,Rural,Unemployed,0,0,1,0,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0,Islamic Teaching/Islam/Quran
+Sarwat,0,26-30,University,Urban,Unemployed,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,Hobbies
+Nasreen BiBi,0,26-30,University,Urban,Unemployed,1,2,2,2,1,0,2,2,1,2,2,0,1,1,2,2,0,1,0,Hobbies
+Zarnab,0,26-30,University,Urban,Unemployed,1,0,1,1,1,0,0,1,1,1,0,1,0,1,0,0,1,2,1,Hobbies
+Shanza ,0,26-30,University,Rural,Unemployed,1,1,0,0,1,1,1,0,0,1,1,1,0,0,0,1,2,0,0,Islamic Teaching/Islam/Quran
+Sehrish,0,26-30,University,Urban,Unemployed,1,0,1,1,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0,Hobbies
+Iqra Manzoor,0,26-30,University,Urban,Unemployed,1,1,1,0,0,1,1,0,1,0,0,1,1,1,0,0,0,0,0,Hobbies
+Abdullah Tariq,1,26-30,University,Rural,Unemployed,1,1,1,1,1,0,1,0,0,0,1,1,0,1,1,1,1,1,1,Islamic Teaching/Islam/Quran
+Wahab Rana,1,26-30,University,Urban,Unemployed,0,0,1,0,2,2,1,0,2,0,0,2,1,0,0,0,0,1,0,Hobbies
+Nabeel Shaukat,1,26-30,University,Urban,Unemployed,0,0,0,1,1,2,1,1,0,0,1,2,0,0,1,1,0,0,1,Hobbies
+Tariq Jutt,1,26-30,University,Urban,Unemployed,1,1,1,2,1,0,0,2,1,0,1,1,2,1,1,0,1,1,0,Hobbies
+Uzma Murad,0,26-30,University,Urban,Unemployed,2,2,1,2,2,2,2,2,2,0,1,1,1,1,0,2,0,2,2,Hobbies
+Nagma Zubair,0,26-30,University,Urban,Unemployed,1,1,2,2,2,2,2,2,2,2,1,1,0,1,1,2,0,2,0,Hobbies
+Atiqa Jabeen,0,26-30,University,Rural,Unemployed,1,0,1,2,2,0,2,1,2,1,2,0,2,1,1,2,2,2,2,Islamic Teaching/Islam/Quran
+Rukhsana Nawab,0,26-30,University,Urban,Unemployed,1,1,0,2,2,0,1,1,1,0,2,2,2,1,2,2,1,2,2,Hobbies
+Araiz,1,26-30,University,Urban,Unemployed,1,0,0,1,1,1,0,0,0,1,1,1,2,0,1,1,1,1,0,Hobbies
+Muhammad Tuseef,1,26-30,University,Urban,Unemployed,1,0,1,0,1,0,0,1,1,0,1,0,1,1,0,0,1,0,0,Hobbies
+Ahmed Ali,1,26-30,University,Urban,Unemployed,0,1,0,0,1,0,0,0,1,0,2,0,1,0,0,0,0,0,0,Hobbies
+Imran Shabbir,1,26-30,University,Rural,Unemployed,1,0,1,2,1,0,2,1,2,1,0,2,0,0,2,1,1,0,0,Islamic Teaching/Islam/Quran
+Shan Khan,1,26-30,University,Urban,Unemployed,1,0,1,1,0,1,0,0,0,1,1,1,0,1,0,1,0,0,0,Hobbies
+Tanzeel,1,26-30,University,Rural,Unemployed,1,0,0,1,0,1,0,1,1,0,1,1,1,1,1,0,1,0,1,Islamic Teaching/Islam/Quran
+Tahira Muqqadas,0,26-30,University,Urban,Unemployed,1,0,1,1,0,1,0,0,0,1,1,0,1,1,0,1,0,0,0,Hobbies
+A1ha Anam,0,26-30,University,Urban,Unemployed,1,0,1,0,1,2,0,0,1,0,1,1,0,1,0,1,0,1,0,Hobbies
+Asifa,0,26-30,University,Rural,Unemployed,1,2,0,0,2,0,2,1,1,2,1,1,0,1,2,1,1,0,0,Islamic Teaching/Islam/Quran
+Adeiba Rafique,0,26-30,University,Urban,Unemployed,1,0,0,0,1,2,0,0,1,1,1,2,1,1,0,1,0,1,0,Hobbies
+Farah Tuseef,0,26-30,University,Urban,Unemployed,1,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,2,Hobbies
+Namra Abdull Satar,0,26-30,University,Rural,Unemployed,0,2,1,1,1,1,1,1,0,0,0,1,2,1,0,0,1,0,1,Islamic Teaching/Islam/Quran
+Saif,1,26-30,University,Urban,Unemployed,1,0,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,0,Hobbies
+Sundas,0,26-30,University,Urban,Unemployed,0,0,0,1,0,0,1,0,2,0,1,1,1,1,1,0,0,1,0,Hobbies
+Asifa,0,26-30,University,Urban,Unemployed,1,2,0,2,2,0,0,1,2,2,2,1,0,1,0,0,0,1,0,Hobbies
+Fakhira,0,26-30,University,Rural,Unemployed,0,0,0,1,0,0,0,0,2,0,1,1,0,1,2,2,0,1,0,Islamic Teaching/Islam/Quran
+Ibraheem,1,26-30,University,Urban,Unemployed,2,2,0,2,2,0,0,1,2,2,0,1,2,1,0,0,0,1,0,Hobbies
+Faisal,1,26-30,University,Urban,Unemployed,0,0,0,0,1,0,2,0,2,0,1,1,0,1,2,2,0,1,0,Hobbies
+Bilal,1,26-30,University,Rural,Unemployed,2,0,0,2,2,0,2,1,2,2,1,1,0,1,0,0,0,1,0,Islamic Teaching/Islam/Quran
+Raees,1,26-30,University,Urban,Unemployed,0,0,0,2,2,0,2,1,2,2,2,1,2,1,0,0,0,1,0,Hobbies
+Muzafar,1,26-30,University,Urban,Unemployed,0,2,1,0,1,1,0,1,2,0,1,1,2,1,0,0,0,1,0,Family & Friends Counseling
+Rameez,1,26-30,University,Rural,Unemployed,0,0,0,1,0,1,2,0,2,0,1,1,0,1,1,0,0,1,0,Islamic Teaching/Islam/Quran
+Haider,1,26-30,University,Urban,Unemployed,0,0,0,1,0,0,0,1,2,0,1,1,0,1,1,0,0,1,0,Family & Friends Counseling
+Fazal,1,26-30,University,Urban,Unemployed,1,1,0,2,2,2,2,2,1,2,1,1,2,1,0,2,0,1,0,Family & Friends Counseling
+Muhammad Alam,1,26-30,University,Rural,Unemployed,1,0,1,0,0,2,0,2,1,2,1,1,2,1,1,0,1,0,0,Islamic Teaching/Islam/Quran
+Muhammad Yaseen,1,26-30,University,Urban,Unemployed,2,1,0,1,1,2,0,2,1,2,1,1,0,1,0,0,0,2,0,Family & Friends Counseling
+Muaz Hassan,1,26-30,University,Urban,Unemployed,1,0,1,1,1,2,2,2,1,0,1,2,1,1,0,1,0,0,0,Family & Friends Counseling
+Muhammad Ishaq,1,26-30,University,Rural,Unemployed,1,0,1,0,0,2,2,1,1,2,1,1,0,1,1,2,0,1,0,Magic Healer 
+Aqsa Mustafa,0,26-30,University,Urban,Unemployed,1,0,1,0,0,2,1,2,1,0,1,1,1,1,0,1,0,2,0,Family & Friends Counseling
+Fareeza Hassan,0,26-30,University,Rural,Unemployed,1,0,1,0,0,2,2,1,1,2,1,1,1,1,0,1,0,2,0,Magic Healer 
+Shehnaz Ali,0,26-30,University,Urban,Unemployed,1,1,0,2,2,2,0,2,1,2,1,1,2,1,0,2,0,2,0,Family & Friends Counseling
+Abida,0,26-30,University,Rural,Unemployed,1,0,1,0,0,1,2,2,1,1,1,1,2,1,0,1,0,2,0,Magic Healer 
+Zara Fatima,0,26-30,University,Urban,Unemployed,2,1,1,0,0,2,0,2,1,1,1,1,2,1,0,2,0,1,0,Family & Friends Counseling
+Hassan Khan,0,26-30,University,Urban,Unemployed,1,1,1,0,0,2,0,1,1,2,1,0,1,1,0,2,0,0,0,Family & Friends Counseling
+Aiza Khan,0,26-30,University,Urban,Unemployed,2,1,2,0,0,2,2,2,1,1,1,1,2,1,0,2,0,1,0,Family & Friends Counseling
+Laraib,0,26-30,University,Urban,Unemployed,0,1,1,0,0,2,1,2,2,2,1,1,2,1,0,1,0,2,0,Family & Friends Counseling
+Komal Ahmad,0,26-30,University,Rural,Unemployed,0,1,1,0,0,1,0,0,0,1,1,0,1,2,1,1,0,0,0,Magic Healer 
+Zoha,0,26-30,University,Urban,Unemployed,1,1,1,0,1,1,1,0,1,1,0,1,1,2,1,0,1,0,1,Family & Friends Counseling
+Fiza Ali,0,26-30,University,Urban,Unemployed,0,0,1,1,1,1,1,0,1,0,1,0,0,2,0,1,0,1,0,Family & Friends Counseling
+Shoaib Alam,1,26-30,University,Rural,Unemployed,0,1,0,1,0,2,1,1,1,2,0,0,1,0,0,1,0,1,0,Magic Healer 
+Tanzeel,1,26-30,University,Urban,Unemployed,1,0,0,1,0,1,0,1,1,0,1,1,1,1,1,0,1,0,1,Family & Friends Counseling
+Tahira Muqqadas,0,26-30,University,Rural,Unemployed,1,0,1,1,0,1,0,0,0,1,1,0,1,1,0,1,0,0,0,Magic Healer 
+A1ha Anam,0,26-30,University,Urban,Unemployed,1,0,1,0,1,2,0,0,1,0,1,1,0,1,0,1,0,1,0,Family & Friends Counseling
+Asifa,0,26-30,University,Rural,Unemployed,1,2,0,0,2,0,2,1,1,2,1,1,0,1,2,1,1,0,0,Magic Healer 
+Adeiba Rafique,0,26-30,University,Urban,Unemployed,1,0,0,0,1,2,0,0,1,1,1,2,1,1,0,1,0,1,0,Family & Friends Counseling
+Farah Tuseef,0,26-30,University,Rural,Unemployed,1,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,2,Magic Healer 
+Namra Abdull Satar,0,26-30,University,Urban,Unemployed,0,2,1,1,1,1,1,1,0,0,0,1,2,1,0,0,1,0,1,Family & Friends Counseling
+Maha Chaudry,0,31-35,University,Rural,Unemployed,1,0,2,1,2,0,2,0,0,1,1,1,1,2,2,2,1,1,0,Magic Healer 
+Shanza Malik,0,31-35,University,Rural,Unemployed,1,0,0,1,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1,Islamic Teaching/Islam/Quran
+Amna Subhani,0,31-35,University,Urban,Unemployed,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,1,2,0,1,Family & Friends Counseling
+Arfa Mehmood,0,31-35,University,Urban,Unemployed,1,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,1,1,1,Family & Friends Counseling
+Mah0or Sami,0,31-35,University,Urban,Unemployed,1,1,1,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0,Family & Friends Counseling
+0or ul Ain,0,31-35,University,Rural,Unemployed,1,0,2,0,0,0,0,1,1,1,1,1,0,0,1,1,1,0,1,Islamic Teaching/Islam/Quran
+Abdullah Khan,1,31-35,University,Urban,Unemployed,1,1,1,1,1,1,1,0,0,0,2,0,1,2,2,0,0,0,0,Family & Friends Counseling
+Imran jut,1,31-35,University,Rural,Unemployed,1,1,1,1,1,1,1,0,0,1,1,1,1,2,2,0,1,1,2,Islamic Teaching/Islam/Quran
+Muneeb Butt,1,31-35,University,Urban,Unemployed,1,0,2,1,0,0,2,1,1,1,1,1,1,1,1,1,1,1,1,Family & Friends Counseling
+Fasisal Ali ,1,31-35,University,Urban,Unemployed,1,0,2,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,2,Family & Friends Counseling
+Nabeel Mehmood,1,31-35,University,Rural,Unemployed,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,1,2,1,Islamic Teaching/Islam/Quran
+Parveen Nazir,0,31-35,University,Urban,Unemployed,0,1,2,1,1,2,0,1,1,2,1,1,2,1,0,2,0,1,0,Family & Friends Counseling
+Sammar Ul Nisa,0,31-35,University,Rural,Unemployed,2,1,0,0,0,2,2,0,1,2,1,1,2,1,0,1,0,2,0,Islamic Teaching/Islam/Quran
+Munaza 0or,0,31-35,University,Urban,Unemployed,1,0,1,2,2,2,1,1,1,0,1,1,1,1,0,1,0,2,0,Family & Friends Counseling
+Hafsa Ahmad,0,31-35,University,Rural,Unemployed,0,1,2,0,0,2,1,0,1,2,1,1,0,1,0,0,0,2,0,Islamic Teaching/Islam/Quran
+Khadija Khalid,0,31-35,University,Urban,Unemployed,1,0,2,0,0,2,1,2,1,0,1,1,2,1,0,1,0,1,0,Family & Friends Counseling
+Inaya,0,31-35,University,Urban,Unemployed,1,0,0,2,2,2,1,0,1,2,1,1,0,1,0,1,0,2,0,Family & Friends Counseling
+Mubashir,1,31-35,University,Rural,Unemployed,1,0,1,0,0,2,1,0,1,2,1,1,2,1,0,2,1,0,0,Islamic Teaching/Islam/Quran
+Muzafar Ch,1,31-35,University,Urban,Unemployed,1,1,0,1,1,2,1,2,1,2,1,1,0,1,0,0,1,0,0,Family & Friends Counseling
+Waqas Yaseen,1,31-35,University,Rural,Unemployed,1,2,1,0,0,2,1,0,1,2,1,1,0,1,0,2,0,1,0,Islamic Teaching/Islam/Quran
+Hadier Ali,1,31-35,University,Urban,Unemployed,2,1,1,0,0,2,0,1,1,2,1,2,1,1,0,2,0,2,0,Family & Friends Counseling
+Nasir Ali,1,31-35,University,Urban,Unemployed,1,0,1,0,0,0,2,0,1,2,1,1,2,1,0,2,0,1,0,Family & Friends Counseling
+Waqar Rasheed,1,31-35,University,Rural,Unemployed,2,1,1,0,0,2,2,0,1,2,1,1,1,1,0,1,0,2,0,Islamic Teaching/Islam/Quran
+Sufyan Mukhtar,1,31-35,University,Urban,Unemployed,1,2,1,2,2,0,0,2,1,2,1,1,2,1,0,2,0,0,0,Family & Friends Counseling
+Sehar,0,31-35,University,Rural,Unemployed,0,1,0,0,0,1,2,0,1,0,1,0,1,0,0,1,1,1,1,Islamic Teaching/Islam/Quran
+Usman,1,31-35,University,Urban,Unemployed,1,1,0,1,1,0,1,1,0,0,0,1,0,2,1,0,0,1,0,Family & Friends Counseling
+Sawera,0,31-35,University,Rural,Unemployed,0,1,1,1,1,0,0,1,1,0,2,1,1,0,1,1,0,0,2,Islamic Teaching/Islam/Quran
+Umer,1,31-35,University,Rural,Unemployed,2,1,1,0,1,1,2,1,0,1,0,1,1,1,0,0,1,1,0,Islamic Teaching/Islam/Quran
+Husnain,1,31-35,University,Rural,Unemployed,1,1,0,2,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,Islamic Teaching/Islam/Quran
+Faheem,1,31-35,University,Rural,Unemployed,0,2,1,0,0,0,1,1,1,0,1,1,1,0,0,2,0,1,1,Islamic Teaching/Islam/Quran
+Maira,0,31-35,University,Urban,Unemployed,2,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,1,Family & Friends Counseling
+Mubashra,0,31-35,University,Urban,Unemployed,0,1,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0,Family & Friends Counseling
+Amna,0,31-35,University,Rural,Unemployed,1,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,1,0,Islamic Teaching/Islam/Quran
+Hania,0,31-35,University,Urban,Unemployed,0,0,2,1,0,0,0,0,1,1,1,0,1,0,0,1,1,0,2,Family & Friends Counseling
+Iman Ali,0,31-35,University,Rural,Unemployed,1,1,1,0,0,2,1,1,1,2,0,0,1,1,0,0,0,0,0,Islamic Teaching/Islam/Quran
+Atika,0,31-35,University,Urban,Unemployed,0,0,1,1,2,0,1,1,0,0,0,0,0,1,1,1,0,1,1,Family & Friends Counseling
+Areeba,0,31-35,University,Urban,Unemployed,0,1,0,0,0,0,0,1,1,0,1,0,2,2,0,0,1,0,0,Family & Friends Counseling
+Azan ,1,31-35,University,Rural,Unemployed,1,1,0,0,1,0,1,1,2,2,1,1,1,0,1,0,1,0,0,Islamic Teaching/Islam/Quran
+Younas Rana,1,31-35,University,Urban,Unemployed,1,0,0,1,1,1,1,1,0,0,1,1,1,0,0,1,2,0,1,Family & Friends Counseling
+shakir,1,31-35,University,Urban,Unemployed,0,0,1,1,1,0,2,2,2,1,0,0,1,1,0,1,2,1,2,Family & Friends Counseling
+Nasir,1,31-35,University,Urban,Unemployed,1,0,0,1,2,1,1,2,2,2,0,1,0,0,1,1,0,1,1,Family & Friends Counseling
+Akhtar,1,31-35,University,Rural,Unemployed,0,0,0,1,0,0,1,0,0,1,1,0,2,2,1,0,1,0,0,Islamic Teaching/Islam/Quran
+Ajwa Ayub,0,31-35,University,Urban,Unemployed,2,2,1,1,0,1,0,0,0,0,1,2,1,1,0,2,2,2,2,Family & Friends Counseling
+Saba Mukhtar,0,31-35,University,Urban,Unemployed,1,2,2,2,2,2,2,2,2,2,1,1,1,1,2,1,2,2,2,Family & Friends Counseling
+Aqsa Jamal,0,31-35,University,Rural,Unemployed,1,2,1,2,2,2,2,2,1,2,1,2,2,1,2,2,2,2,2,Islamic Teaching/Islam/Quran
+Ameer Hamza,1,31-35,University,Urban,Unemployed,1,2,2,2,2,0,1,2,1,0,1,1,2,1,0,1,0,2,2,Family & Friends Counseling
+Muhammad Shafique,1,31-35,University,Urban,Unemployed,1,0,0,0,1,0,1,0,0,2,1,2,1,1,2,1,0,2,0,Family & Friends Counseling
+Sami Ullah,1,31-35,University,Urban,Unemployed,0,0,0,2,2,0,0,1,2,2,1,1,2,1,2,2,2,0,0,Family & Friends Counseling
+Uzman Khan,1,31-35,University,Rural,Unemployed,1,0,1,0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,Islamic Teaching/Islam/Quran
+Ali,1,31-35,University,Urban,Unemployed,1,2,0,0,1,0,2,1,0,2,1,2,0,1,0,2,0,1,0,Family & Friends Counseling
+Mubeen Akber,0,31-35,University,Urban,Unemployed,2,2,1,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0,Gym
+Tayyaba Nadeem,0,31-35,University,Rural,Unemployed,0,2,1,0,1,0,0,1,1,1,2,2,2,1,2,2,1,2,0,Islamic Teaching/Islam/Quran
+Mrs. Farnaz,0,31-35,University,Urban,Unemployed,0,1,0,0,0,0,0,0,2,0,2,1,2,1,0,2,1,0,0,Gym
+Humaira Rasheed,0,31-35,University,Urban,Unemployed,1,1,0,1,0,0,0,0,1,0,1,0,1,1,0,1,1,1,0,Gym
+Mahira Hussain,0,31-35,University,Rural,Unemployed,1,1,0,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,Islamic Teaching/Islam/Quran
+Wahab,1,31-35,University,Urban,Unemployed,0,0,2,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,1,Gym
+Sana Rasheed,0,31-35,University,Urban,Unemployed,1,0,1,0,1,0,2,2,1,0,1,2,1,0,1,0,1,1,2,Gym
+Saba Mir,0,31-35,University,Rural,Unemployed,0,0,1,1,0,0,2,0,1,0,1,1,1,0,0,0,1,1,1,Islamic Teaching/Islam/Quran
+Maha Chaudry,0,31-35,University,Urban,Unemployed,1,0,2,1,2,0,2,0,0,1,1,1,1,2,2,2,1,1,0,Gym
+Shanza Malik,0,31-35,University,Urban,Unemployed,1,0,0,1,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1,Gym
+Amna Subhani,0,31-35,University,Urban,Unemployed,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,1,2,0,1,Gym
+Arfa Mehmood,0,31-35,University,Rural,Unemployed,1,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,1,1,1,Islamic Teaching/Islam/Quran
+Mah0or Sami,0,31-35,University,Urban,Unemployed,1,1,1,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0,Gym
+0or ul Ain,0,31-35,University,Urban,Unemployed,1,0,2,0,0,0,0,1,1,1,1,1,0,0,1,1,1,0,1,Gym
+Abdullah Khan,1,31-35,University,Rural,Unemployed,1,1,1,1,1,1,1,0,0,0,2,0,1,2,2,0,0,0,0,Islamic Teaching/Islam/Quran
+Imran jut,1,31-35,University,Urban,Unemployed,1,1,1,1,1,1,1,0,0,1,1,1,1,2,2,0,1,1,2,Gym
+Muneeb Butt,1,31-35,University,Urban,Unemployed,1,0,2,1,0,0,2,1,1,1,1,1,1,1,1,1,1,1,1,Gym
+Fasisal Ali ,1,31-35,University,Rural,Unemployed,1,0,2,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,2,Islamic Teaching/Islam/Quran
+Nabeel Mehmood,1,31-35,University,Urban,Unemployed,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,1,2,1,Gym
+Parveen Nazir,0,31-35,University,Urban,Unemployed,0,1,2,1,1,2,0,1,1,2,1,1,2,1,0,2,0,1,0,Gym
+Sammar Ul Nisa,0,31-35,University,Rural,Unemployed,2,1,0,0,0,2,2,0,1,2,1,1,2,1,0,1,0,2,0,Islamic Teaching/Islam/Quran
+Munaza 0or,0,31-35,University,Urban,Unemployed,1,0,1,2,2,2,1,1,1,0,1,1,1,1,0,1,0,2,0,Gym
+Hafsa Ahmad,0,31-35,University,Urban,Unemployed,0,1,2,0,0,2,1,0,1,2,1,1,0,1,0,0,0,2,0,Gym
+Khadija Khalid,0,31-35,University,Rural,Unemployed,1,0,2,0,0,2,1,2,1,0,1,1,2,1,0,1,0,1,0,Islamic Teaching/Islam/Quran
+Inaya,0,31-35,University,Urban,Unemployed,1,0,0,2,2,2,1,0,1,2,1,1,0,1,0,1,0,2,0,Gym
+Sania Yosuf,0,36-40,University,Urban,House Wife,1,2,0,2,2,0,0,1,2,2,2,1,0,1,0,0,0,1,0,Gym
+Tabinda Tariq,0,36-40,University,Rural,Unemployed,0,2,0,1,0,0,0,0,2,2,2,1,2,1,2,2,0,1,0,Islamic Teaching/Islam/Quran
+Sadia Imran,0,36-40,University,Urban,House Wife,0,0,0,1,0,0,0,0,2,0,1,1,0,1,2,2,0,1,0,Gym
+Rida Ali,0,36-40,University,Urban,Unemployed,0,0,0,1,0,1,0,0,2,0,1,1,0,1,1,0,0,1,0,Gym
+Mubeena Naqvi,0,36-40,University,Urban,House Wife,0,0,0,0,1,1,0,0,2,0,1,1,0,1,0,0,0,1,0,Gym
+Bisma Sadique,0,36-40,University,Rural,Unemployed,2,2,0,2,2,0,0,1,2,2,0,1,2,1,0,0,0,1,0,Islamic Teaching/Islam/Quran
+Fatima Rashid,0,36-40,University,Urban,Unemployed,0,0,0,0,1,0,0,0,2,0,1,1,0,1,0,0,0,1,0,Gym
+Amna Fatima,0,36-40,University,Urban,House Wife,0,0,0,0,1,0,2,0,2,0,1,1,0,1,2,2,0,1,0,Gym
+Moeen Akhtar,1,36-40,University,Rural,Unemployed,2,0,0,2,2,0,2,1,2,2,1,1,0,1,0,0,0,1,0,Magic Healer 
+Sayed ul Rehman,1,36-40,University,Urban,Unemployed,0,0,0,2,2,0,2,1,2,2,2,1,2,1,0,0,0,1,0,Gym
+Ameen Shami,1,36-40,University,Urban,Unemployed,0,2,0,0,1,1,0,1,2,0,1,1,2,1,0,0,0,1,0,Gym
+Amir Liyaqat,1,36-40,University,Urban,Unemployed,0,0,0,1,0,1,0,0,2,0,1,1,0,1,1,0,0,1,0,Gym
+Muhammad Mubeen,1,36-40,University,Rural,Unemployed,0,0,0,1,0,0,0,0,2,0,1,1,0,1,1,0,0,1,0,Magic Healer 
+Naveed Shah,1,36-40,University,Urban,Unemployed,1,0,0,1,0,0,0,0,2,0,1,1,0,1,1,0,0,1,0,Gym
+Bilal Ashraf,1,36-40,University,Urban,Unemployed,0,2,0,1,0,0,0,1,2,2,1,1,2,1,2,2,0,1,0,Gym
+Zunaira,0,36-40,University,Urban,Unemployed,1,1,0,2,2,2,2,2,1,2,1,1,2,1,0,2,0,1,0,Gym
+Ammara,0,36-40,University,Rural,House Wife,1,0,1,0,0,2,2,0,1,2,1,1,0,1,0,2,0,1,0,Magic Healer 
+Saman,0,36-40,University,Urban,Unemployed,1,0,1,0,0,2,0,2,1,2,1,1,2,1,0,2,1,0,0,Gym
+Rimsha,0,36-40,University,Urban,House Wife,1,0,2,0,0,1,2,2,1,1,1,1,2,1,0,1,0,0,0,Gym
+Nabeeha,0,36-40,University,Urban,Unemployed,1,2,0,2,2,2,0,0,1,1,1,1,2,1,0,2,0,0,0,Gym
+Munir Shah,1,36-40,University,Rural,Unemployed,2,1,2,0,0,2,1,2,1,2,1,1,0,1,0,2,0,0,0,Magic Healer 
+M Irfan,1,36-40,University,Urban,Unemployed,1,1,1,0,0,0,0,2,1,2,1,1,2,1,0,0,0,2,0,Gym
+M Ilyas,1,36-40,University,Urban,Unemployed,2,1,0,2,2,2,0,2,1,2,1,1,2,1,0,2,0,0,0,Gym
+Shahaid Mateen,1,36-40,University,Rural,Unemployed,1,0,1,0,0,2,0,0,1,2,1,1,2,1,0,2,0,0,0,Magic Healer 
+Sajjad Ali,1,36-40,University,Urban,Unemployed,2,1,2,0,0,0,2,1,1,2,1,1,1,1,0,1,0,2,0,Hobbies
+Hafiz Manzoor,1,36-40,University,Urban,Unemployed,2,1,0,2,2,2,0,0,1,2,1,1,0,1,0,0,0,0,0,Hobbies
+Naeem CH,1,36-40,University,Urban,Unemployed,1,2,2,0,0,2,2,0,1,1,1,1,0,1,0,0,0,2,0,Hobbies
+Asim razzaq,1,36-40,University,Rural,Unemployed,0,0,2,0,0,2,1,0,1,0,1,1,1,1,0,1,0,1,0,Magic Healer 
+Kashif,1,36-40,University,Urban,Unemployed,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1,Hobbies
+Abeeha,0,36-40,University,Urban,House Wife,0,2,0,2,0,0,1,1,0,0,1,1,0,0,0,2,1,1,2,Hobbies
+Dawood,1,36-40,University,Urban,Unemployed,0,1,1,0,1,0,2,0,1,1,0,0,1,0,0,0,1,0,1,Hobbies
+Taimoor,1,36-40,University,Urban,Unemployed,0,0,0,0,0,2,1,1,0,1,1,1,1,0,1,1,2,0,0,Hobbies
+Afifa Arshad,0,36-40,University,Rural,Unemployed,1,1,0,1,0,0,1,1,0,1,1,0,1,0,1,0,0,1,1,Magic Healer 
+Nadia Sidique,0,36-40,University,Urban,Unemployed,1,2,0,1,0,0,1,0,0,0,1,1,0,0,1,1,1,0,1,Hobbies
+Esha Asif,0,36-40,University,Urban,Unemployed,0,1,0,0,1,1,1,1,2,0,2,0,0,1,0,2,0,1,0,Hobbies
+Kainat Zikria,0,36-40,University,Urban,House Wife,1,1,1,0,1,0,0,1,0,1,1,0,1,1,0,1,0,1,0,Hobbies
+Mehwish,0,36-40,University,Rural,Unemployed,1,0,1,1,1,1,1,1,1,1,1,0,0,1,0,0,1,0,1,Magic Healer 
+Mehmood,1,36-40,University,Urban,Unemployed,0,0,0,1,1,2,0,0,1,0,0,1,1,1,1,0,0,0,1,Hobbies
+Anees,1,36-40,University,Urban,Unemployed,1,0,1,0,0,0,1,1,2,1,1,0,0,1,2,1,1,1,0,Hobbies
+Afzaal,1,36-40,University,Urban,Unemployed,1,1,0,1,1,1,1,2,1,0,0,1,1,0,0,0,1,0,1,Hobbies
+Ahmad,1,36-40,University,Rural,Unemployed,0,0,1,2,2,2,1,1,0,2,1,0,1,0,1,1,2,0,1,Magic Healer 
+Hassan,1,36-40,University,Urban,Unemployed,2,0,1,1,1,0,0,0,0,1,2,1,2,0,1,0,0,0,0,Hobbies
+Adnan,1,36-40,University,Urban,Unemployed,1,1,0,2,1,0,1,2,1,0,0,1,0,1,1,0,1,1,1,Hobbies
+Mateen,1,36-40,University,Urban,Unemployed,0,0,1,1,2,1,1,0,1,1,1,0,0,1,0,2,1,0,1,Hobbies
+Jasmin,0,36-40,University,Urban,Unemployed,1,2,0,2,2,0,1,0,1,0,1,1,1,2,1,1,2,2,2,Hobbies
+Imama,0,36-40,University,Rural,House Wife,1,2,2,2,2,2,2,1,2,2,1,2,2,1,1,0,1,2,2,Magic Healer 
+Arslan Jutt,1,36-40,University,Urban,Unemployed,1,0,1,1,0,1,0,0,1,1,1,1,0,1,1,1,0,1,2,Hobbies
+Khurram Akbar,1,36-40,University,Urban,Unemployed,2,0,1,0,1,0,0,0,2,0,1,1,1,1,0,1,1,0,0,Hobbies
+Hassan Raza,1,36-40,University,Urban,Unemployed,1,2,1,0,0,1,0,0,0,2,1,0,2,1,0,1,1,0,0,Hobbies
+Zaeem,1,36-40,University,Rural,Unemployed,1,2,0,1,0,0,0,1,0,2,1,2,0,1,0,2,0,1,0,Magic Healer 
+Muhammad Saber,1,36-40,University,Urban,Unemployed,1,0,1,0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,Hobbies
+Memona,0,36-40,University,Urban,Unemployed,1,0,0,0,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,Hobbies
+Zoya,0,36-40,University,Rural,Unemployed,0,2,1,1,0,1,0,2,2,2,2,2,1,1,0,2,0,1,0,Magic Healer 
+Alishba,0,36-40,University,Urban,House Wife,1,0,1,0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,Hobbies
+Samina Tabassum,0,36-40,University,Urban,Unemployed,1,0,0,1,0,0,2,0,1,2,1,2,1,1,0,0,0,1,0,Hobbies
+Abru Aslam,0,36-40,University,Urban,Unemployed,1,1,0,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,Hobbies
+Hamza Ali,1,36-40,University,Rural,Unemployed,0,1,1,1,0,0,1,1,0,2,1,0,1,0,1,0,1,0,1,Magic Healer 
+Tayyaba Rafique,0,36-40,University,Urban,Unemployed,0,0,2,0,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,Hobbies
+Tayaba Ahmed,0,36-40,University,Urban,House Wife,0,1,1,0,2,0,1,1,0,0,1,1,0,1,0,1,0,1,0,Hobbies
+Tayyaba,0,41-45,University,Urban,Unemployed,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,1,0,Hobbies
+Maida,0,41-45,University,Rural,Unemployed,1,2,0,0,1,1,0,0,0,1,1,0,1,1,0,1,1,0,0,Magic Healer 
+Iqra saed ,0,41-45,University,Urban,House Wife,1,0,1,0,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,Hobbies
+Huma,0,41-45,University,Urban,Unemployed,0,1,0,1,1,0,2,0,0,2,1,2,1,1,0,1,1,1,0,Hobbies
+Bukhtawar,0,41-45,University,Urban,Unemployed,1,0,1,0,1,1,0,0,0,1,1,1,1,1,0,1,1,0,0,Hobbies
+Khalid,1,41-45,University,Rural,Unemployed,1,0,0,0,1,0,2,0,2,2,1,2,0,1,2,1,1,0,0,Magic Healer 
+Muqeet,1,41-45,University,Urban,Unemployed,1,2,0,2,2,0,0,0,0,0,1,1,0,1,0,0,0,1,0,Hobbies
+Ahmad Yar,1,41-45,University,Urban,Unemployed,1,2,1,0,0,0,2,0,1,1,1,1,1,0,1,1,0,0,0,Hobbies
+Raja Aziz UR Rehman,1,41-45,University,Rural,Unemployed,1,0,0,2,0,0,2,1,1,1,1,1,2,1,0,2,0,0,0,Magic Healer 
+M Hussain,1,41-45,University,Urban,Unemployed,0,1,2,1,1,2,2,0,1,2,1,1,2,1,0,2,0,0,0,Hobbies
+Tahir Ali,1,41-45,University,Urban,Unemployed,1,0,1,0,0,2,0,2,2,2,1,1,1,1,0,2,0,2,0,Hobbies
+Zeeshan Shaukat,1,41-45,University,Rural,Unemployed,1,0,0,1,1,2,2,2,2,2,1,1,1,1,0,1,0,1,0,Magic Healer 
+Amir Khan,1,41-45,University,Urban,Unemployed,1,0,0,2,2,2,0,2,2,1,1,1,1,1,0,2,0,1,0,Hobbies
+Asia Luqman,0,41-45,University,Urban,Unemployed,1,0,0,2,2,2,2,0,1,2,1,1,0,1,0,0,0,2,0,Hobbies
+Prof. Kausar,0,41-45,University,Urban,House Wife,1,0,0,1,1,2,2,2,2,1,1,1,0,1,0,0,0,1,0,Hobbies
+Hina Khan,0,41-45,University,Urban,Unemployed,1,0,0,2,0,0,2,2,2,0,1,1,2,1,0,2,0,0,0,Hobbies
+Khansa Arif,0,41-45,University,Rural,Unemployed,1,0,2,2,2,2,0,2,1,1,1,1,0,1,0,1,0,1,0,Islamic Teaching/Islam/Quran
+Zulfisha Amir,0,41-45,University,Urban,Unemployed,1,0,0,1,1,2,2,0,1,2,1,1,2,1,0,2,0,1,0,Hobbies
+Sumera,0,41-45,University,Urban,Unemployed,0,0,2,0,2,1,1,1,0,0,1,2,1,0,1,0,1,1,1,Hobbies
+Zeba,0,41-45,University,Urban,House Wife,1,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,Hobbies
+Attia Muneer,0,41-45,University,Urban,Unemployed,1,0,1,1,0,1,1,1,1,0,0,1,1,1,1,0,0,1,0,Psychiatrist/ Psychologist
+Afia Fida,0,41-45,University,Rural,Unemployed,0,0,1,2,0,0,1,1,0,1,0,2,0,1,1,0,0,1,1,Islamic Teaching/Islam/Quran
+Faiqa,0,41-45,University,Urban,Unemployed,0,1,1,1,2,1,0,1,1,1,1,1,1,0,0,1,1,1,0,Psychiatrist/ Psychologist
+Jaweria,0,41-45,University,Urban,Unemployed,1,1,0,1,1,0,1,0,1,1,1,0,0,0,1,0,1,2,0,Psychiatrist/ Psychologist
+Mumtaz,0,41-45,University,Urban,House Wife,0,0,1,1,1,2,0,1,2,0,1,0,1,1,0,2,0,1,2,Psychiatrist/ Psychologist
+Farzana,0,41-45,University,Urban,Unemployed,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Psychiatrist/ Psychologist
+Abida Sarfraz,0,41-45,University,Rural,Unemployed,1,1,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,Islamic Teaching/Islam/Quran
+Haider,1,41-45,University,Urban,Unemployed,0,1,0,0,1,1,1,1,0,0,1,2,1,0,0,0,1,1,1,Psychiatrist/ Psychologist
+Iqrash,1,41-45,University,Urban,Unemployed,1,1,1,1,0,0,0,0,2,0,0,2,0,0,1,1,0,1,1,Psychiatrist/ Psychologist
+Ahtisham Anwar,1,41-45,University,Rural,Unemployed,1,1,1,1,2,0,1,0,0,1,0,0,1,1,0,1,0,1,0,Islamic Teaching/Islam/Quran
+Rameez,1,41-45,University,Urban,Unemployed,1,1,0,0,1,0,1,0,1,2,1,0,1,2,1,1,0,1,0,Psychiatrist/ Psychologist
+Younas,1,41-45,University,Urban,Unemployed,0,1,1,1,2,1,1,0,0,1,1,1,0,0,0,0,1,1,1,Psychiatrist/ Psychologist
+Farooq ,1,41-45,University,Rural,Unemployed,0,1,1,0,0,2,1,0,1,0,0,2,0,2,1,1,0,0,0,Islamic Teaching/Islam/Quran
+Kashif Imran,1,41-45,University,Urban,Unemployed,1,0,0,0,1,0,2,0,1,2,2,0,1,1,0,0,0,1,0,Psychiatrist/ Psychologist
+Asad,1,41-45,University,Urban,Unemployed,1,0,1,0,0,0,0,0,1,1,1,0,1,1,1,1,0,1,0,Psychiatrist/ Psychologist
+Abdul Shakoor,1,41-45,University,Rural,Unemployed,1,0,1,0,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,Islamic Teaching/Islam/Quran
+Mikaal Khan,1,41-45,University,Urban,Unemployed,1,2,1,0,0,1,0,0,0,2,1,0,2,1,0,1,1,0,0,Psychiatrist/ Psychologist
+Afaq Sharjeel,1,41-45,University,Rural,Unemployed,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0,1,1,1,0,Islamic Teaching/Islam/Quran
